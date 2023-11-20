@@ -1,160 +1,117 @@
-import csv
 import re
+import csv
 
-user_input = input("Enter the string to replace [x]: ")
+# Function to check if a line contains a wine name
+def is_wine_name(line):
+    return bool(re.match(r'^[A-Z0-9\(\) ]+$', line))
 
-def is_wine_info(line):
-    return line.strip().startswith(("Bianco", "Rosso", "Rosato"))
+# Function to extract the score and clean the wine name
+def extract_score_and_clean_name(wine_name):
+    match = re.search(r'\((\d+)\)', wine_name)
+    if match:
+        score = match.group(1)  # Extract the score
+        cleaned_name = re.sub(r'\(\d+\)', '', wine_name).strip().title()  # Remove the score from the name
+        return cleaned_name, score
+    return wine_name.title(), ''  # Return the original name and empty score if no match
 
-def is_winery_end(line):
-    return line.strip() == "WINERYEND"
+# Function to extract grape varieties
+def extract_grapes(line):
+    match = re.search(r' - (.*?) \|', line)
+    if match:
+        grapes = match.group(1).replace(', ', ' – ')
+        return grapes
+    return ''
 
-with open(f'static/pdf/vitae22-{user_input}.txt', 'r', encoding='utf-8') as file:
+# Function to extract price
+def extract_price(line):
+    match = re.search(r'€(.*?) ', line)
+    if match:
+        price = match.group(1)
+        return price
+    return ''
+
+# Function to extract Alcohol
+def extract_alcohol(line):
+    match = re.search(r'Alc.(.*?)%', line)
+    if match:
+        alcohol = match.group(1)
+        return alcohol
+    return ''
+
+# Function to extract Aging
+def extract_aging(line):
+    match = re.search(r'Mat. (.*?)\n', line)
+    if match:
+        aging = match.group(1)
+        return aging
+    return ''
+
+# Function to extract bottles
+def extract_bottles(line):
+    match = re.search(r'Bt.(.*?) ', line)
+    if match:
+        bottles = match.group(1).replace('.', '')
+        if len(bottles) > 3:  # Check if the length is more than three characters
+            bottles = bottles[:-3]  # Remove the last three characters
+        return bottles
+    return ''
+
+# Function to process tasting notes and extract pairing
+def process_tasting_notes(tasting_notes):
+    # Check if 'tasting_notes' starts with 'abbinamento'
+    if tasting_notes.lower().startswith('abbinamento'):
+        pairing = tasting_notes.replace('abbinamento ', '', 1).rstrip('. ')
+        tasting_notes = ''
+    else:
+        # Split the notes into sentences
+        sentences = tasting_notes.split('. ')
+        if len(sentences) > 1:
+            # Check if the last sentence is short, likely a pairing suggestion
+            if len(sentences[-1]) < 50:  # Assuming pairing suggestions are shorter
+                pairing = sentences[-1].rstrip('. ')
+                tasting_notes = ' '.join(sentences[:-1])
+            else:
+                # Extract the part between the last and penultimate period
+                pairing = sentences[-2].rstrip('. ')
+                tasting_notes = ' '.join(sentences[:-2])
+        else:
+            pairing = ''
+    return tasting_notes, pairing
+
+# Your text file containing the wine list
+file_path = 'static/pdf/vitae22-piemonte.txt'
+winery_name = ''
+wines = []
+
+# Read the file and process the text
+with open(file_path, 'r') as file:
     lines = file.readlines()
 
-wine_data = []
-winery = ''
-current_winery = ''
-current_name = ""
-current_review = ""
-current_pairing = ""
-current_price = ""
-current_aging = ""
-current_alcohol = ""
-current_bottles = "" 
-current_grapes = ""  # Initialize variable for grapes
-current_scoreAIS = "" 
-
-for i in range(len(lines) - 1):
+i = 0
+while i < len(lines):
     line = lines[i].strip()
-    next_line = lines[i + 1].strip()
+    if line == 'WINERYEND':  # Check for the winery name end delimiter
+        winery_name = lines[i + 1].strip().title()  # Read the next line as winery name
+        i += 1  # Skip the winery name line
+    elif is_wine_name(line):  # Check for wine names
+        cleaned_name, score = extract_score_and_clean_name(line)
+        grapes = extract_grapes(lines[i + 1]) if (i + 1) < len(lines) else '' # Extract grapes
+        price = extract_price(lines[i + 1]) if (i + 1) < len(lines) else ''
+        bottles = extract_bottles(lines[i + 1]) if (i + 1) < len(lines) else ''
+        alcohol = extract_alcohol(lines[i + 1]) if (i + 1) < len(lines) else ''
+        aging = extract_aging(lines[i + 1]) if (i + 1) < len(lines) else ''
+        # Assuming the third line after the wine name contains the tasting notes
+        original_tasting_notes = lines[i + 2].strip() if (i + 2) < len(lines) else ''
+        tasting_notes, pairing = process_tasting_notes(original_tasting_notes)
+        wines.append((winery_name, cleaned_name, score, grapes, tasting_notes, pairing, price, bottles, alcohol, aging))
+        i += 2  # Skip the next two lines (expecting them not to be wine names)
+    i += 1  # Move to the next line
 
-
-
-
-
-    
-    
-    # print(f"Processing line {i}: {line}") 
-    if is_winery_end(line):
-            winery = lines[i + 1].strip() if i + 1 < len(lines) else ''
-            print(f"{winery}")
-
-    if line == line.upper() and line and not is_winery_end(line):
-        if current_name:
-            current_name += " " + line
-        else:
-            current_name = line
-            current_winery = winery if winery else lines[0].strip()
-
-    if reading_review and not is_wine_info(line) and not line == line.upper():
-        current_review += " " + line.strip()
-
-    price_match = re.search(r'€\s*(\d+[\.,]?\d*)', line)
-    if price_match:
-        current_price = price_match.group(1).replace(',', '.')
-
-    mat_match = re.search(r'Mat\.\s*(.*)', line)
-    if mat_match:
-        current_aging = mat_match.group(1)
-        reading_review = True
-        current_review = ""
-
-    alc_match = re.search(r'Alc\.\s*(.*?)\s*(?:\||$)', line)
-    if alc_match:
-        current_alcohol = alc_match.group(1)
-
-    bt_match = re.search(r'Bt\.\s*(.*?)\s*(?:\||$)', line)  # Search for bottle count
-    if bt_match:
-        current_bottles_raw = bt_match.group(1)
-        try:
-            current_bottles_number = int(current_bottles_raw.replace(',', '').replace('.', ''))
-            if current_bottles_number >= 1000:
-                current_bottles = str(current_bottles_number // 1000)  # Keep only the thousands
-            else:
-                current_bottles = str(current_bottles_number)
-        except ValueError:
-            current_bottles = current_bottles_raw  
-
-    if is_wine_info(line):
-        grapes_match = re.search(r'- (.*?)\s*\|', line)
-        if grapes_match:
-            current_grapes = grapes_match.group(1).replace(", ", " – ")
-
-    if current_name and (is_wine_info(next_line) or is_winery_end(next_line)):
-        vintage_match = re.search(r'\b\d{4}\b', current_name)
-        if vintage_match:
-            vintage = vintage_match.group(0)
-            current_name = current_name.replace(vintage, '').strip()
-        else:
-            vintage = '2022'
-
-         # Check if the wine name starts with "(**)"
-        scoreAIS_match = re.search(r'\((.*?)\)', current_name)
-        if scoreAIS_match:
-            # Extract content within parentheses and assign it to scoreAIS
-            current_scoreAIS = scoreAIS_match.group(1)
-
-            # Remove the matched string and everything before it from the wine name
-            current_name = current_name.split(f'({current_scoreAIS})', 1)[1].strip()
-
-        # Remove "(**)" and its content from the wine name
-        current_name = current_name.replace(f"(**){current_scoreAIS}", '').strip()
-        
-        if len(current_review) < 70 and "abbinamento" in current_review.lower():
-            current_pairing = current_review.replace("abbinamento", "").strip()
-            current_review = ""
-        else:
-            periods = [m.start() for m in re.finditer(r'\.', current_review)]
-            if len(periods) > 1:
-                penultimate_period = periods[-2]
-                current_pairing = current_review[penultimate_period+1:].strip()
-                current_review = current_review[:penultimate_period+1].strip()
-        
-        wine_data.append([current_name.title(), current_winery, vintage, current_review.replace("- ", "").strip(), current_pairing.strip(), current_price.strip(), current_aging.strip(), current_alcohol.strip(), current_bottles.strip(), current_grapes.strip(), current_scoreAIS.strip()])
-        current_name = ""
-        current_winery = ""
-        current_review = ""
-        current_pairing = ""
-        current_price = ""
-        current_aging = ""
-        current_alcohol = ""
-        current_bottles = ""
-        current_grapes = ""  # Reset grapes for next entry
-        current_scoreAIS = ""
-        reading_review = False
-
-columns = ['Entry', 'Ref', 'OLDRS', 'RANK', 'RS', 'RAWQP', 'QPRANK', 'QP', 'RANK2', 'RS2', 'RAWQP2', 'QP2', 
-               'RANK3', 'RS3', 'RAWQP3', 'QP3', 'RawAvg', 'RatingYear', 'Vintage', 'Qterms', 'FullName', 
-               'AppellationLevel', 'AppellationName', 'WineryName', 'Region', 'EvaluationAvg', 'Price', 'Grapes', 
-               'Pairing', 'ScoreAvg', 'EvaluationAIS', 'ScoreAIS', 'EvaluationGR', 'ScoreGR', 'SLC', 'TLC', 
-               'WineTypeIT', 'WineType', 'Alcohol', 'Bottles', 'AgingMonths', 'AgingTypeIT', 'AgingType', 'Notes',
-               'Tasting Notes', 'Country', 'VintageNV', 'Method', 'Sweetness']
-
-with open(f'static/pdf/vitae22-{user_input}.csv', 'w', newline='', encoding='utf-8') as csvfile:
-    csvwriter = csv.writer(csvfile)
-    csvwriter.writerow(columns)
-    for name, winery, vintage, review, pairing, price, aging, alcohol, bottles, grapes, scoreAIS in wine_data:
-        row = [''] * len(columns)
-        row[columns.index('FullName')] = name
-        row[columns.index('WineryName')] = winery.title()
-        row[columns.index('Vintage')] = vintage
-        row[columns.index('Tasting Notes')] = review
-        row[columns.index('Pairing')] = pairing
-        row[columns.index('Price')] = price
-        row[columns.index('AgingMonths')] = aging
-        row[columns.index('Alcohol')] = alcohol
-        row[columns.index('Bottles')] = bottles
-        row[columns.index('Grapes')] = grapes
-        row[columns.index('ScoreAIS')] = scoreAIS
-        # Hardcoded content
-        row[columns.index('RatingYear')] = '2022'
-        row[columns.index('Entry')] = '2'
-        row[columns.index('Region')] = user_input.title()
-        row[columns.index('Country')] = 'Italy'
-        row[columns.index('EvaluationGR')] = 'nd'
-        row[columns.index('ScoreGR')] = 'nd'
-
-        csvwriter.writerow(row)
-
-print("Wine names, vintages, tasting notes, pairings, prices, alcohol contents, bottle counts, and grape varieties have been extracted to vitae22-vda.csv")
+# Now, we will write the extracted information to a CSV file
+with open('static/pdf/vitae22-piemonte.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    # Writing the header of the CSV
+    writer.writerow(['FullName', 'Winery', 'ScoreAIS', 'Grapes', 'Tasting Notes', 'Pairing', 'Price', 'Bottles', 'Alcohol', 'Aging'])
+    # Writing the wine data
+    for wine in wines:
+        writer.writerow(wine)

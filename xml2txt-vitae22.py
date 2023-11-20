@@ -61,7 +61,7 @@ with open(output_file_path, 'w', encoding='utf-8') as file:
                     second_column_texts.append(text_content)
 
         if second_column_texts:
-            first_column_texts.append("WINERYEND\nWINERYSTART\n")
+            first_column_texts.append("WINERYEND\n")
 
         page_text = ' '.join(first_column_texts + second_column_texts)
 

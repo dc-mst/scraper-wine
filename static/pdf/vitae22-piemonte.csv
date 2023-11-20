@@ -1,1 +1,868 @@
-Entry,Ref,OLDRS,RANK,RS,RAWQP,QPRANK,QP,RANK2,RS2,RAWQP2,QP2,RANK3,RS3,RAWQP3,QP3,RawAvg,RatingYear,Vintage,Qterms,FullName,AppellationLevel,AppellationName,WineryName,Region,EvaluationAvg,Price,Grapes,Pairing,ScoreAvg,EvaluationAIS,ScoreAIS,EvaluationGR,ScoreGR,SLC,TLC,WineTypeIT,WineType,Alcohol,Bottles,AgingMonths,AgingTypeIT,AgingType,Notes,Tasting Notes,Country,VintageNV,Method,Sweetness
+FullName,Winery,ScoreAIS,Grapes,Tasting Notes,Pairing,Price,Bottles,Alcohol,Aging
+Anna Maria Abbona,Dogliani Superiore Maioli 2019,92,Dolcetto 100%,"Rubino profondo, balenanti sussulti purpurei Naso denso, polposo: mora e mirtillo, lampone e sciroppo d'amarena Iris e glicine, granatina e cola: complessità a cui il tempo renderà merito Sorso ampio ma teso, austero il tannino e gustosa la sapidità Golose persistenze con frutta a bacca rossa Superbo",Ravioli del plin ai tre arrosti,16,8,"14,5",Acciaio 20 mesi
+Anna Maria Abbona,Barolo Bricco San Pietro 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,55,6,"14,5",Legno 30 mesi
+Anna Maria Abbona,Langhe Nascetta Netta 2020,,Nascetta 100%,,Piatti di verdure,14,7,"13,5",Acciaio 8 mesi
+Anna Maria Abbona,Langhe Nebbiolo 2018,,Nebbiolo 100%,,Risotti di terra,18,10,14,Legno 12 mesi
+Orlando Abrigo,Barbaresco Meruzzano 2018,,Nebbiolo 100%,"Granato fitto Giovane, ma ha già la capacità di sedurre, con nitidi profumi varietali di lampone, mora e viola che si rarefanno in sensazioni d'arancia rossa, spezia scura, nuance fumé Vigoroso e succoso al palato, ha dalla sua una stimolante sapidità finale che amplifica la scia gustativa",Filetto in crosta,26,2,"14,5",Legno 12 mesi
+Orlando Abrigo,Barbaresco Montersino 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,49,8,"14,5",Legno 15 mesi
+Orlando Abrigo,Barbaresco Rongalio Riserva 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,58,8,"14,5",Legno 20 mesi
+Marco E Vittorio Adriano,Barbaresco Basarin Riserva 2016,,Nebbiolo 100%,"Granato L’olfazione colpisce per leggiadra profondità: violetta, melograno, tratti balsamici e vegetali che aprono il respiro Non manca un filo di nobile austerità speziata, che s'accentua in bocca, dove i tannini fanno gran parte del lavoro tattile e gustativo Sorso caldo ma di buona freschezza",Pernice al cumino,41,5,15,Acciaio 12 mesi e Legno 24 mesi
+Marco E Vittorio Adriano,Dudes Brut Rosato,,Freisa 100%,,Piatti di verdure,13,5,12,
+Fratelli Alessandria,Barolo Monvigliero 2017,94,Nebbiolo 100%,"Eccelle in tutto: profumi, sapore, equilibrio, sostanza L'avvio è delicato ed esprime i toni classici del nebbiolo, fiori passiti, rosa, viola, spezie fini e rugginose Poi si scioglie il frutto, dolce e rosso, di ciliegia e fragolina, di erbe, menta e confetture Al gusto tannini sfumati e succoso finale",Lepre in casseruola,60,6,15,Legno 32 mesi
+Fratelli Alessandria,Barolo Gramolere 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,50,6,"14,5",Legno 32 mesi
+Fratelli Alessandria,Barolo San Lorenzo Di Verduno 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,4,15,Legno 32 mesi
+Fratelli Alessandria,Verduno Pelaverga Speziale 2020,,Pelaverga piccolo 100%,,Risotti di terra,14,21,13,
+Fratelli Alessandria,Barolo Del Comune Di Verduno 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,36,20,15,
+Fratelli Alessandria,Langhe Nebbiolo Prinsiot 2019,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,16,10,14,
+Giovanni Almondo,Roero Arneis Bricco Delle Ciliegie 2020,93,Arneis 100%,"Giallo paglierino brillante Tipicissimo nel proporre acacia, biancospino, mela, erbe aromatiche, gesso e pietra L'assaggio lo rivela ricco, persistente e appagante La sapidità è tutta territoriale e l'equilibrio da manuale Ottimo da subito, eccezionale se lo si aspetterà almeno un paio d'anni",Coda di rospo allo zafferano,18,50,"13,5",Acciaio 8 mesi
+Giovanni Almondo,Roero Arneis Le Rive Del Bricco 2019,,Arneis 100%,,Piatti di pesce,22,5,13,Acciaio 10 mesi
+Giovanni Almondo,Roero 2019,,Nebbiolo 100%,,Carni bianche o da cortile,20,6,14,Legno 18 mesi
+Antoniolo,Gattinara Le Castelle 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,40,3,14,Legno 24 mesi
+Anzivino,Gattinara 2017,92,Nebbiolo 100%,"Granato di profonda luminosità Il profilo olfattivo rivela grande intensità e complessità, dimostrandosi avvincente per espressività che si articola su un ventaglio di erbe aromatiche e balsamiche, timo, assenzio, alloro cui si susseguono profumi di viola, rosa e frutti di sottobosco All'assaggio si propone fresco e dinamico, senza rinunciare ad un proporzionato volume e al nobile tannino Ottima la chiusura e lunga persistenza",Cinghiale al civet e polenta,20,9,"13,5",Acciaio 2 mesi e Legno 26 mesi
+Anzivino,Gattinara Cesare Riserva 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,70,959,"14,5",Acciaio 6 mesi e Legno 36 mesi
+Anzivino,Coste Della Sesia Nebbiolo 2017,,Nebbiolo 100%,,"Zuppe, minestre o vellutate",15,5,"13,5",Acciaio 12 mesi e Legno 24 mesi
+Arnaldo Rivera,Barolo Rocche Di Castiglione 2017,,Nebbiolo 100%,"Granato fitto e vivace Naso avvolgente e variegato nei toni, inizialmente intensi di frutti di bosco tra cui fragolina, lampone e ribes, per poi proseguire su toni più balsamici di menta ed eucalipto e agrumati di chinotto Il sorso è di carattere, caldo e morbido, con tannino incisivo e finale fresco",Costata di manzo alla brace,65,2,"14,5",Legno 32 mesi
+Arnaldo Rivera,Barolo Castello 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,5,"14,5",Legno 32 mesi
+Arnaldo Rivera,Barolo Ravera 2017,,Nebbiolo 100%,,Risotti di terra,45,5,"14,5",Legno 32 mesi
+Arnaldo Rivera,Barolo Monvigliero 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,5,"14,5",Legno 32 mesi
+L'Astemia Pentita,Barolo Terlo 2017,91,Nebbiolo 100%,"Granato luminoso Esordisce con intensi profumi balsamici che lasciano il passo a note di confettura di visciole, violetta, liquirizia, spezie officinali, aghi di pino e radice Il sorso è coinvolgente Il tannino lascia spazio all'acidità che agevola la beva di questo vino robusto, di grande personalità",T-Bone di Scottona con patate al forno,70,1,"14,5",Legno 36 mesi
+L'Astemia Pentita,Barolo Cannubi 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,70,2,"14,5",Legno 36 mesi
+L'Astemia Pentita,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,32,6,"14,5",Legno 36 mesi
+Azelia,Barolo Cerretta 2017,96,Nebbiolo 100%,"Un Cerretta superbo Naso ricco e ampio, austero nelle note di fiori passiti e confetture, appena speziato e dolcemente fruttato Le note sono di rosa e violetta, pepe e bacche, ciliegia, fragola e confetture Morbida e armoniosa, è una bocca importante e saporita, con tannini sfumati e impeccabile sviluppo",Diaframma di Angus,105,3,"14,5",Legno 36 mesi
+Azelia,Barolo San Rocco 2017,93,Nebbiolo 100%,"Granato tipico, è un San Rocco molto intenso, con naso dolce di frutta e spezie, fiori passiti e menta A note di viola e fragola macerata fanno eco sentori di ciliegia e lampone, frutta zuccherata, lavanda e arancia sanguinella La bocca non manca e risponde con energia e pienezza, con tannini fini e sfumati",Costata di manzo,90,6,"14,5",Legno 24 mesi
+Azelia,Barolo Margheria 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,90,6,"14,5",Legno 36 mesi
+Azelia,Barolo Bricco Fiasco 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,90,5,"14,5",Legno 24 mesi
+Azelia,Barolo 2017,,Nebbiolo 100%,,Risotti di terra,35,24,"14,5",Legno 30 mesi
+Barale,Barolo Bussia Riserva 2014,91,Nebbiolo 100%,"Di quei vini che piacciono, si bevono e si godono Il naso è integro, quasi antico, dal tono floreale e speziato, caldo nei sentori di frutta matura e confetture, agrumi, menta e aghi di pino Al gusto conquista per il sapore pieno e tanta armonia, tannini dolci e lunga e acida persistenza",Fagiano in salmì,65,1,14,Legno 36 mesi
+Barale,Barbaresco Serraboella 2018,,Nebbiolo 100%,,Risotti di terra,35,3,14,Legno 24 mesi
+Barale,Barolo Castellero 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,50,4,14,Legno 36 mesi
+Barale,Barolo Del Comune Di Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,32,8,14,Legno 36 mesi
+Barale,Langhe Nebbiolo 2020,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,18,15,14,Legno 12 mesi
+Batasiolo,Barolo Briccolina 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,60,8,"14,5",Acciaio 12 mesi e Legno 30 mesi
+Batasiolo,Barolo Bussia Vigneto Bofani 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,40,13,"14,5",Legno 30 mesi
+Batasiolo,Barolo Boscareto 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,40,13,"14,5",Legno 30 mesi
+Batasiolo,Barbaresco 2017,,Nebbiolo 100%,,Carni bianche o da cortile,25,60,14,Acciaio 6 mesi e Legno 18 mesi
+Bava,Barolo Scarrone 2015,,Nebbiolo 100%,"Granato luminoso Olfatto caratterizzato da profumi di chicchi di melograno, arance amare, fiori rossi pestati, liquirizia, spezie fini, genziana, assenzio e chiude un lieve cenno ferroso In bocca è gustoso, lungo e avvolgente, supportato da una decisa ma mai invasiva trama tannica",Guancia brasata al barolo,35,16,14,Legno 30 mesi
+Bava,Piemonte Chardonnay Thou Bianc 2020,,Chardonnay 100%,,Piatti di verdure,10,30,"12,5",Acciaio 6 mesi
+Bera,Barbaresco Serraboella 2018,,Nebbiolo 100%,"Vivido colore granato Esemplare nel mostrare il grande potenziale del cru Serraboella: fragolina di bosco, eucalipto, menta fresca, pepe, violetta Tutta gioventù che ritroviamo nel sorso intenso, gustoso, persistente e caratterizzato da un tannino vivo che promette lunga evoluzione",Agnello arrosto,35,3,14,Legno 24 mesi
+Bera,Langhe Rosso Sassisto 2018,,Barbera 50% – Nebbiolo 50%,,Carni rosse o selvaggina,22,4,"14,5",Legno 24 mesi
+Bera,Alta Langa Brut 2015,,"Chardonnay 50% – Pinot nero 50%  Alc.12,5%",,"Crostacei, molluschi o crudità",21,6,"12,5",
+Bera,Barbaresco 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,26,5,14,Acciaio 12 mesi e Legno 24 mesi
+Bersano,Nizza Generala Riserva 2017,,Barbera 100%,"Rubino quasi granato Progressioni che iniziano con more mature, mirtilli, amarene sciroppate, poi spezie dolci, quali cannella, stecca di vaniglia e gommosa di liquirizia, e le foglioline di menta a chiudere Massa gustativa di sostanza, calda, avvolta da tannini morbidi e raffinata persistenza",Cannelloni ripieni alla carne,30,50,15,Legno 12 mesi
+Bersano,Nizza Cremosina 2019,,Barbera 100%,,Carni rosse o selvaggina,15,20,"14,5",Legno 12 mesi
+Bersano,Gavi Del Comune Di Gavi 2020,,Cortese 100%,,Piatti di pesce,14,80,"12,5",
+Enzo Boglietti,Barolo Arione 2017,93,Nebbiolo 100%,"Vino di grande finezza, giocato sui dettagli e splendida definizione Il naso è ampio e sciolto, con base fruttata di gran pregio e accenni speziati e floreali a corollario Si sentono menta, viola, rosa passita, ciliegia, confetture, bacche, mou, cacao La bocca è fresca e ordinata con tannino fine e sfumato",Filetto al pepe nero,85,3,"14,5",Legno 30 mesi
+Enzo Boglietti,Barolo Brunate 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,85,2,"14,5",Legno 30 mesi
+Enzo Boglietti,Barolo Del Comune Di La Morra 2017,,Nebbiolo 100%,,Risotti di terra,45,6,14,Legno 30 mesi
+Gilberto Boniperti,Colline Novaresi Nebbiolo Carlin Ii 2018,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,15,8,13,Acciaio 18 mesi
+Borgogno,Barolo Liste 2016,93,Nebbiolo 100%,"Granato tenue Già ora caleidoscopico, ed è solo all'inizio: profumi di fragolina, radice di china, raffinati tratti vegetali, sfioritura di viola, menta essiccata, liquirizia fresca.. Bocca calda, di robusta impalcatura tannica, potente ma già in fascinoso equilibrio per tutta la (gran) durata del sorso",Anatra al forno con pere martine,79,6,"14,5",Legno 44 mesi
+Borgogno,Barolo Cannubi 2016,,Nebbiolo 100%,,Formaggi stagionati o erborinati,99,6,"14,5",Legno 44 mesi
+Borgogno,Barolo Riserva 2014,,Nebbiolo 100%,,Carni rosse o selvaggina,118,20,14,Legno 69 mesi
+Borgogno,Colli Tortonesi Timorasso Derthona,,Timorasso 100%,,Formaggi freschi o a pasta filata,39,10,14,Acciaio 12 mesi
+Borgogno,Barolo 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,53,30,14,Legno 42 mesi
+Borgogno,Langhe Riesling Era Ora 2019,,Riesling 100%,,Piatti di pesce,26,8,"12,5",Acciaio 10 mesi
+Boroli,Barolo Brunella 2017,91,Nebbiolo 100%,BAROLO CEREQUIO 2017,,85,11,14,
+Boroli,Barolo Villero 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,80,5,14,Legno 24 mesi
+Agostino Bosco,Barolo Del Comune Di La Morra 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,27,2,15,Legno 24 mesi
+Agostino Bosco,Barolo Neirane 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,34,2,15,Legno 24 mesi
+Agostino Bosco,Langhe Nebbiolo Rurem 2019,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,18,3,"13,5",Legno 14 mesi
+Luigi Boveri,Colli Tortonesi,,Timorasso 100%,,Piatti di pesce,28,4,"14,5",Acciaio 12 mesi
+Azienda Agricola  Bovio Gianfranco,Barolo Arborina 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,48,3,15,Legno 24 mesi
+Azienda Agricola  Bovio Gianfranco,Barolo Gattera 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,48,3,15,Legno 24 mesi
+Azienda Agricola  Bovio Gianfranco,Barolo 2017,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,30,8,"14,5",Legno 22 mesi
+Brezza,Barolo Sarmassa 2017,92,Nebbiolo 100%,"Dal taglio olfattivo classico e raffinato, propone i tipici sentori del nebbiolo della tradizione, cioè spezie fini, fiori rossi e piccoli frutti tra cui croccante ciliegia, rose e viole, erbe e noce moscata Al gusto non manca di struttura e carisma, rispondendo con corpo e tannini, proporzione e lunghezza",Carrè di agnello in salsa alle erbe,46,6,"14,5",Legno 24 mesi
+Brezza,Barolo Cannubi 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,42,9,"14,5",Legno 24 mesi
+Brezza,Barolo Castellero 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,40,5,14,Legno 24 mesi
+Bricco Maiolica,Langhe Chardonnay Pensiero Infinito 2017,,Chardonnay 100%,,Formaggi stagionati o erborinati,36,,14,Legno 30 mesi
+Bricco Maiolica,Langhe Pinot Nero Perlei 2018,,Pinot nero 100%,,"Zuppe, minestre o vellutate",22,4,"13,5",Legno 9 mesi
+Broglia,Gavi Del Comune Di Gavi La Meirana 2020,,Cortese 100%,"Paglierino luminoso Intensi profumi di fiori e frutta: acacia, ginestra, fiori di montagna, mela renetta, ananas, arancia bionda, albicocca, poi il mazzetto di erbe aromatiche e la selce umida Palato gustoso e di sostanza che mostra tanta freschezza, sapidità e lunghe permanenze gusto-olfattive",Trofie al pesto,15,300,"13,5",Acciaio 6 mesi
+Broglia,Gavi Del Comune Di Gavi Villa Broglia 2020,,Cortese 100%,,Formaggi freschi o a pasta filata,20,30,"13,5",Acciaio 6 mesi
+Bugia Nen,Barolo Cerretta 2017,,Nebbiolo 100%,"Cerretta di gran livello, profondo nel tono olfattivo di frutta rossa fresca di superba espressione, note di pesca, erbe, tanta fragola e confetture La bocca è importante e si espande equilibrata e precisa, con tannini fini e lungo sapore Dal 2029",Spezzatino di cervo,58,3,14,Legno 24 mesi
+Piero Busso,Barbaresco San Stunet 2017,93,Nebbiolo 100%,"La prima volta del San Stunet di Treiso E’ un 2017 che unisce l'eleganza al piglio austero del terroir Il naso è sciolto e ampio, decisamente fruttato e floreale, con intriganti note di noce moscata e cipria che accompagnano la pura massa fruttata La struttura è piena, l'equilibrio come da manuale",Prosciutto al forno in salsa di Madeira,48,4,"14,5",Legno 24 mesi
+Piero Busso,Barbaresco Albesani Vigna Borgese,92,Nebbiolo 100%,"Fine, delicato: un Albesani in gran forma Il naso è delicato, giocato sui dettagli e sulla precisione offrendosi fruttato di ciliegia, lampone e arancia sanguinella e poi complesso nelle note di erbe e foglie secche, aghi di pino e liquirizia La bocca è importante e gustosa, dal tannino tosto e maturo",Arista di maiale,50,3,"14,5",Legno 24 mesi
+Ca' Del Baio,Barbaresco Asili 2018,93,Nebbiolo 100%,"Granato L'olfazione è un tripudio di giovanili ma aristocratiche sensazioni nebbiolizzanti: lampone e melograno, violetta, menta, erbe officinali e aromatiche, soffusioni speziate Impatto fruttato anche al palato, con equilibrato scheletro tannico e finale lunghissimo, continuo",Spiedini di cinghiale,39,9,15,Legno 24 mesi
+Ca' Del Baio,Barbaresco Asili Riserva 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,79,1,"14,5",Legno 24 mesi
+Ca' Del Baio,Barbaresco Vallegrande 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,28,12,15,Legno 24 mesi
+Ca' D'Gal,Asti,,Moscato bianco 100%,,Dolci al cucchiaio o a base di frutta,14,15,7,
+Ca' Viola,Barolo Sottocastello Di Novello 2017,93,Nebbiolo 100%,"Granato fine ed esemplare Profilo olfattivo purissimo e integro, con un incipit floreale dominato dalla violetta, prosegue fruttato di fragolina, ribes e confettura di lamponi, terminando con uno sbuffo mentolato Al gusto è fine ed elegante, con tannini fitti e rotondi e lunga persistenza sapida",Filetto di manzo alla griglia,65,4,"14,5",Legno 36 mesi
+Ca' Viola,Barolo Caviot 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,6,"14,5",Legno 24 mesi
+Ca' Viola,Langhe Nebbiolo Giblin 2019,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,24,8,"14,5",Legno 15 mesi
+Cantina Del Pino,Barbaresco Albesani 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,50,3,15,Legno 24 mesi
+Cantina Del Pino,Barbaresco 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,35,13,"14,5",Legno 24 mesi
+Cantina Del Pino,Langhe Nebbiolo 2020,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,15,9,14,Acciaio 9 mesi
+Cantina Produttori Nebbiolo Di Carema,Villa Nova,,Nebbiolo 100%,,"Crostacei, molluschi o crudità",15,2,"12,5",
+Cascina Amalia,Barolo Le Coste Di Monforte 2017,,Nebbiolo 100%,"Colore rosso granato Al naso esprime il classico bouquet floreale in stile Monforte Si riconoscono profumi di rosa, violetta, lampone, ribes rosso, pesca, menta, pepe bianco, liquirizia e anice stellato In bocca è ricco di gusto e sostenuto da un'intensa trama tannico-sapida Chiude su toni balsamici",Spezzatino agli aromi con patate,40,3,15,Legno 32 mesi
+Cascina Amalia,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Carni bianche o da cortile,16,6,"13,5",Acciaio 18 mesi
+Cascina Amalia,Langhe Dolcetto 2020,,Dolcetto 100%,,Primi piatti di pasta o pasta fresca ripiena,10,6,"13,5",Acciaio 9 mesi
+Cascina Amalia,Langhe Rossese Bianco 2019,,Rossese bianco 100%,,Piatti di pesce,16,2,13,Acciaio 12 mesi e Legno 12 mesi
+Cascina Bongiovanni,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,35,10,14,Acciaio 18 mesi e Legno 18 mesi
+Cascina Bongiovanni,Barolo Riserva 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,60,40,15,Acciaio 12 mesi e Legno 36 mesi
+Cascina Bongiovanni,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Carni bianche o da cortile,18,4,14,Acciaio 6 mesi e Legno 12 mesi
+Cascina Castella,Langhe Rossese Bianco 2020,,Rossese bianco 100%,"Giallo paglierino netto Al naso presenta una fine miscellanea di note floreali e fruttate, a partire da rosa e biancospino fino al melone e alla pesca bianca e termina con un ricordo mentolato Al palato è corrispondente con ritorni balsamici, piacevolmente fresco e di lunga persistenza sapida",Trota al cartoccio,12,600,"12,5",
+Cascina Chicco,Roero Valmaggiore Riserva 2018,,Nebbiolo 100%,"Luminoso rosso granato Naso fine e sussurrato, che propone fiori ancora freschi, fragolina macerata, caramellina inglese al lampone, pesca, cioccolato al latte, soffi balsamici, pepe bianco Il tannino è ricco e misurato; la struttura importante è ben  contenuta dalla freschezza e soprattutto dalla sapidità",Cosciotto d'agnello arrosto,18,10,"14,5",Legno 18 mesi
+Cascina Chicco,Barolo Ginestra Riserva 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,45,3,"14,5",Acciaio 6 mesi e Legno 42 mesi
+Cascina Chicco,Barolo Rocche Di Castelletto 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,25,23,"14,5",Acciaio 6 mesi e Legno 30 mesi
+Cascina Chicco,Roero Montespinato 2019,,Nebbiolo 100%,,Carni rosse o selvaggina,12,17,"14,5",Acciaio 3 mesi e Legno 12 mesi
+Cascina Fontana,Barolo 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,50,8,14,Acciaio 5 mesi e Legno 24 mesi
+Cascina Fontana,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Carni bianche o da cortile,22,7,14,Acciaio 6 mesi e Legno 12 mesi
+Cascina La Barbatella,Monferrato Rosso Sonvico 2016,,Cabernet 70% – Barbera 30%,,Carni rosse o selvaggina,35,1,15,Acciaio 6 mesi e Legno 24 mesi
+Cascina La Barbatella,Monferrato Rosso Ruanera 2018,,Cabernet sauvignon 60% – Barbera 40%  Alc.14%,,Primi piatti di pasta o pasta fresca ripiena,14,6,14,Legno 12 mesi
+Cascina Val Del Prete,Roero Vigna Di Lino 2017,92,Nebbiolo 100%,"Rosso che dal rubino tende al granato Naso fresco ed elegante che si esprime su dolcezze di liquirizia, pesca, frutti di bosco macerati, spezie chiare, mentolo Il sorso è altrettanto fresco, vigoroso e saporito; il tannino preciso regala persistenza e ulteriore piacevolezza e assicura grande longevità",Filetto al pepe verde,25,1,"15,5",Legno 16 mesi
+Cascina Val Del Prete,Roero Bricco Medica 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,20,3,"15,5",Legno 12 mesi
+Francesca Castaldi,Fara 2017,,Nebbiolo 70% – Vespolina 30%,"Splendido colore granato luminoso Esordio fruttato e speziato ricco di frutti rossi, lampone, ciliegia, con suggestioni floreali di viola e peonia Delicata la compagine speziata che ricorda il pepe, lo zenzero e il chiodo di garofano Sorso energico, fresco e dinamico, con rimandi olfattivi davvero sorprendenti Equilibrio piacevole e persistenza fruttata",Pollo allo spiedo,30,2,"13,5",Legno 24 mesi
+Francesca Castaldi,Colline Novaresi Bianco Lucia 2020,,Erbaluce 100%,,Formaggi freschi o a pasta filata,15,3,14,Acciaio 6 mesi
+Castello Di Neive,Barbaresco Albesani Santo Stefano 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,41,12,"14,5",Acciaio 6 mesi e Legno 15 mesi
+Castello Di Neive,Barbaresco 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,28,50,"14,5",Acciaio 6 mesi e Legno 12 mesi
+Castello Di Neive,Barbaresco Gallina 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,35,3,"14,5",Acciaio 6 mesi e Legno 15 mesi
+Caudrina,Nizza Montevenere 2018,,Barbera 100%,,Carni rosse o selvaggina,17,4,"14,5",Acciaio 10 mesi e Legno 15 mesi
+Caudrina,Monferrato Rosso Sfacciato 2018,,Nebbiolo 100%,,Risotti di terra,15,3,"14,5",Acciaio 10 mesi e Legno 15 mesi
+Cavelli,Ovada Riserva Bricco Le Zerbe 2017,,Dolcetto 100%,"Rubino tendente al granato Entrano al naso profumi netti di lampone, ribes neri, succose amarene, pesche nel vino, rosa selvatica, pepe bianco, pietra ardesia e una lieve scia mentolata Gustoso, ricco, sapido, di freschezza salivante, tannino levigato e gradevole, e con lunghi richiami di aromi di bocca",Tagliata di manzo alle erbe aromatiche,12,5,"14,5",Legno 20 mesi
+Cavelli,Monferrato Nebbiolo Superiore Cris 2019,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,15,2,14,Legno 18 mesi
+Cerutti,Piemonte Chardonnay Riva Granda 2018,,Chardonnay 100%,,Carni bianche o da cortile,17,3,"12,5",Acciaio 9 mesi e Legno 9 mesi
+Cerutti,Alta Langa Brut Enrico Cerutti 2017,,"Pinot nero 80% – Chardonnay 20% Alc.12,5%",,"Crostacei, molluschi o crudità",25,4,"12,5",
+Chionetti,Barolo Bussia Vigna Pianpolvere 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,70,1,"14,5",Legno 24 mesi
+Chionetti,Barolo Roncaglie 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,50,4,14,Legno 24 mesi
+Chionetti,Langhe Riesling 2020,,Riesling renano 100%,,"Crostacei, molluschi o crudità",22,4,"13,5",Acciaio 8 mesi
+Chionetti,Dogliani San Luigi 2020,,Dolcetto 100%,,"Zuppe, minestre o vellutate",12,40,13,Acciaio 9 mesi
+Cieck,Erbaluce Di Caluso Misobolo 2019,92,Erbaluce 100%,"Paglierino vivace e luminoso, fragranti e intensi profumi di agrumi, mela renetta, uva spina, fiori gialli ed erbe aromatiche che si completano in una delicata sfumatura di anice Al gusto è scattante, con trama fresca ma soprattutto sapida che completa il sorso di grande equilibrio e persistenza",Trota alla mugnaia,12,10,13,Acciaio 8 mesi
+Cieck,Erbaluce Di Caluso Passito Alladium 2014,,Erbaluce 100%,,Formaggi stagionati o erborinati,22,1,14,Legno 48 mesi
+Cieck,Erbaluce Di Caluso Ingenuus 2018,,Erbaluce 100%,,"Zuppe, minestre o vellutate",16,855,13,Legno 18 mesi
+Cieck,Erbaluce Di Caluso Spumante Nature 2017,,Erbaluce 100%,,"Crostacei, molluschi o crudità",22,4,13,Acciaio 6 mesi | 48 mesi sui lieviti
+Cieck,Canavese Nebbiolo Sust 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,14,4,14,Legno 18 mesi
+Massimo Clerico,Coste Della Sesia Nebbiolo Spanna 2019,,Nebbiolo 100%,,Carni bianche o da cortile,25,2,13,Acciaio 3 mesi e Legno 12 mesi
+Cogno,Barolo Ravera Vigna Elena,95,Nebbiolo 100%,"Gran vino Elegante, raffinato, pregiato: un Barolo che fa il vuoto dietro a sè Il piglio è quello della tradizione: sentori di ferro e terra bagnata, fiori passiti, erbe, menta e foglie secche; poi la frutta rossa, tra cui melograno, ribes, erbe e ciliegia Il resto è proporzione, dolcezza e sapido finale",Piccione al forno,95,4,"14,5",Legno 36 mesi
+Cogno,Barolo Ravera Bricco Pernice 2016,93,Nebbiolo 100%,"Non perde la sua indole di leader E’ ferroso al naso, cauto e introverso Poi si apre in tutta la sua dimensione, con profumi profondi di sottobosco e fiori rossi: viola e petali di rosa, cedro, agrumi, ciliegia, liquirizia, lavanda e menta In bocca non si fa mancare nulla: ha vigore, tannini e tanta classe",Filetto di Angus,90,5,"14,5",Legno 30 mesi
+Cogno,Barolo Ravera 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,70,10,"14,5",Legno 24 mesi
+Cogno,Barbaresco Bordini 2018,,Nebbiolo 100%,,Risotti di terra,35,10,"14,5",Legno 12 mesi
+Collina Serragrilli,Barbaresco Starderi 2018,,Nebbiolo 100%,"Rosso rubino che vira al granato Fine e preciso: spezie dolci, sbuffi balsamici, note di sottobosco, frutta dolce macerata, erbe aromatiche, un refolo etereo Imponente, ricco e polposo; tannino scalpitante ma di classe; beva equilibrata ed estremamente piacevole",Filetto al ribes,50,3,"14,5",Legno 28 mesi
+Collina Serragrilli,Barbaresco Serragrilli 2018,,Nebbiolo 100%,,Formaggi stagionati o erborinati,35,3,"14,5",Legno 28 mesi
+Collina Serragrilli,Langhe Bianco Grillobianco 2020,,Chardonnay 90% – Sauvignon 10%,,Formaggi freschi o a pasta filata,16,5,"13,5",Acciaio 3 mesi
+Colombo Cascina Pastori,Piemonte Pinot Nero Apertura 2017,,Pinot nero 100%,,Risotti di terra,18,10,"13,5",Acciaio e Legno 12 mesi
+Conterno Fantino,Barolo Mosconi Vigna Ped 2017,93,Nebbiolo 100%,"Un Mosconi che propone al meglio i caratteri del vigneto: potenza e frutto Il piglio olfattivo è intenso ed elegante, con note iniziali torrefatte e mentolate e poi via via più fruttate e raffinate ricordando sentori di fragola macerata e viola, confetture, ciliegia e lampone maturo Potente e vigoroso è l'apporto gustativo, importante nell'impatto e nel tannino ma anche lungo e saporito nel finale",Tajarin al tartufo,75,6,"14,5",Legno 24 mesi
+Conterno Fantino,Barolo Ginestra Vigna Del Gris 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,65,9,"14,5",Legno 24 mesi
+Conterno Fantino,Barolo Castelletto Vigna Pressenda 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,65,6,"14,5",Legno 24 mesi
+Conterno Fantino,Langhe Chardonnay Bastia 2019,,Chardonnay 100%,,Carni bianche o da cortile,25,6,13,Legno 12 mesi
+Coppo,Nizza Pontiselli 2018,94,Barbera 100%,"Rubino scuro e compatto Bouquet ampio e intenso Emergono sentori di confettura di more, prugna disidratata, iris, liquirizia, rabarbaro, legni, humus e pepe Il sorso è ricco ed equilibrato L'acidità sostiene la beva e maschera l'importante grado alcolico Regala un finale lunghissimo e molto gustoso",Filetto di manzo con salsa al Roquefort,60,3,16,Legno 14 mesi
+Coppo,Piemonte Chardonnay Monteriolo 2018,,Chardonnay 100%,,Piatti di pesce,35,12,13,Legno 9 mesi
+Coppo,Alta Langa Brut Riserva 2016,,Pinot nero 80% –  Chardonnay 20%,,Piatti di pesce,35,6,13,Legno 9 mesi | 48 mesi sui lieviti
+Coppo,Nizza Bric Del Marchese 2018,,Barbera 100%,,Carni rosse o selvaggina,60,3,16,Legno 14 mesi
+Coppo,Nizza Riserva Della Famiglia 2017,,Barbera 100%,,Formaggi stagionati o erborinati,110,2,"16,5",Legno 14 mesi
+Giovanni Corino,Barolo Giachini 2017,,Nebbiolo 100%,"Granato fitto Porta con grazia le stigmate d'una nebbiolesca modernità: tabacco, mora, mentolo, varie finezze balsamiche, spezie dolci e lussuose L'estrazione di tutte le componenti è vigorosa, con tannini salienti, ancora un poco monolitici Impressionante la sostanza gustativa",Piccione in casseruola,50,6,"15,5",Acciaio 7 mesi e Legno 24 mesi
+Giovanni Corino,Barolo Riserva 2015,,Nebbiolo 100%,,Formaggi stagionati o erborinati,95,1,15,Acciaio 7 mesi e Legno 24 mesi
+Giovanni Corino,Barolo Arborina 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,55,2,15,Acciaio 7 mesi e Legno 24 mesi
+Giovanni Corino,Barolo Del Comune Di La Morra 2017,,Nebbiolo 100%,,Risotti di terra,33,10,15,Acciaio 7 mesi e Legno 24 mesi
+Cornarea,Roero Arneis Enritard 2017,92,Arneis 100%,"Luminosa veste giallo paglierino Delicato, elegante e austero Subito spezie chiare, poi fiori bianchi, agrumi, erbe aromatiche, un bel finale di miele a completare la bella progressione Sorso ricco e di gustosa sapidità; appagante, invita al riassaggio grazie a un preciso finale delicatamente amarognolo",Quaglie in foglie di vite,18,3,"13,5",Acciaio 24 mesi
+Cornarea,Tarasco 2017,,Arneis 100%,,"Pasticceria secca, torte o cioccolato",29,3,"12,5",Legno 40 mesi
+Cornarea,Roero 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,20,6,14,Legno 22 mesi
+Cornarea,Roero Arneis 2020,,Arneis 100%,,Primi piatti di pasta o pasta fresca ripiena,15,70,"13,5",Acciaio 4 mesi
+Roberto Crosio,Erbaluce Di Caluso Spumante Brut,,Erbaluce 100%,"Giallo paglierino intenso, perlage ricercato e persistente Piacevole combinazione olfattiva di cedro candito e bergamotto che si amalgama a note di mela golden e pesca Il palato è avvolto dalla cremosa e piacevole effervescenza che offre spunti di fresca sapidità unita alla persistenza agrumata finale",Vellutata di piselli e gamberi,19,5,"12,5",Acciaio 8 mesi | 40 mesi sui lieviti
+Roberto Crosio,Erbaluce Di Caluso Costaparadiso 2018,,Erbaluce 100%,,"Crostacei, molluschi o crudità",17,2,"14,5",Legno 12 mesi
+Roberto Crosio,Erbaluce Di Caluso Primavigna 2020,,Erbaluce 100%,,Piatti di pesce,12,8,"13,5",Acciaio 6 mesi
+Roberto Crosio,Piemonte Rosato Rosadeimonti 2020,,Nebbiolo 85% – Syrah 15%,,Formaggi freschi o a pasta filata,9,2,"12,5",Acciaio 4 mesi
+Roberto Crosio,Canavese Nebbiolo Gemini 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,14,2,14,Legno 12 mesi
+Roberto Crosio,Erbaluce Di Caluso Erbalus 2020,,Erbaluce 100%,,Piatti di pesce,7,7,"12,5",Acciaio 4 mesi
+Deltetto,Alta Langa Brut 2017,,"Pinot nero 55% – Chardonnay 45% Alc.12,5%",,Piatti di pesce,20,16,"12,5",
+Dosio,Barolo Fossati 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,6,"14,5",Legno 36 mesi
+Dosio,Barolo Del Comune Di La Morra 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,29,4,"14,5",Legno 36 mesi
+Dosio,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Risotti di terra,19,4,"14,5",Legno 24 mesi
+Dosio,Roero Arneis 2020,,Arneis 100%,,Formaggi freschi o a pasta filata,9,4,"13,5",
+Benito Favaro,Erbaluce Di Caluso 13 Mesi 2019,93,Erbaluce 100%,"Paglierino intenso con delicati riflessi verdolino Espressioni olfattive intense di garbata complessità che ricordano il pompelmo e l'uva spina, cenni aromatici di rosmarino e timo, il tutto rifinito da una sfumatura di miele e fiori gialli In bocca è caratterizzato da intensa sapidità, netta freschezza e perfetto equilibrio",Stoccafisso mantecato,16,,13,Legno 12 mesi
+Benito Favaro,Erbaluce Di Caluso Le Chiusure 2019,,Erbaluce 100%,,Piatti di pesce,14,,13,Acciaio 4 mesi
+Benito Favaro,Canavese Nebbiolo 2019,,Nebbiolo 100%,,Carni bianche o da cortile,25,,14,Legno 12 mesi
+Benito Favaro,Rossomeraviglia 2019,,Syrah 100%,,Carni rosse o selvaggina,20,1,14,Legno 12 mesi
+Benito Favaro,F2 2019,,Freisa 100%,,Primi piatti di pasta o pasta fresca ripiena,10,800,13,Acciaio 12 mesi e Legno 12 mesi
+Ferrando,Carema Etichetta Nera 2017,95,Nebbiolo 100%,"Granato di esemplare trasparenza Eleganza, complessità olfattiva e bevibilità sono i punti di riferimento di questo nobile vino Spunti balsamici ed erbe officinali, confetture e gelatina di frutta rossa Sapore intenso segnato da gustosa sapidità e delicato tannino Equilibrio e persistenza",Bocconcini di manzo e funghi,70,2,14,Legno 30 mesi
+Ferrando,Carema Etichetta Bianca 2017,,Nebbiolo 100%,,Risotti di terra,45,5,"13,5",Legno 30 mesi
+Ferrando,Erbaluce Di Caluso Cariola 2020,,Erbaluce 100%,,,12,5,"12,5",
+Roberto Ferraris,Nizza Liberta 2018,,Barbera 100%,"Rubino compatto Quadro olfattivo che apre su more e amarene mature, composta di sambuco, seguiti da fiori rossi appassiti, liquirizia dolce, cannella e sbuffi mentolati Un palato ricco di sostanza, dove l'alcol si pone in millimetrico equilibrio a tanta freschezza e a lievi sensazioni tanniche",Bolliti misti e salse,28,2,"15,5",Acciaio 3 mesi e Legno 18 mesi
+Livia Fontana,Barolo Villero 2017,92,Nebbiolo 100%,"Campione di eleganza, è un Villero dal grande naso, pregiato nelle note perfettamente fuse di noce moscata e bacche, pepe e fiori passiti, frutta rossa e pesca Grande finezza anche al gusto, pieno e morbido, appena tannico e gustoso in chiusura Buonissimo",Ossobuco,70,3,"14,5",Legno 41 mesi
+Livia Fontana,Roero Arneis 2020,,Arneis 100%,,Formaggi freschi o a pasta filata,14,12,"13,5",
+Fontanafredda,Barolo Vigna La Rosa 2017,,Nebbiolo 100%,"Granato Naso espansivo, centrato su una ricca presenza di piccole bacche rosse e punteggiato da interludi balsamico-mentolati, di chiodo di garofano, mammola Alla gioventù del naso corrisponde la potenza grintosa del palato, serralunghiano nel tannino e nella sapidità dell'ottimo finale",Stinco di fassone,55,6,"14,5",Legno 12 mesi
+Fontanafredda,Alta Langa Blanc De Blancs Extrabrut 2017,,Chardonnay 100%,,"Crostacei, molluschi o crudità",20,12,12,
+Fontanafredda,Langhe Riesling Marin 2018,,Riesling 100%,,"Crostacei, molluschi o crudità",15,13,"12,5",
+Fracassi Ratti Mentone,Barolo Mantoetto 2017,91,Nebbiolo 100%,"Rosso granato, luminoso e intenso Naso affascinante, variegato e di notevole profondità Ciliegia sotto spirito, viola e liquirizia, ricca dotazione balsamica con menta, anice, cannella e rabarbaro Nobile base tannica, scintillante coda fruttata, persistente con pregevole vigore finale",Guancia di vitello brasata al Barolo,30,3,"14,5",Acciaio 12 mesi e Legno 36 mesi
+Gianni Gagliardo,Barolo Lazzarito Vigna Preve 2017,92,Nebbiolo 100%,"Granato scuro, vanta un profilo olfattivo di superba integrità, dominato da sentori puri e croccanti di erbe di montagna, lampone, ciliegia e poi arancia sanguinella, bacche, foglie secche e confetture Succosa ed equilibrata, la bocca conferma pienezza e precisione, con tannini dolci e sfumati Eccellente",Carrè d'agnello al forno,95,2,"14,5",Legno 33 mesi
+Gianni Gagliardo,Barolo Mosconi 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,75,1,"14,5",Legno 33 mesi
+Gianni Gagliardo,Barolo Serra Dei Turchi 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,820,136,"14,5",Legno 32 mesi
+Gianni Gagliardo,Barolo Castelletto 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,75,2,"14,5",Legno 30 mesi
+Gaja,Barbaresco 2018,97,Nebbiolo 100%,"E’ un Barbaresco spettacolare e molto espressivo Il naso brilla di una intensità di rara definizione con profumi di viola e gladioli, incenso, lavanda, viola e petali di rosa, poi fragolina, tè e pesca Al gusto equilibrio e morbidezza e finale fruttato",Tournedos pepe nero e uvetta,190,45,14,
+Gaja,Barolo Conteisa 2017,95,Nebbiolo 100%,"Mai così bello e definito E’ fresco, espressivo, dalla trama floreale e fruttata con note di violetta e rosa, ciliegia e fragola macerata, confetture e melograno In bocca ammalia per equilibrio e sapore: è pieno e fresco",Castelmagno di alpeggio,230,12,"14,5",
+Gaja,Barolo Sperss 2017,94,Nebbiolo 100%,"Sperss raffinato, con profumi molto fini di frutta rossa, ciliegia, lampone, fragola e gelatina uniti a violetta, rosa ed erbe La bocca dà il meglio e si espande morbida e calibrata, fresca e appena tannica",Piccione arrosto lardellato,260,16,"14,5",
+Piero Gatti,Verbeia 2019,,Barbera 80% – Freisa 20%,,Formaggi stagionati o erborinati,13,2,"13,5",Acciaio 6 mesi e Legno 2 mesi
+Piero Gatti,Violetta 2020,,Freisa 100%,,Piatti di verdure,10,2,"13,5",Acciaio 5 mesi
+Piero Gatti,Piemonte Brachetto 2020,,"Brachetto 100%  Alc.6,5%",,Dolci al cucchiaio o a base di frutta,12,10,"6,5",
+Piero Gatti,Vignot 2019,,Moscato bianco 100%,,"Pasticceria secca, torte o cioccolato",20,2,13,Acciaio 12 mesi
+Ettore Germano,Barolo Vignarionda 2016,95,Nebbiolo 100%,"Un Rionda che vale la pena assaggiare, tutto frutta e dolcezza, qualche sbuffo minerale e poi un gran carattere gustativo Il naso è fresco, fatto di note zuccherate di lamponi e ciliegie, fragola macerata, viola, mou e delicata torrefazione Copiosa anche la bocca, di sostanza ma con tanto equilibrio Grande",Filetto di cervo ai mirtilli,100,2,14,Legno 24 mesi
+Ettore Germano,Barolo Cerretta 2017,93,Nebbiolo 100%,"Molto tonico ed elegante, propone un naso di notevole definizione, dal piglio fresco e decisamente tipico con note di fiori passiti, confetture e spezie fini Importante e ordinata anche la bocca, munita di tannini fini, acidità e lungo e saporoso finale Gran classe Al meglio dal 2028",Lombata di vitello con funghi porcini,49,13,14,Legno 24 mesi
+Ettore Germano,Barolo Lazzarito Riserva 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,65,5,14,Legno 36 mesi
+Bruno Giacosa,Barbaresco Asili Riserva 2016,97,Nebbiolo 100%,"A lungo atteso, l'Asili '16 di Giacosa è un vino di grande nobiltà Scuro, ha un naso austero e integro, ancora poco espressivo e sciolto Il piglio è classico, con note di fiori passiti, spezie fini, apporti fruttati di gran classe La bocca è perfetta in tutto, morbida e appagante: del resto siamo al vertice",Tournedos alla Rossini,400,11,"14,5",Legno 20 mesi
+Bruno Giacosa,Roero Arneis 2020,,Arneis 100%,,Piatti di verdure,21,120,14,Acciaio 4 mesi
+Teresio Giordanino,Colline Saluzzesi Saluces 2018,,Chatus 90% – Barbera 5% – Neretta cuneese 5%,"Rubino su un compatto sfondo granato Confetture di frutti di bosco, ribes nero, un'eterea amarena sotto spirito, praline di cioccolata al rum, terriccio e foglie secche Il sorso è denso, potente, con una trama tannica fitta ma in via di integrazione Chiude rapidamente con suggerimenti di mora",Sella di coniglio al vino rosso,15,1,13,Acciaio 6 mesi e Legno 12 mesi
+Teresio Giordanino,Colline Saluzzesi Quagliano 2020,,"Quagliano 100%  Alc.5,5%",,Dolci al cucchiaio o a base di frutta,8,2,"5,5",
+Carlo Gnavi,Caluso Passito Revej Riserva 2009,93,Erbaluce 100%,"Nobile colore ambrato scuro, ricco di suggestioni e complessità odorose, dalle speziature balsamiche alle erbe officinali, che abbracciano miele, canditi di agrumi, frutta secca, in primis il fico e la noce, un soffio di tabacco dolce e legni di antiche spezierie Al palato è avvolgente, di grande suadenza e morbidezza, ritto sulla efficace freschezza e proporzionata dolcezza",Torcetti canavesani,35,2,14,Acciaio 3 mesi
+Elio Grasso,Barolo Gavarini Chiniera 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,85,18,"14,5",Legno 30 mesi
+Bruna Grimaldi,Barolo Badarina 2017,92,Nebbiolo 100%,"Scintillante granato In equilibrio tra classicità ed espansività: corteccia, china, liquirizia e fiori essiccati, lampi più leggiadri di frutta macerata, mentolo, eucalipto Continua la progressione, confermata dall'assaggio Il tannino è tipico, accompagnato da una bella freschezza e una gustosa sapidità",Filetto di cervo al timo e crescione,60,6,15,Legno 30 mesi
+Bruna Grimaldi,Barolo Bricco Ambrogio 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,50,4,15,Legno 30 mesi
+Giacomo Grimaldi,Barolo Ravera 2017,92,Nebbiolo 100%,"Ravera delizioso in pieno stile Grimaldi: il naso è pregiato, dolce di spezie e polposi frutti di sottobosco, torrefazione e fiori passiti Si notano cacao e amarena, ciliegia in confettura, menta e viola La bocca conferma e raddoppia, offrendo struttura e vigore con tannini fitti ma maturi",Raschera d'alpeggio,54,3,"14,5",Legno 24 mesi
+Giacomo Grimaldi,Barolo Sottocastello Di Novello 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,54,3,"14,5",Legno 24 mesi
+Giacomo Grimaldi,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,35,14,"14,5",Legno 24 mesi
+Paride Iaretti & C.,Gattinara Vigna Valferana 2017,94,Nebbiolo 100%,"Granato classico e luminoso, il bouquet è nitido, esemplare, solido nell'espressione territoriale della mineralità ferrosa inglobata dal nobile fruttato di agrume e frutti rossi profumati, speziatura e tracce balsamiche di anice ed erbe officinali Al sorso è ancora giovane ma già determinato nell'espressione e nell'equilibrio Lunga e incisiva persistenza",Stufato di manzo,45,2,"14,5",Legno 36 mesi
+Paride Iaretti & C.,Gattinara Pietro 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,30,5,14,Legno 36 mesi
+Il Falchetto,Piemonte Pinot Nero Solo 2018,,Pinot nero 100%,,Carni rosse o selvaggina,20,4,13,Acciaio 4 mesi e Legno 10 mesi
+Ioppa,Ghemme 2016,,Nebbiolo 85% – Vespolina 15%,,Primi piatti di pasta o pasta fresca ripiena,18,15,14,Legno 36 mesi
+Ioppa,Ghemme Bricco Balsina 2016,,Nebbiolo 85% – Vespolina 15%,,Carni rosse o selvaggina,28,2,14,Legno 36 mesi
+Ioppa,Colline Novaresi Nebbiolo Rusin 2020,,Nebbiolo 100%,,Piatti di verdure,8,240,"12,5",Acciaio 6 mesi
+La Chimera  Viticoltura Eroica,Bau 2016,,Becuet 60% – Barbera 40%,"Granato con orlo rubino, l'esordio è giocato su intensi profumi speziati e balsamici con netti riconoscimenti di erbe officinali, assenzio, liquirizia dolce, zenzero e cannella Sapore ricco e intenso articolato su dinamica freschezza, deciso tannino e finale mentolato",Trippa in umido,15,1,"14,5",Legno 12 mesi
+La Chimera  Viticoltura Eroica,Ae Brut Nature,,Avanà 100%,,"Crostacei, molluschi o crudità",18,1,"12,5",
+La Fusina,Dogliani Superiore San Luigi 2018,,Dolcetto 100%,"Rubino di elegante concentrazione Austero, con precise note di ciliegia, bacche rosse di misurata dolcezza ed una slanciata profusione floreale, iris, glicine L'attacco in bocca è altrettanto preciso, gradevole nell'alternanza di tannini cesellati e volume generoso Promette ulteriori, nobili, evoluzioni","""Raviole"" al vino",14,5,14,Acciaio 6 mesi e Legno 6 mesi
+La Fusina,Langhe Nebbiolo 2020,,Nebbiolo 100%,,Carni rosse o selvaggina,15,7,14,Acciaio 6 mesi e Legno 6 mesi
+La Fusina,Barolo Perno 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,32,4,15,Legno 30 mesi
+La Fusina,Dogliani Santa Lucia 2020,,Dolcetto 100%,,Primi piatti di pasta o pasta fresca ripiena,10,10,"13,5",
+La Fusina,Alta Langa Dosaggio Zero 2017,,Pinot nero 100%,,"Crostacei, molluschi o crudità",27,3,"12,5",Acciaio 6 mesi | 40 mesi sui lieviti
+La Gironda,Nizza Le Nicchie 2018,,Barbera 100%,,Carni rosse o selvaggina,24,7,"15,5",Acciaio 6 mesi e Legno 12 mesi
+La Gironda,Galandrino Brut 2016,,Chardonnay 80% – Pinot  nero 20%,,"Crostacei, molluschi o crudità",20,2,"13,5",Acciaio 7 mesi | 40 mesi sui lieviti
+La Gironda,Monferrato Rosso Soul 2017,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,22,3,"14,5",Legno 18 mesi
+La Masera,Erbaluce Di Caluso Passito Venanzia 2013,,Erbaluce 100%,,Formaggi stagionati o erborinati,23,1,12,Legno 48 mesi
+La Masera,Erbaluce Di Caluso Spumante Brut,,Erbaluce 100%,,"Crostacei, molluschi o crudità",25,3,13,Acciaio 6 mesi e Legno 6 mesi | 60 mesi sui lieviti
+La Masera,Canavese Barbera Monte Gerbido 2018,,Barbera 100%,,Primi piatti di pasta o pasta fresca ripiena,9,1,"14,5",Acciaio 10 mesi
+La Montagnetta,Piemonte Freisa Anphora 2018,,Freisa 100%,e Terracotta abbinamento Carni bianche o da cortile,,20,650,14,
+La Montagnetta,Piemonte Rosato Il Ciaret 2020,,Freisa 100%,,Salumi o insaccati,9,4,13,Acciaio 6 mesi
+La Prevostura,Lessona 2017,92,Nebbiolo 100%,"Granato splendido, profuma di nobili essenze balsamiche, menta, anice, assenzio e tante altre erbe officinali, non manca il frutto ricco e succoso di gelatina di frutti rossi e cenni di agrume Sorso gradevolissimo per equilibrio, sapiente sapidità unita ad una struttura tannica integra Il tempo lo impreziosirà",Trancio di tonno alla piastra,30,,14,Acciaio e Legno 22 mesi
+La Prevostura,Coste Della Sesia Rosso Muntacc 2019,,Nebbiolo 85% – Vespolina 15%,,Primi piatti di pasta o pasta fresca ripiena,18,,14,Acciaio e Legno 15 mesi
+La Scolca,Gavi Dei Gavi Etichetta Nera 2020,93,Cortese 100%,"Paglierino chiaro Naso elegantissimo che inizia con la tipica trama gessosa, seguita da delicate sfumature di ananas, bergamotto, lime, pera Williams, fiori di montagna, fieno bagnato e mazzetto di erbe aromatiche Palato fine, garbato, leggiadro, lungo, dove tutte le percezioni gusto-olfattive, in progressione, si uniscono armoniosamente",Filetto di branzino alle olive taggiasche,25,240,12,Acciaio 7 mesi
+La Scolca,Soldati La Scolca Brut,,Cortese 100%,,Piatti di pesce,18,,"12,5",
+Le Marie,Blanc De Lissart 2020,,Malvasia moscata 100%,"Lucentissimo giallo paglierino Ammaliante l'attacco aromatico, con delicati sbuffi vegetali e balsamici Seguono nitidi e freschi sentori floreali, che terminano con effluvi di pesca di vigna, uva spina e agrumi Preciso nei richiami retrolfattivi, lungo, appagante, sapido, di grande bevibilità",Caprino di lunga stagionatura,14,10,"12,5",Acciaio 6 mesi
+Le Marie,Doux De Lissart 2018,,Malvasia moscata 100%,,Formaggi stagionati o erborinati,26,1,15,
+Le Pianelle,Bramaterra 2017,92,Nebbiolo 80% – Croatina 10% – Vespolina 10%,"Granato luminoso con bagliore rubino Olfatto di grande eleganza e finezza, prima di tutto i fiori, appena sbocciati, rose, peonie e iris, frutta macerata in alcol, su tutti il lampone e la mora, per chiudere balsamico su cenni di liquirizia dolce Il sorso è equilibrato, lungo di sapore dal finale sapido segnato da tannino finissimo",Fagiano ripieno con foie gras,45,5,13,Acciaio 3 mesi e Legno 18 mesi
+Le Pianelle,Coste Della Sesia Rosso Al Forte 2018,,Nebbiolo 70% – Croatina 20% – Vespolina 10%,,Primi piatti di pasta o pasta fresca ripiena,28,3,"13,5",Acciaio 6 mesi e Legno 18 mesi
+Walter Lodali,Barbaresco Lorens 2018,,Nebbiolo 100%,"Granato scuro Il primo naso registra una soffusione variegata di spezie, tra cui noce moscata e chiodo di garofano, cui fa seguito una chiara traccia mentolata e, infine, fragolina e ribes rosso I piccoli frutti costituiscono l'ideale trait-d'union con il palato, lungo e dotato di solidi pilastri tannici",Lingua in crosta croccante,42,5,15,Legno 24 mesi
+Walter Lodali,Barbaresco Rocche Dei Sette Fratelli 2018,,Nebbiolo 100%,,Formaggi stagionati o erborinati,23,8,"14,5",Legno 18 mesi
+Walter Lodali,Barolo Bricco Ambrogio 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,28,9,"14,5",Legno 24 mesi
+Walter Lodali,Barolo Lorens 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,4,15,Legno 24 mesi
+Walter Lodali,Langhe Chardonnay Lorens 2019,,Chardonnay 100%,,Piatti di pesce,30,4,14,Legno 9 mesi
+Malabaila,Roero Bric Volta 2018,,Nebbiolo 100%,"Rosso granato luminosissimo Si schiude elegante e dolce, proponendo caramelline al lampone e alla mora, spezie esotiche, incenso, aghi di pino, mentolo, tabacco biondo L'assaggio lo svela caldo e di bella struttura, ben controbilanciato da una sapidità tipicamente territoriale e da un gustoso tannino",Coscia di tacchino glassata,16,6,"14,5",Acciaio 4 mesi e Legno 18 mesi
+Malabaila,Roero Castelletto Riserva 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,30,4,"14,5",Acciaio 4 mesi e Legno 24 mesi
+Malabaila,Roero Arneis Pradvaj 2020,,Arneis 100%,,Formaggi freschi o a pasta filata,15,10,13,Acciaio 7 mesi
+Malabaila,Langhe Rosato Donna Costanza 2020,,Nebbiolo 100%,,Salumi o insaccati,13,5,"13,5",Acciaio 4 mesi
+Paolo Manzone,Barolo Meriame 2017,93,Nebbiolo 100%,"Granato Già affascina per articolazione: fragolina, menta, ricco fondale speziato-floreale, echi di caldo sottobosco e tè al bergamotto In bocca è serralunghiano con giudizio: sorso tannico e potente, gustoso, che nell’appagante finale sta iniziando a sciogliere i nodi tattili",E che futuro! Coda al forno,35,8,14,Legno 27 mesi
+Paolo Manzone,Barolo Riserva 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,60,2,"14,5",Legno 27 mesi
+Paolo Manzone,Barolo Del Comune Di Serralunga 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,35,15,14,Legno 27 mesi
+Marchese Luca Spinola,Gavi Del Comune Di Gavi Massimiliano 2019,,Cortese 100%,"Paglierino vivace Subito all'olfatto mela renetta, banana, buccia di cedro, pesca saturnina, seguiti dal fiore di camomilla, l'acacia, timo e maggiorana, per chiudere con la fienagione estiva Il sorso gioca tanto sulla freschezza, la stuzzicante scia sapida e lunghe e gradevoli persistenze",Tartare di tonno fresco,25,3,14,Acciaio 6 mesi e Legno 6 mesi
+Marchese Luca Spinola,Gavi Del Comune Di Gavi Carlo 2020,,Cortese 100%,,Primi piatti di pasta o pasta fresca ripiena,16,20,13,Acciaio 6 mesi
+Marchesi Di Barolo,Barolo Cannubi 2017,92,Nebbiolo 100%,"Granato fitto Tutta la seduzione olfattiva del cru: mora e fragola, corteccia di china calissaia, rabarbaro, spezie raffinate, fulgida viola Eleganza da vendere, cui s'adegua la nobiltà del palato, mirabile per stoffa tannica, dotato d'un passo superiore e d'un finale progressivo, sapiente",Faraona ripiena,65,26,14,Legno 13 mesi
+Marchesi Di Barolo,Barolo Sarmassa 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,65,15,14,Legno 24 mesi
+Marchesi Di Barolo,Barolo Del Comune Di Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,60,25,14,Legno 23 mesi
+Marengo,Barolo Bricco Delle Viole 2017,92,Nebbiolo 100%,"Carnoso, puro, austero Scioglie note di erbe e lampone maturo, viole a liquirizia dolce, cacao e torrefazione; è un naso bellissimo, intenso e floreale, ampio e compatto La bocca è vigorosa e saporita con mirabile equilibrio e tannini finissimi Al meglio dal 2027",Agnello al forno,40,6,15,Legno 24 mesi
+Gian Piero Marrone,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,50,14,"14,5",Legno 24 mesi
+Gian Piero Marrone,Langhe Chardonnay Memundis 2019,,Chardonnay 100%,,Carni bianche o da cortile,32,10,"14,5",Legno 24 mesi
+Franco Maria Martinetti,Gavi Minaia 2020,92,Cortese 100%,"Paglierino Pur se in una fase aurorale dello sviluppo olfattivo, già affascina per le sensazioni di cera d'api, mela e pera croccanti e mature, ginestra, erbe aromatiche, bene augurali intuizioni di frutta secca L'ampiezza gustativa è ottima, la verticalità sapido-gessosa pure, la persistenza eccellente",Orata alla mugnaia,29,8,13,Legno 10 mesi
+Franco Maria Martinetti,Barolo Marasco 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,54,7,15,Legno 30 mesi
+Franco Maria Martinetti,Colli Tortonesi Martin 2020,,Timorasso 100%,,"Crostacei, molluschi o crudità",35,4,14,Legno 10 mesi
+Franco Maria Martinetti,Gavi Del Comune Di Gavi 2020,,Cortese 100%,,Piatti di verdure,17,18,"12,5",Acciaio 9 mesi
+Massolino - Vigna Rionda,Barolo Parafada 2017,94,Nebbiolo 100%,"Parafada dalla trama molto fruttata come di consueto E’ un naso integro, dai sentori di ciliegia e fragola macerata, melograno, pesca e noce moscata La bocca è grintosa, dal sapore pieno e ordinato Un Big",Filetto in crosta,65,5,14,Acciaio 5 mesi e Legno 30 mesi
+Massolino - Vigna Rionda,Barolo Vigna Rionda Riserva 2015,94,Nebbiolo 100%,"Torrefatto, importante: naso di cacao e liquirizia, frutta scura, mora, menta, erbe officinali e confetture Bocca prestante, vigorosa, con tannini presenti ma sfumati Una Rionda da maturare bene Dal 2030",Spezzatino di cervo,110,8,"14,5",Legno 42 mesi
+Massolino - Vigna Rionda,Barolo Parussi 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,65,6,"14,5",Acciaio 5 mesi e Legno 30 mesi
+Massolino - Vigna Rionda,Barolo 2017,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,30,70,"14,5",Acciaio 5 mesi e Legno 30 mesi
+Massolino - Vigna Rionda,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Formaggi stagionati o erborinati,17,,14,Legno 12 mesi
+Cascina Melognis,Colline Saluzzesi Pelaverga,,Pelaverga 100%,"Cristallino dai fugaci lampi rubino pallido Delicatissima e netta freschezza florale di iris, con uno stuzzicante seguito di pepe e una piacevole golosità fruttata In bocca è snello, puntuale in un equilibrato dinamismo, efficace tra l'ingresso misurato e la sapida persistenza del finale",Cappelletti alla rana pescatrice,13,3,12,Acciaio 8 mesi
+Cascina Melognis,Comitis 2020,,Gouais blanc 60% – Chasselas 20% – altre varietà 20% Alc.11%,,Piatti di verdure,13,1,11,Acciaio 8 mesi
+Cascina Melognis,Sinespina 2020,,Neretta cuneese 50% – Barbera 25% – Chatus 10% – Freisa 10% – Pelaverga 5%,,Piatti di verdure,11,1,"12,5",Acciaio 8 mesi
+Casa E. Di Mirafiore,Barolo Lazzarito 2017,92,Nebbiolo 100%,"Granato Olfazione avvolgente, ricca di dolci profumi fruttati (fragolina über alles), con controcanto serralunghiano di tratti ferrigni, spezie mai dominanti, fini nordicità balsamiche Ci è piaciuta molto la trama tannica, che sorregge un finale persistente e succoso, che non cede mai",Cinghiale al civet,62,7,14,Legno 24 mesi
+Casa E. Di Mirafiore,Barolo Paiagallo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,47,6,14,Legno 24 mesi
+Casa E. Di Mirafiore,Barolo 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,38,40,14,Legno 24 mesi
+Casa E. Di Mirafiore,Alta Langa Brut Blanc De Noir 2017,,Pinot nero 100%,,"Crostacei, molluschi o crudità",24,10,12,
+Moccagatta,Barbaresco Bric Balin 2018,92,Nebbiolo 100%,"Granato fitto Un caleidoscopio olfattivo: in un cangiante alternarsi, si succedono fragola, erbe alpine, arancia sanguinella, menta, legno di liquirizia, chiodo di garofano E se la massa tannica impegna a fondo l'apparato tattile, il sorso è sempre succoso, con avvincente progressione",Brasato alle prugne,42,4,15,Legno 18 mesi
+Moccagatta,Barbaresco Cole 2018,,Nebbiolo 100%,,Formaggi stagionati o erborinati,50,2,"14,5",Legno 18 mesi
+Moccagatta,Barbaresco 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,31,12,"14,5",Legno 12 mesi
+Monchiero Carbone,Roero Printi Riserva 2017,,Nebbiolo 100%,"Rosso granato ancora compatto Naso che, dopo le iniziali note tostate ed eteree, si fa più fresco e accogliente, proponendo frutta macerata, scorza d'agrume, spezie, sottobosco, eucalipto e pietra bagnata L'assaggio lo vede caldo e ricco, con tannino ancora scalpitante e una bella e gustosa sapidità",Rotolo di manzo farcito,35,6,14,Legno 24 mesi
+Monchiero Carbone,Roero Arneis Recit 2020,,Arneis 100%,,Primi piatti di pasta o pasta fresca ripiena,12,80,"13,5",Acciaio 5 mesi
+Montalbera,Barolo Levoluzione 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,27,8,14,Acciaio 4 mesi e Legno 24 mesi
+Montalbera,Laccento Passito,,Ruchè 100%,,"Pasticceria secca, torte o cioccolato",27,2,14,Acciaio 12 mesi
+Morgassi Superiore,Gavi Del Comune Di Gavi Volo 2019,,Cortese 100%,"Paglierino chiaro Un naso che richiama intesi profumi di albicocca, prugne gialle, cedro, mela golden e ancora fiori di prato di montagna, erbe aromatiche mediterranee e una traccia di pietra focaia In bocca prevale il sapido stuzzicante che apre a lunghi e intensi rimandi olfattivi",Riso venere con gamberi e pomodorini,16,36,"12,5",Acciaio 9 mesi
+Morgassi Superiore,Gavi Del Comune Di Gavi Tuffo 2020,,Cortese 100%,,Piatti di pesce,13,90,"12,5",Acciaio 6 mesi
+Ada Nada,Barbaresco Cichin Rombone Riserva 2016,,Nebbiolo 100%,"Granato profondo Bella integrità di piccoli frutti rossi in un ambiente olfattivo screziato da profumi di sottobosco, mentolo, violetta, ginepro Il sorso è vertebrato da un tannino robusto e ha potenza e carnosità fruttata Niente male la persistenza",Sella di lepre al Barbaresco,47,1,"14,5",Legno 36 mesi
+Ada Nada,Barbaresco Valeirano 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,24,7,"14,5",Legno 24 mesi
+Ada Nada,Langhe Sauvignon Neta 2020,,Sauvignon 100%,,Piatti di pesce,12,3,"13,5",Acciaio 3 mesi
+Giuseppe Negro,Barbaresco Pian Cavallo 2018,,Nebbiolo 100%,"Regale manto granato Tavolozza olfattiva molto ampia, l'incipit è balsamico, cui seguono delicate note di piccoli frutti di bosco anche in confettura e agrumi, finale con ricordi alpini di genziana La beva è favorita dall'incredibile freschezza gustativa, scalpitante la trama tannica",Noce di vitello alla brace,35,6,"14,5",Legno 24 mesi
+Giuseppe Negro,Barbaresco Pian Cavallo 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,35,7,"14,5",Legno 24 mesi
+Giuseppe Negro,Barbaresco Gallina 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,35,3,"14,5",Legno 24 mesi
+Nervi,Gattinara 2018,96,Nebbiolo 100%,"Il colore granato luminoso è splendido, così come i profumi che catturano l'olfatto riportando alla memoria fragranze di frutti rossi, fiori, delicate speziature, tocchi agrumati che celano una sottile e garbata mineralità Sorso di grande suadenza, elegante nell'equilibrio, succoso e sapido nella lunga persistenza",Fagiano in casseruola,45,40,"14,5",Legno 42 mesi
+Nervi,Rosato 2020,,Nebbiolo 100%,,Piatti di pesce,15,70,"13,5",Acciaio 5 mesi
+Oddero,Barolo Vigna Rionda Riserva 2012,92,Nebbiolo 100%,"Granato limpido, olfatto giocato su profumi di frutta matura e candita, arancia amara, confettura di mora seguono calde sensazioni terrose e balsamiche con richiami alle erbe officinali e liquirizia La bocca ha dotazione calorica e ottima presa tannica con persistenza mentolata",Ossobuco brasato,160,3,"14,5",Legno 42 mesi
+Oddero,Barolo Rocche Di Castiglione 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,75,2,14,Legno 24 mesi
+Oddero,Barolo Bussia Vigna Mondoca Riserva 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,95,3,"14,5",Legno 30 mesi
+Oddero,Barolo Villero 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,70,6,"14,5",Legno 24 mesi
+Oddero,Barolo 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,42,30,"14,5",Legno 24 mesi
+Orsolani,Erbaluce Di Caluso La Rustia 2020,,Erbaluce 100%,,Piatti di verdure,15,40,"13,5",Acciaio 8 mesi
+Orsolani,Canavese Rosso Acinisparsi 2020,,Barbera 60% – Nebbiolo 20% – Neretto di Bairo 20%,Mat,Acciaio 6 mesi e Legno 6 mesi,11,5,13,
+Pace,Roero Arneis Giuan Da Pas 2012,,Arneis 100%,"Giallo dorato appena accennato Naso sfaccettato, ricco e dolce, che propone miele di tiglio, orzo, mela cotogna, mirabella, spezie chiare, essenze aromatiche Il sorso è caldo e potente, equilibrato da una gustosa e tipica sapidità Un guizzo di freschezza e si rasenterebbe la perfezione",Coniglio alle mele,50,600,14,Acciaio 12 mesi
+Pace,Roero Riserva 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,35,4,14,Acciaio 18 mesi e Legno 18 mesi
+Pace,Roero 2017,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,25,2,14,Acciaio 12 mesi e Legno 12 mesi
+Pace,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Risotti di terra,15,10,14,Acciaio 20 mesi
+Pace,Langhe Pinot Nero 2018,,Pinot nero 100%,,Piatti di pesce,16,2,13,Acciaio 18 mesi
+Palladino,Barolo Parafada 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,3,15,Legno 24 mesi
+Palladino,Barolo San Bernardo Riserva 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,65,2,15,Legno 36 mesi
+Pecchenino,Barolo Le Coste Di Monforte 2017,91,Nebbiolo 100%,"Granato Al primo naso una fragolina purissima, marchio di Monforte, cui s'accodano sensazioni di menta glaciale, sottobosco, erbe aromatiche, chiodo di garofano Va sottolineata l'eccellenza del tannino, in un contesto gustativo succoso, già pronto, ma con tutti gli attributi del futuro",Piccione in salsa di olive,45,4,15,Legno 36 mesi
+Pecchenino,Barolo Bussia 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,3,15,Legno 36 mesi
+Pecchenino,Barolo San Giuseppe 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,40,7,15,Legno 24 mesi
+Pecchenino,Langhe Riesling 2019,,Riesling renano 100%,,Piatti di pesce,20,3,13,Acciaio 12 mesi
+Pelassa,Barolo San Lorenzo Di Verduno 2017,,Nebbiolo 100%,"Scintillante rosso granato Serio e quasi timido, propone subito spezie, viola, frutta rossa appena macerata, per proseguire con elegante e precisa progressione regalando grafite, mentolo, humus, legni nobili L'assaggio è succoso, sapido e saporito, con tannino già ben integrato e ottima persistenza",Spezzatino di capriolo,45,3,"14,5",Legno 18 mesi
+Pelassa,Barolo 2017,,Nebbiolo 100%,,Risotti di terra,35,10,15,Legno 24 mesi
+Pelassa,La Rena 2020,,Arneis 100%,,Formaggi freschi o a pasta filata,15,6,12,
+Pelassa,Roero Arneis San Vito 2020,,Arneis 100%,,Piatti di pesce,11,35,"13,5",Acciaio 6 mesi
+Elio Perrone,No 2019,,Barbera 100%,,Carni rosse o selvaggina,37,3,"15,5",Legno 18 mesi
+Elio Perrone,Gi 2020,,"Chardonnay 70% – Moscato bianco 15% – Viognier 15%  Alc.13,5%",,Carni bianche o da cortile,10,10,"13,5",Acciaio 5 mesi
+Pio Cesare,Barolo Pio 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,65,60,"14,5",Legno 30 mesi
+Pio Cesare,Barolo Mosconi 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,130,5,"14,5",Legno 30 mesi
+Pio Cesare,Langhe Chardonnay Piodilei 2018,,Chardonnay 100%,,Piatti di pesce,30,14,14,Legno 9 mesi
+Pira E. & Figli  Chiara Boschis,Barolo Via Nuova 2017,95,Nebbiolo 100%,"Barolo di assemblaggio, si conferma ancora il migliore Il naso è splendido, nitido e puro, dall'espressione fruttata di ciliegia e lampone, freschi fiori rossi, pesca dolce La bocca ha proporzione ed equilibrio, tannino maturo, finale succoso Una perla",Pollo alle spugnole e tartufo,80,12,"14,5",Legno 24 mesi
+Pira E. & Figli  Chiara Boschis,Langhe Nebbiolo 2019,92,Nebbiolo 100%,"Un Barolo mascherato Ha un manto fruttato intenso e purissimo; gode di un timbro dolce e avvolgente con note di succo di frutta, noce moscata, erbe e bacche La bocca è importante, appena tannica e gustosa",Filetto di maiale alla senape,36,8,14,Legno 12 mesi
+Podere Ai Valloni,Colline Novaresi Nebbiolo Gratus 2018,,Nebbiolo 85% – Vespolina 15%,,Primi piatti di pasta o pasta fresca ripiena,22,6,13,Legno 12 mesi
+Podere Ai Valloni,Colline Novaresi Rosso Sass Russ 2018,,Nebbiolo 50% – Vespolina 50%,,Risotti di terra,13,3,"12,5",Acciaio 6 mesi
+Podere Ruggeri Corsini,Barolo Bricco San Pietro 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,28,5,"14,5",Acciaio 6 mesi e Legno 30 mesi
+Podere Ruggeri Corsini,Piemonte Albarossa Autenzio 2018,,Albarossa 100%,,Risotti di terra,16,2,"14,5",Legno 24 mesi
+Podere Ruggeri Corsini,Langhe Chardonnay Lolly 2019,,Chardonnay 100%,,Carni bianche o da cortile,16,4,"13,5",Acciaio 4 mesi e Legno 6 mesi
+Poderi Colla,Barolo Bussia Dardi Le Rose 2017,,Nebbiolo 100%,"Il rosso granato è classico, così come classico ed elegante è il naso, dapprima scuro di china e tabacco, poi sempre più accogliente Arrivano i fiori essiccati, i  frutti  di bosco macerati, le spezie dolci, i soffi balsamici Il tannino è ancora in primo piano, ma il sorso è ricco, saporito e appagante",Arrosto in crosta,44,21,"14,5",Legno 24 mesi
+Poderi Colla,Barbaresco Roncaglie 2018,,Nebbiolo 100%,,Carni bianche o da cortile,34,18,"14,5",Legno 12 mesi
+Poderi Colla,Langhe Riesling 2019,,Riesling 100%,,Carni bianche o da cortile,13,8,12,
+Poderi Colla,Langhe Pinot Nero Campo Romano 2019,,Pinot nero 100%,,Piatti di pesce,18,3,"13,5",Legno 12 mesi
+Poderi Luigi Einaudi,Barolo Ludo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,37,20,14,Legno 30 mesi
+Poderi Luigi Einaudi,Barolo Terlo Vigna Costa Grimaldi 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,51,11,"14,5",Legno 30 mesi
+Poderi Luigi Einaudi,Dogliani Superiore Tecc 2019,,Dolcetto 100%,,Salumi o insaccati,15,28,"14,5",Legno 12 mesi
+Poderi Luigi Einaudi,Langhe Nebbiolo 2020,,Nebbiolo 100%,,Risotti di terra,15,30,14,Legno 10 mesi
+Pomodolce,Colli Tortonesi Timorasso Grue 2019,94,Timorasso 100%,"Paglierino intenso L'impatto olfattivo impressiona per intensità, articolazione ed eleganza: propoli e fiori gialli, scorza di cedro, scisto scaldato dal sole, erbe aromatiche Conseguente stratificazione gustativa, in un insieme caldo, ma ben bilanciato dalla lunga, fresca massa sapido-minerale",Gnocchi al Montebore,35,2,15,Acciaio 11 mesi
+Marco Porello,Roero San Michele Riserva 2017,,Nebbiolo 100%,"Classico rosso granato Dopo un esordio etereo, sussurra mai smaccato e racconta di spezie esotiche, frutta rossa macerata, fiori essiccati, aghi di pino e mentolo Il sorso è tosto, ricco, pieno e succoso, con tannino calibrato e ottima sapidità Non stupisce ma convince, sempre solido e buono",Filetto alla Voronoff,29,1,"14,5",Legno 24 mesi
+Marco Porello,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Risotti di terra,12,25,14,Legno 10 mesi
+Marco Porello,Roero Arneis 2020,,Arneis 100%,,Formaggi freschi o a pasta filata,8,40,13,Acciaio 4 mesi
+Ferdinando Principiano,Barolo Boscareto 2016,94,Nebbiolo 100%,"Boscareto di grande carattere che unisce complessità a piacevolezza L'avvio olfattivo è vegetale e fiorito, con note di rosa e lavanda, pepe e noce moscata Poi scioglie il meglio, liberando frutta fresca tra cui fragolina, ciliegia e gelatina La bocca colpisce in succosità, proporzione e morbido finale",Stinco di maiale al forno,80,4,"13,5",Legno 30 mesi
+Ferdinando Principiano,Barolo Ravera Di Monforte 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,55,3,"13,5",Legno 24 mesi
+Ferdinando Principiano,Barolo Del Comune Di Serralunga 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,34,30,"13,5",Acciaio 6 mesi e Legno 24 mesi
+Ferdinando Principiano,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Carni bianche o da cortile,17,20,13,Acciaio 10 mesi
+Ferdinando Principiano,Langhe Rosso 2020,,Slarina 100%,,Primi piatti di pasta o pasta fresca ripiena,19,1,"11,5",Acciaio 8 mesi
+Produttori Del Barbaresco,Barbaresco Montestefano,95,Nebbiolo 100%,"Granato Nucleo odoroso di bacche rosse intorno a cui orbita una galassia tra il floreale (viola fulgida), il balsamico e il mentolato, con scorta speziata finissima Forte e succoso; data la massa fruttata, il tannino pare in secondo piano Mica vero: sostiene, dà gusto Ficcante persistenza",Faraona alla creta,45,16,15,Acciaio 6 mesi e Legno 36 mesi
+Produttori Del Barbaresco,Barbaresco Montefico Riserva 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,45,16,15,Acciaio 6 mesi e Legno 36 mesi
+Produttori Del Barbaresco,Barbaresco Ovello Riserva 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,45,19,15,Acciaio 6 mesi e Legno 36 mesi
+Produttori Del Barbaresco,Barbaresco Pora Riserva 2016,,Nebbiolo 100%,,Formaggi stagionati o erborinati,45,20,15,Acciaio 6 mesi e Legno 36 mesi
+Prunotto,Barolo Bussia 2017,94,Nebbiolo 100%,"Granato chiaro Profumi squisiti di fragolina nitida, menta essiccata, pepe, chiodo di garofano, tratti vegetali, foglie secche Al palato è classico, anzi, un passo più in là, forte e leggiadro insieme, perfetto nella levigatezza tannica Sottile, memorabile persistenza di frutti rossi",Castelmagno d'alpeggio,63,30,14,Legno 18 mesi
+Prunotto,Barbaresco Bric Turot 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,38,15,14,Legno 12 mesi
+Prunotto,Barbaresco Secondine 2018,,Nebbiolo 100%,,Formaggi stagionati o erborinati,62,15,14,Legno 12 mesi
+Prunotto,Barbaresco 2018,,Nebbiolo 100%,,Risotti di terra,26,75,"13,5",Legno 12 mesi
+Prunotto,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,36,130,"13,5",Legno 18 mesi
+Raineri,Barolo Perno 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,48,4,"14,5",Legno 24 mesi
+Raineri,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,28,10,"14,5",Legno 24 mesi
+Raineri,Langhe Bianco Elfobianco 2020,,"Chardonnay 50% – Arneis 35% – Cortese 15%  Alc.12,5%",,Piatti di pesce,9,4,"12,5",Acciaio 6 mesi
+Renato Ratti,Barolo Marcenasco 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,42,70,"14,5",Legno 24 mesi
+Renato Ratti,Barolo Conca 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,75,4,"14,5",Legno 24 mesi
+Renato Ratti,Langhe Nebbiolo Reggimento 2018,,Nebbiolo 100%,,Carni bianche o da cortile,22,6,"14,5",Legno 12 mesi
+Renato Ratti,Piemonte Sauvignon I Cedri 2019,,Sauvignon 100%,,"Crostacei, molluschi o crudità",19,5,"13,5",Acciaio 12 mesi
+Réva,Barolo Ravera 2016,,Nebbiolo 100%,"Granato intenso e olfazione profonda, corrusca, con toni ferrigni, di sottobosco estivo, ginepro, lampone e mora macerati, china Un soffio balsamico rischiara il paesaggio e introduce una bocca potente e succosa, d'eccellente tessitura tannica, lunghissima",Tournedos in salsa al nebbiolo,90,3,"14,5",Legno 24 mesi
+Réva,Barolo 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,40,10,"14,5",Legno 24 mesi
+Réva,Langhe Bianco Grey 2019,,Sauvignon 100%,,Piatti di pesce,19,9,"13,5",Legno 6 mesi
+Fratelli Revello,Barolo Conca 2017,,Nebbiolo 100%,"Granato fitto Su una coltre olfattiva fruttata (mora, lampone) s'alzano nitide sensazioni balsamiche, fino a intuizioni di menta glaciale Dolce corredo speziato Bocca strutturata, vigorosa, con solido scheletro tannico, frutto di un’estrazione rigorosa; indomito finale, molto persistente",Lepre in salmì,48,2,15,Legno 24 mesi
+Fratelli Revello,Barolo Gattera 2017,,Nebbiolo 100%,,Risotti di terra,37,,15,Legno 24 mesi
+Fratelli Revello,Barolo Cerretta 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,51,2,15,Legno 24 mesi
+Fratelli Revello,Barolo Giachini 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,44,2,15,Legno 24 mesi
+Fratelli Revello,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,28,11,15,Legno 24 mesi
+Carlo Daniele Ricci,Colli Tortonesi Timorasso San Leto 2018,,Timorasso 100%,"Paglierino con evidenti riflessi ramati Intrigante al naso, che in sequenza inanella profumi di cedro candito, bergamotto, anice, erbe officinali, su un basso continuo di buccia d'uva La sensazione agrumata marca l'ingresso in bocca; sorso ampio, con leggera percezione tannica, di buona durata",Straccetti di tacchino in salsa al timorasso,27,4,13,Acciaio 12 mesi
+Carlo Daniele Ricci,Il Giallo Di Costa 2018,,Timorasso 100%,,Formaggi stagionati o erborinati,28,3,13,Acciaio 12 mesi
+Carlo Daniele Ricci,Agape 2016,,Barbera 60% – Croatina 40%,,Salumi o insaccati,25,2,15,Legno 48 mesi
+Carlo Daniele Ricci,Instabile 2017,,Timorasso 100%,,Piatti di verdure,27,2,15,Acciaio 12 mesi
+Francesco Rinaldi & Figli,Barolo Cannubi Riserva 2015,94,Nebbiolo 100%,"Fitto, splendido Una Riserva dal naso complesso e molto classico: fiori passiti, viola, tanta frutta rossa, dolce e zuccherata, piccole spezie Al gusto è un omaggio alla vendemmia 2015: la bocca è morbida, lo sviluppo preciso e l'armonia tannica perfetta Un vino squisito, al meglio dal 2024",Filetto di cervo,85,2,14,Legno 42 mesi
+Dante Rivetti,Piemonte Chardonnay La Valletta 2018,,Chardonnay 100%,,Piatti di pesce,24,4,14,Legno 18 mesi
+Dante Rivetti,Langhe Rosato Mavik 2020,,Nebbiolo 100%,,Formaggi freschi o a pasta filata,18,5,"14,5",Acciaio 6 mesi
+Rivetto,Barolo Del Comune Di Serralunga,,Nebbiolo 100%,"Scintillante rosso granato Si esprime con eleganza, precisione e misura, passando agilmente dalle spezie alla frutta ancora succosa, dai fiori alle freschezze balsamiche, in una bella progressione L'assaggio, nonostante un tannino tipico e tosto, è ricco, fresco e gustoso e invita a più di un riassaggio",Medaglioni alla Villeroy,40,15,14,Legno 24 mesi
+Rivetto,Barolo Briccolina 2015,,Nebbiolo 100%,,Carni bianche o da cortile,100,2,14,Legno 40 mesi
+Rivetto,Kaskal Dosaggio Zero 2018,,Nebbiolo 100%,,Carni bianche o da cortile,35,7,"13,5",
+Roagna,Barolo Pira Riserva 2006,97,Nebbiolo 100%,"Alto livello, luminoso granato, complesso di ciliegie sotto spirito, liquirizia, china e erbe officinali con eucalipto e assenzio, viola e rosa Di eccellente equilibrio, pieno di forza e sostanza, lunga persistenza",Filetto in crosta,500,2,"13,5",Legno 50 mesi
+Roagna,Barbaresco Albesani 2016,,Nebbiolo 100%,,Formaggi stagionati o erborinati,100,2,"13,5",Legno 18 mesi
+Roagna,Barbaresco Asili Vecchie Viti 2016,,Nebbiolo 100%,,Risotti di terra,180,1,14,Legno 50 mesi
+Roagna,Barbaresco Montefico Vecchie Viti 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,180,1,14,Legno 50 mesi
+Gigi Rosso,Barolo Rocche Moriondino Riserva,,Nebbiolo 100%,"Granato luminoso Sfoggia un elegante ventaglio odoroso giocato su ricordi di confetture di lampone e ciliegia, violetta, foglie secche, aghi di pino e note intensamente balsamiche Al palato è coinvolgente e ricco di gusto Il tannino è  ben integrato e la sapidità accompagna un finale molto lungo",Stracotto di manzo,60,2,"14,5",Legno 48 mesi
+Gigi Rosso,Barolo Rocche Moriondino 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,47,2,"14,5",Legno 36 mesi
+Gigi Rosso,Barolo Bricco San Pietro 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,42,4,"14,5",Legno 36 mesi
+San Fereolo,Langhe Rosso 1593 2010,,Dolcetto 100%,,Carni bianche o da cortile,36,,"14,5",Acciaio 24 mesi e Legno 60 mesi
+San Fereolo,Dogliani Superiore San Fereolo 2015,,Dolcetto 100%,,Carni rosse o selvaggina,28,13,"14,5",Legno 30 mesi
+San Fereolo,Langhe Rosato La Lupa 2020,,Dolcetto 85% – altre varietà 15%,,,18,1,12,
+Sant'Anna Dei Bricchetti,Sorsi Di Emozione Brut 2019,,Barbera 100%  Alc.13%,,Salumi o insaccati,12,8,13,
+Simone Scaletta,Barolo Riserva Bricco San Pietro 2015,,Nebbiolo 100%,"Manto granato classico Ventaglio odoroso ricco e profondo Esprime sentori di confetture di lampone e ribes rosso, violetta, pesca, spezie dolci, legni e note balsamiche Al palato è ricco e dotato di un tannino giovane ma già ben integrato Chiude su una piacevole persistenza balsamica e floreale",Costata di Angus,50,2,14,Legno 30 mesi
+Simone Scaletta,Barolo Bussia 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,50,2,"14,5",Legno 24 mesi
+Simone Scaletta,Barolo Chirlet Bricco San Pietro 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,39,5,"14,5",Legno 24 mesi
+Scarzello,Barolo Del Comune Di Barolo 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,45,4,"14,5",Legno 18 mesi
+Scarzello,Barolo Boschetti 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,3,"14,5",Legno 24 mesi
+Scarzello,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,17,6,14,Legno 6 mesi
+Schiavenza,Barolo Broglio 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,37,7,15,Legno 30 mesi
+Seghesio,Barolo 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,45,15,15,Legno 30 mesi
+Serra Dei Fiori,Langhe Chardonnay Asso Di Fiori 2019,,Chardonnay 100%,"Colore paglierino dalle sfumature dorate La complessità olfattiva è giocata su sentori di frutta matura, melone, banana, ananas, fiori di camomilla, vaniglia e pepe bianco Il sorso, subito fresco, dona un'avvolgente morbidezza per poi chiudere su una persistenza salina dai ricordi intensamente fruttati",Rabaton,25,3,"12,5",Acciaio 4 mesi e Legno 6 mesi
+Serra Dei Fiori,Langhe Il Fiore 2020,,Chardonnay 70% – Nascetta 30%,,Piatti di pesce,12,25,"12,5",Acciaio 4 mesi
+Serra Dei Fiori,Langhe Nascetta La Regina 2020,,Nascetta 100%,,Piatti di pesce,15,6,"12,5",Acciaio 6 mesi
+Edoardo Sobrino,Barolo Monvigliero 2017,93,Nebbiolo 100%,"Monvigliero davvero splendido Colore granato, ha naso molto classico, pigro a sciogliersi ma molto dinamico Sfoggia note di noce moscata, bacche, china e radici poi tanta frutta, rossa e dolce tra cui amarena e lampone, ciliegia e confetture La bocca è tosta ma armonica, con tannino fitto e lunga persistenza",Pernice alla cacciatora,60,1,"14,5",Legno 24 mesi
+Edoardo Sobrino,Barolo Pisapola 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,55,2,"14,5",Legno 24 mesi
+Sottimano,Barbaresco Fausoni 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,70,6,14,Legno 20 mesi
+Stella,Monferrato Bianco Foravia 2019,,Riesling renano 100%,,Piatti di pesce,18,1,"13,5",Acciaio 8 mesi
+Stella,Piemonte Chardonnay Giaiet 2020,,Chardonnay 100%,,Carni bianche o da cortile,21,2,14,Legno 18 mesi
+Tacchino,Barbera Del Monferrato Albarola 2017,,Barbera 100%,"Granato compatto Profumi che iniziano da ciliegie e amarene mature, composta di sambuco, arancia rossa, poi verdi sfumature di felce selvatica, foglioline di menta, e ancora cannella e pepe bianco In bocca è decisa e concentrata e tannino e acidità vanno in calibrato equilibrio con una buona morbidezza",Cappello del prete arrosto,18,5,"14,5",Legno 24 mesi
+Tacchino,Monferrato Rosso Di Fatto 2018,,Albarossa 30% – Barbera 30% – Dolcetto 30% – Cabernet sauvignon 10%,,Formaggi stagionati o erborinati,18,8,"14,5",Legno 24 mesi
+Tacchino,Gavi Del Comune Di Gavi 2020,,Cortese 100%,,Piatti di pesce,12,20,"12,5",Acciaio 6 mesi
+Tacchino,Barbera Del Monferrato Tralci 2019,,Barbera 100%,,Risotti di terra,10,20,14,Acciaio 18 mesi
+Tenuta Carretta,Barbaresco Cascina Bordino Riserva 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,45,4,14,Legno 36 mesi
+Tenuta Carretta,Roero Arneis Canorei Riserva 2018,,Arneis 100%,,Piatti di pesce,19,7,"13,5",Legno 12 mesi
+Tenuta Carretta,Langhe Nebbiolo Podio 2019,,Nebbiolo 85% – Barbera 15%,,Risotti di terra,15,18,14,Legno 6 mesi
+Tenuta Olim Bauda,Nizza Riserva 2018,92,Barbera 100%,"Colore rubino luminoso Il profilo olfattivo è elegante e densamente fruttato Emergono note di lampone, susina e cassis a cui si aggiungono aromi di liquirizia, sentori vegetali, balsamici e delicatamente tostati Il sorso è persistente, morbido, fresco e gustoso con una perfetta corrispondenza naso-bocca",Filetto di cervo in salsa ai mirtilli,30,13,"15,5",Legno 30 mesi
+Tenuta Tamburnin,Albugnano 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,16,3,"14,5",Acciaio 3 mesi e Legno 12 mesi
+Tenuta Tamburnin,Piemonte Chardonnay 2020,,Chardonnay 85% – Sauvignon 15%,,Piatti di pesce,10,3,13,Acciaio 4 mesi
+Tenute Sella,Bramaterra 2014,,Nebbiolo 70% – Croatina 20% – Vespolina 10%,,Risotti di terra,24,12,13,Acciaio 6 mesi e Legno 36 mesi
+Tenute Sella,Piemonte Bianco Piandoro 2020,,Erbaluce 60% – Riesling renano 40%,,Piatti di pesce,10,3,13,Acciaio 6 mesi
+Tenute Sella,Bramaterra I Porfidi 2012,,Nebbiolo 70% – Croatina 20% – Vespolina 10%,,Carni rosse o selvaggina,40,2,13,Acciaio 6 mesi e Legno 40 mesi
+Tenute Sella,Coste Della Sesia Rosso Orbello 2019,,Nebbiolo 50% – Barbera 20% – Croatina 15% – Vespolina 10% – Cabernet sauvignon 5%,,Primi piatti di pasta o pasta fresca ripiena,10,8,13,Acciaio 6 mesi e Legno 12 mesi
+Tenute Sella,Coste Della Sesia Rosato Majoli 2020,,Nebbiolo 100%,,"Zuppe, minestre o vellutate",10,4,13,Acciaio 6 mesi
+Torraccia Del Piantavigna,Ghemme 2016,92,Nebbiolo 90% – Vespolina 10%,"Granato trasparente e luminoso Profumi intensi e complessi segnati in prima battuta dalle note ferrose e balsamiche di conifere ed erbe officinali, cenni di sottobosco, foglie essiccate, violetta e lavanda, confettura di mora Sorso intenso e succoso, tannino raffinato e freschezza che incalza la persistenza",Costolette di agnello,24,28,"13,5",Acciaio 6 mesi e Legno 48 mesi
+Torraccia Del Piantavigna,Gattinara 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,25,25,"13,5",Acciaio 6 mesi e Legno 36 mesi
+Torraccia Del Piantavigna,Colline Novaresi Bianco Erbavoglio 2020,,Erbaluce 100%,,Piatti di pesce,13,35,13,Acciaio 6 mesi
+Torraccia Del Piantavigna,Muffi 2018,,Erbaluce 100%,,Formaggi stagionati o erborinati,35,3,14,Acciaio e Legno 12 mesi
+Torraccia Del Piantavigna,Colline Novaresi Nebbiolo Ramale 2017,,Nebbiolo 100%,,"Zuppe, minestre o vellutate",17,10,"13,5",Acciaio 6 mesi e Legno 36 mesi
+Trediberri,Barolo 2017,,Nebbiolo 100%,,Risotti di terra,35,35,14,Legno 24 mesi
+Trediberri,Langhe Nebbiolo 2020,,Nebbiolo 100%,,Carni bianche o da cortile,18,37,"14,5",Acciaio 6 mesi
+Trediberri,Dogliani Bricco Mollea 2020,,Dolcetto 100%,,Primi piatti di pasta o pasta fresca ripiena,14,10,13,Acciaio 6 mesi
+Mauro Veglio,Barolo Castelletto 2017,93,Nebbiolo 100%,"Superba intensità e ricchezza Ha naso di erbe officinali e sottobosco, foglie e radici, fragola macerata e ciliegia, lavanda e bacche Toni fondi e generosi, che ritroviamo al gusto, pieno e saporito, fitto di tannini maturi, lungo e fruttato in persistenza Buonissimo Non prima del 2028",Reale di vitello agli asparagi,45,6,"14,5",Acciaio 12 mesi e Legno 24 mesi
+Mauro Veglio,Barolo Arborina 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,6,15,Legno 24 mesi
+Mauro Veglio,Barolo Paiagallo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,75,4,"14,5",Acciaio 8 mesi e Legno 24 mesi
+Mauro Veglio,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,35,25,"14,5",Acciaio 12 mesi e Legno 24 mesi
+Mauro Veglio,Barolo Gattera 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,9,"14,5",Acciaio 12 mesi e Legno 24 mesi
+Giacomo Vico,Roero Bricco Patarrone 2017,,Nebbiolo 100%,"Luminoso rosso granato Si esprime definito ed elegante raccontando di frutti rossi macerati, pesca succosa, dolcezze di marzapane, cenni di gesso e un bel finale balsamico L'assaggio lo svela profondo, ricco e saporito; di ottima persistenza a cui contribuisce un tannino preciso e già integrato","Risotto al vino rosso, midollo e fagioli",10,2,"13,5",Legno 24 mesi
+Giacomo Vico,Langhe Chardonnay 2019,,Chardonnay 100%,,Piatti di pesce,8,1,"13,5",Legno 6 mesi
+Vietti,Barolo Ravera 2017,96,Nebbiolo 100%,"Ancora un Ravera straordinario, dai profumi puri e intensi di frutta dolce e spezie; il timbro nebbiolo impressiona, fitto di florealità e vigore, sostanza e densità Un Barolo che guarda lontano, proporzionato e dal tannino ineccepibile",T-bone di Angus,165,7,"14,5",Legno 30 mesi
+Vietti,Barolo Lazzarito 2017,93,Nebbiolo 100%,"Il miglior Lazzarito di sempre Naso aperto e molto espressivo, polposo nel frutto rosso e scuro, spezie fitte e dolci; quindi mora e confetture, amarena, arancia sanguinella, mou La bocca è potente, grintosa ma bilanciata",Diaframma alla griglia,165,9,"14,5",Legno 30 mesi
+Vietti,Barolo Rocche Di Castiglione 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,165,3,"14,5",Legno 30 mesi
+Vietti,Barolo Brunate 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,165,4,"14,5",Legno 30 mesi
+I Vignaioli Di Santo Stefano,Asti Spumante 2020,,Moscato bianco 100% Alc.7%,,"Pasticceria secca, torte o cioccolato",14,,7,Acciaio 3 mesi
+Vigneti Massa,Derthona Timorasso Sterpi 2019,94,Timorasso 100%,"Paglierino con brividi dorati Che più timorasso non si può: propoli, fiori gialli, una ricca palette agrumata dal cedro al bergamotto al lime, ficcanti cenni di pietra calda che sono una promessa per il futuro Fresco, avvolgente, distribuisce con misura la potenza in un lungo, progressivo finale",Ravioli di pesce con crema di scampi,40,4,"14,5",Acciaio 12 mesi
+Vigneti Massa,Derthona Timorasso Montecitorio 2019,,Timorasso 100%,,"Crostacei, molluschi o crudità",40,4,"14,5",Acciaio 12 mesi
+Vigneti Massa,Monleale 2017,,Barbera 100%,,Carni bianche o da cortile,15,20,"14,5",Legno 12 mesi
+Villa Giada,Nizza Dani 2018,,Barbera 100%,"Colore rubino scuro Olfatto densamente fruttato con toni di marasca e prugna a cui si aggiungono note vegetali e sentori di legni, cannella, vaniglia, iodio e caffè In bocca svela tutto il suo calore, sostenuto da una rinfrescante acidità Finale persistente punteggiato da netti ricordi tostati",Capocollo di maiale al forno,19,5,15,Legno 12 mesi
+Villa Giada,Gamba Di Pernice 2019,,Gamba rossa 100%,,Carni bianche o da cortile,11,4,"13,5",Acciaio 12 mesi
+Vite Colte,Barbaresco Spezie Riserva 2012,,Nebbiolo 100%,"Colore granato Sprigiona profumi di confetture di prugne, more e gelsi, ciliegia sotto spirito, viola, geranio, pepe, spezie, radice, liquirizia, rabarbaro, caffè e cacao Il sorso è ricco e dotato di buona morbidezza grazie al tannino ben integrato Lascia dietro di sé una lunga persistenza fruttata",Stracotto d'asino,40,10,14,Legno 12 mesi
+Vite Colte,Alta Langa Cinquecento 2017,,"Pinot nero 80% – Chardonnay 20% Alc.12,5%",,"Crostacei, molluschi o crudità",25,16,"12,5",
+Vite Colte,Barolo Essenze Del Comune Di,,Nebbiolo 100%,,Carni rosse o selvaggina,45,7,14,Legno 24 mesi
+Vite Colte,Barolo Essenze Del Comune Di Monforte,,Nebbiolo 100%,,Carni rosse o selvaggina,45,7,14,Legno 24 mesi
+Vite Colte,Barolo Essenze Del Comune Di Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,14,14,Legno 24 mesi
+Alberto Voerzio,Barolo La Serra 2017,,Nebbiolo 100%,"Classicissimo granato Cresce con i minuti e presenta una bella progressione, segnata da una piacevole freschezza: spezie, pietra calda, frutta rossa dolce croccante, liquirizia, violetta e geranio Altrettanto fresco il sorso, gustoso di sapidità e con tannini elegantemente territoriali Appagante",Tagliata alle erbe,55,3,"14,5",Acciaio 7 mesi e Legno 24 mesi
+Alberto Voerzio,Langhe Nebbiolo 2018,,Nebbiolo 100%,,"Zuppe, minestre o vellutate",22,6,"14,5",Acciaio 7 mesi e Legno 12 mesi
+Marziano Abbona,Barolo Pressenda 2017,,Nebbiolo 100%,"Classico granato Monforteggia al naso, dove dialogano fitto sensazioni di piccoli frutti in alcol, erbe officinali, tratti vegetali di sottobosco e intuizioni ferrigne Il sorso è gagliardo, solido nei tannini, dotato di una persistenza ampia e gustosa, appena amarognola di gioventù",Spezzatino di cervo,48,5,"14,5",Legno 34 mesi
+Marziano Abbona,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,30,16,"14,5",Legno 30 mesi
+Marziano Abbona,Langhe Bianco Cinerino 2020,,Viognier 100%,,Piatti di pesce,22,24,14,Legno 6 mesi
+Accornero,Barbera Del Monferrato Superiore,,Barbera 100%,,Carni rosse o selvaggina,22,12,"14,5",Legno 18 mesi
+Accornero,Grignolino Del Monferrato Casalese,,Grignolino 100%,,Carni bianche o da cortile,10,12,14,Acciaio 4 mesi
+Accornero,Monferrato Rosso Girotondo 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,17,2,14,Legno 12 mesi
+Claudio Alario,Barolo Sorano 2017,92,Nebbiolo 100%,"Granato austero Generoso il naso: leggiadri ricordi di pesca, frutti a bacca rossa, ciliegie e lamponi Si arricchisce con tabacco dolce, foglia di castagno, umidi ricordi di sottobosco, effluvi mentolati Decisa la bocca, gustoso il tannino, piacevole e integrato Si congeda con una scia calorosa di sciroppo d'amarena",Tordi in umido,50,4,"14,5",Legno 36 mesi
+Claudio Alario,Barolo Riva Rocca 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,4,"14,5",Legno 36 mesi
+Gianfranco Alessandria,Barolo San Giovanni 2017,93,Nebbiolo 100%,"Torrefatto, mentolato, ormai un grande classico di Monforte Il naso è moderno, di eccellente purezza e abbraccia sentori di erbe e liquirizia, lampone e mora, caffè e tabacco Al gusto risponde con sviluppo gustativo preciso e morbido, con freschezza e sfumato tannino Dal 2028 in poi",Filetto in crosta con salsa olandese,65,4,"14,5",Legno 24 mesi
+Gianfranco Alessandria,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,10,"14,5",Legno 24 mesi
+Gianfranco Alessandria,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Formaggi stagionati o erborinati,18,6,"14,5",
+Antichi Vigneti  Di Cantalupo,Ghemme Collis Breclemae 2015,93,Nebbiolo 100%,"Intenso colore granato limpido e luminoso All'olfatto emergono profumi inizialmente ovattati che lentamente lasciano spazio a notevole complessità: spezie, confetture di mora e susina, note di caffè e leggero tostato, per poi lasciare spazio a note minerali ed ematiche Tutto il quadro olfattivo si completa nelle sfumature balsamiche e mentolate Il sapore rivela tutta la sua forza e struttura ma anche la suadenza del nebbiolo dal tannino garbato e gustoso Un vero simbolo di questa denominazione per identità e carattere",Lepre in umido,50,3,"14,5",Legno 36 mesi
+Antichi Vigneti  Di Cantalupo,Ghemme Cantalupo 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,30,15,"13,5",Legno 24 mesi
+Antichi Vigneti  Di Cantalupo,Colline Novaresi Rosato Il Mimo 2020,,Nebbiolo 100%,,Piatti di verdure,15,80,"13,5",Acciaio 4 mesi
+Antichi Vigneti  Di Cantalupo,Colline Novaresi Vespolina Villa Horta 2019,,Vespolina 100%,,Risotti di terra,15,7,14,Acciaio 12 mesi
+Antichi Vigneti  Di Cantalupo,Carolus 2020,,"Erbaluce 60% – Arneis 35% – Chardonnay 5%  Alc.13,5%",,"Crostacei, molluschi o crudità",15,10,"13,5",Acciaio 4 mesi
+Antichi Vigneti  Di Cantalupo,Mia Ida Brut,,Nebbiolo 100%,,Salumi o insaccati,15,6,13,
+Antoniotti,Bramaterra 2017,94,"Nebbiolo 70% – Croatina 20% – Vespolina 7% – Uva rara 3% Alc.13,5%","Rubino compatto e luminoso, al naso sprigiona profumi fruttati e speziati di grande complessità; conquista con una intensa articolazione olfattiva di grande freschezza, cui seguono suggestioni floreali e balsamiche, cenni iodati, minerali e confetture Al palato è sorprendente per il gusto e la grande freschezza che si completano in un adeguato tocco tannico Sempre tra i migliori Bramaterra",Risotto con le quaglie,30,7,"13,5",Legno 36 mesi
+Aresca,Nizza San Luigi 2017,,Barbera 100%,"Rosso rubino intenso e luminoso Progressione olfattiva molto interessante di amarene sciroppate, more, ribes nero uniti a ginepro, pepe bianco e noce moscata con finale balsamico Bocca di grande carattere, gusto persistente, freschezza abbondante e tannino ben dosato a completare la struttura",Agnello al forno con patate,17,8,14,Legno 12 mesi
+Ascheri,Langhe Dolcetto Nirane 2020,,Dolcetto 100%,,Primi piatti di pasta o pasta fresca ripiena,10,5,"13,5",
+Ascheri,Langhe Barbera Fontanelle 2020,,Barbera 100%,,Salumi o insaccati,10,26,"14,5",Acciaio 6 mesi e Legno 6 mesi
+Ascheri,Langhe Nebbiolo San Giacomo 2019,,Nebbiolo 100%,,Formaggi stagionati o erborinati,14,20,"13,5",Legno 6 mesi
+Ascheri,Verduno Pelaverga 2020,,Pelaverga piccolo 100%,,Salumi o insaccati,15,800,14,
+L'Autin,Pellengo 2019,,Riesling renano 100%,"Manto giallo paglierino luminoso L'esordio è freschissimo e variegato di lime e frutta tropicale con cenni di anice e foglie di tè, per chiudere con menta, timo, fiori di campo e citronella Il sorso non è banale, inizialmente fresco con un finale sapido che ci lascia una lunga persistenza agrumata",Tonno di coniglio,12,3,13,
+L'Autin,El Bertu 2018,,Timorasso 100%,,Formaggi stagionati o erborinati,16,2,"13,5",
+L'Autin,Passi Di Gio 2018,,Malvasia moscata 100%,,Formaggi stagionati o erborinati,30,1,"13,5",Legno 12 mesi
+L'Autin,Pinerolese Rosso El Dolfo 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,16,2,13,Legno 12 mesi
+L'Autin,Verbian 2019,,Bian ver 100%,,Piatti di pesce,13,3,"13,5",
+Banfi Piemonte,Gavi Principessa Gavia 2020,,Cortese 100%,,Carni bianche o da cortile,9,240,"12,5",
+Banfi Piemonte,Piemonte Albarossa La Lus 2018,,Albarossa 100%,,Carni rosse o selvaggina,16,24,14,Legno 12 mesi
+Sergio Barbaglia,Boca 2017,,Nebbiolo 80% – Vespolina 20%,"Colore granato trasparente Inizialmente chiuso, lentamente concede confidenza rivelando profumi di confettura di more, note agrumate e variegate erbe officinali; le spezie sono dolci e delicate e sfumano in un finale minerale ed ematico Sorso intenso, piacevole per freschezza e fine tannino",Arrosto della vena con cipollotti,35,4,13,Acciaio 12 mesi e Legno 24 mesi
+Sergio Barbaglia,Colline Novaresi Bianco Lucino 2020,,Erbaluce 100%,,"Crostacei, molluschi o crudità",15,4,14,Acciaio 6 mesi
+Sergio Barbaglia,Colline Novaresi Vespolina Ledi 2020,,Vespolina 100%,,"Zuppe, minestre o vellutate",15,2,"12,5",Acciaio 6 mesi
+Luigi Baudana,Langhe Bianco Dragon 2020,,Chardonnay 46% – Sauvignon 25% – Nascetta 24% – Riesling 5%,,"Zuppe, minestre o vellutate",13,27,13,Acciaio 6 mesi
+Bel Colle,Barolo Monvigliero 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,35,10,"14,5",Acciaio e Legno 36 mesi
+Bel Colle,Barolo Simposio 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,30,20,"14,5",Acciaio 6 mesi e Legno 12 mesi
+Bel Colle,Langhe Nascetta 2020,,Nascetta 100%,,Carni bianche o da cortile,15,5,"13,5",Acciaio 5 mesi
+Nicola Bergaglio,Gavi Del Comune Di Gavi Rovereto,,Cortese 100%,,Piatti di pesce,12,75,13,Acciaio 5 mesi
+Boasso Gabutti,Barolo Margheria 2017,,Nebbiolo 100%,"Granato chiaro La nota ferrosa con cui esordisce è puro idioma di Serralunga; seguono evocazioni di lampone macerato in alcol, noce moscata, profumi di sottobosco estivo Al palato è monolitico, concentrato, inattaccabile, persistente con chiosa appena amarognola; il tempo scioglierà tanta potenza",Gulasch,40,2,15,Acciaio 2 mesi e Legno 36 mesi
+Boasso Gabutti,Barolo Del Comune Di Serralunga 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,28,15,15,Acciaio 2 mesi e Legno 36 mesi
+Boasso Gabutti,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Carni bianche o da cortile,20,4,"13,5",Acciaio 2 mesi e Legno 6 mesi
+Silvano Bolmida,Barolo Bussia Vigna Dei Fantini 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,48,2,"14,5",Legno 24 mesi
+Silvano Bolmida,Langhe Antica Novella 2019,,Sauvignon 100%,,Primi piatti di pasta o pasta fresca ripiena,22,4,13,
+Borgo Maragliano,Giuseppe Galliano Brut Nature 2016,,Pinot nero 80% – Chardonnay 20%,,"Crostacei, molluschi o crudità",23,16,13,Acciaio 8 mesi | 48 mesi sui lieviti
+Borgo Maragliano,Loazzolo Vendemmia Tardiva 2016,,Moscato bianco 100%,,"Pasticceria secca, torte o cioccolato",26,3,"11,5",Acciaio 8 mesi e Legno 32 mesi
+Borgo Maragliano,Piemonte Chardonnay Crevoglio 2020,,Chardonnay 100%,,"Zuppe, minestre o vellutate",9,34,13,Acciaio 7 mesi
+Fratelli Serio  E Battista Borgogno,Barolo Cannubi Riserva 2015,,Nebbiolo 100%,"Granato compatto e austero Il naso si apre su toni floreali di violette essiccate contornate da confettura di frutti di bosco e ciliegie sotto spirito Chiude con ricordi speziati e balsamici di eucalipto, rabarbaro, liquirizia e genziana Gusto fresco, persistente con tannino ancora esuberante",Costolette di agnello alle erbe,60,5,14,Legno 52 mesi
+Fratelli Serio  E Battista Borgogno,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,35,12,14,Legno 30 mesi
+Francesco Boschis,Dogliani Superiore Vigna Del,91,Dolcetto 100%,"Rubino nobile e altero Evolute sensazioni fruttate, confettura di amarene, caramella al lampone, fragola all’ennesima potenza, fresca e inebriante Sorprendente l'equilibrio in bocca, con tannini precisi e un'integrazione perfetta, a ingentilire un finale morbido, con l’immancabile mandorla da manuale",Cannelloni al forno,16,1,"14,5",Acciaio 12 mesi e Legno 12 mesi
+Francesco Boschis,Piemonte Grignolino 2020,,Grignolino 100%,,"Zuppe, minestre o vellutate",12,1,"12,5",Acciaio 8 mesi e Legno 2 mesi
+Vigneti Boveri Giacomo,Colli Tortonesi Timorasso Derthona,,Timorasso 100%,"Paglierino L'orizzonte olfattivo è definito da una nitida presenza di pietra calda sul punto d'evolversi in pietra focaia, contrappuntata da sentori di fiori gialli, erbe officinali e aromatiche In bocca è dominato da sensazioni sapido-minerali, con progressione lineare, rigorosa, e finale gessoso",Spigola al sale,22,3,"13,5",Acciaio 14 mesi
+Vigneti Boveri Giacomo,Colli Tortonesi Freisa La Cappelletta 2018,,Freisa 100%,,Carni bianche o da cortile,14,1,13,Acciaio 10 mesi
+Renato Boveri,Derthona 2019,,Timorasso 100%,"Paglierino Profumi aperti e franchi di propoli e pesca, pietra calda e pera matura, susina gialla ed erbe aromatiche In bocca scorre sapido e gessoso, ma pieno e avvolgente di frutto Non male il finale, in cui s'inizia a percepire un avvenire minerale",Insalata di dentice,17,2,"13,5",Acciaio 12 mesi
+Renato Boveri,Sanatlbert 2019,,Timorasso 100%,,Piatti di pesce,21,2,14,Acciaio 12 mesi
+Renato Boveri,Santambroeus 2019,,Barbera 100%,CRAVGASS 2017,,17,5,"14,5",
+Bric Castelvej,Roero Arneis Vigna Bricco Novara 2020,,Arneis 100%,"Colore paglierino con punteggiature dorate Il profilo olfattivo complesso si delinea in riconoscimenti di fiori d'acacia, ananas, cedro, erbe aromatiche, camomilla, vaniglia, gesso, zenzero e miele In bocca la freschezza lascia spazio a una cremosa morbidezza, accompagnata da una netta scia sapida",Gamberoni su salsa al lime,20,1,"13,5",Acciaio 6 mesi e Legno 6 mesi
+Bric Castelvej,Roero Selezione Panera Alta Riserva 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,40,1,"14,5",Legno 36 mesi
+Bric Castelvej,Roero 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,25,5,14,Legno 24 mesi
+Francesco Brigatti,Ghemme Oltre Il Bosco 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,30,3,14,Legno 24 mesi
+Francesco Brigatti,Colline Novaresi Vespolina Maria 2020,,Vespolina 100%,,"Zuppe, minestre o vellutate",16,3,13,Acciaio 6 mesi
+Francesco Brigatti,Colline Novaresi Barbera Campazzi 2019,,Barbera 100%,,Formaggi stagionati o erborinati,17,3,"13,5",Legno 6 mesi
+Francesco Brigatti,Colline Novaresi Bianco Mottobello 2020,,Erbaluce 100%,,"Crostacei, molluschi o crudità",16,4,"13,5",Acciaio 6 mesi
+Brovia,Barolo Rocche Di Castiglione 2017,95,Nebbiolo 100%,"Un campione di eleganza E’ un Rocche di proporzioni perfette, dolce nei profumi fruttati di ciliegia e fragolina di bosco, lampone, fragola macerata, confetture e viola, liquirizia e petali di rosa La bocca conferma precisione e armonia, tannini sfumati, succosa e lunga persistenza Dal 2028",Costata di manzo alla griglia,95,5,"14,5",Legno 30 mesi
+Brovia,Barolo Villero 2017,94,Nebbiolo 100%,"Villero eccellente e classico L'approccio olfattivo è dolce e molto tipico, floreale, fruttato e appena speziato Le note sono di rosa passita e violetta, noce moscata e foglie secche, radici e liquirizia, poi tanta frutta rossa, fresca e in confettura Un vino squisito",Anatra in tre cotture,95,5,"14,5",Legno 35 mesi
+Comm. G.B. Burlotto,Barolo Monvigliero 2017,95,Nebbiolo 100%,"Riconoscibile anche alla cieca, è un Barolo di straripante personalità olfattiva, fatta di sentori di frutta rossa pestata, tè e carcadè, fiori freschi, fragola, amarena, rabarbaro, foglie secche ed erbe La bocca non è da meno, brillando per succosità, sapore e armonia Per chi cerca qualcosa di diverso",Fontina d'Aosta d'alpeggio,90,7,"14,5",Legno 36 mesi
+Comm. G.B. Burlotto,Barolo Cannubi 2017,93,Nebbiolo 100%,"Terribilmente sciolto e fruttato; naso fatto di ciliegia e ribes, pesca e gelatine di frutta, zucchero e viola La bocca è invece importante, piena, serrata nei tannini fitti ma maturi, lunga e sapida nella persistenza Carattere ed espressione da vendere Dal 2028 se riuscite a tenerlo in cantina",Sottofiletto di Fassona alla griglia,100,4,"14,5",Legno 36 mesi
+Comm. G.B. Burlotto,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,25,"14,5",Legno 24 mesi
+Comm. G.B. Burlotto,Barolo Acclivi 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,80,4,"14,5",Legno 36 mesi
+Comm. G.B. Burlotto,Verduno Pelaverga 2020,,Pelaverga piccolo 100%,,Salumi o insaccati,15,20,"13,5",Legno 2 mesi
+Comm. G.B. Burlotto,Langhe Freisa 2019,,Freisa 100%,,Risotti di terra,15,6,"13,5",Legno 12 mesi
+Ca' Del Bric,Gavi Del Comune Di Gavi Reusa Dij Vent 2020,,Cortese 100%,,Piatti di pesce,11,2,"13,5",Acciaio 4 mesi
+Ca' Del Bric,Monferrato Nebbiolo Bigat 2019,,Nebbiolo 100%,,Carni rosse o selvaggina,14,2,13,Acciaio 10 mesi
+Ca' Del Bric,Piemonte Rosato Cosa Seria 2020,,Nebbiolo 100%,,,13,4,12,Acciaio abbinamento Carni bianche o da cortile 
+Cà Nova,Colline Novaresi Nebbiolo San Quirico 2013,,Nebbiolo 100%,"Granato intenso, inizialmente balsamico e speziato con suggestioni di erbe aromatiche, lentamente l'olfatto cresce proponendo confettura di mora, succo di mirtillo e spunti floreali di viola e rosa appassita All'assaggio propone freschezza e tannino maturo con piacevole finale di mentolo",Filetto di cervo,24,3,13,Legno 18 mesi
+Cà Nova,Ghemme 2014,,Nebbiolo 100%,,Carni rosse o selvaggina,24,4,13,Legno 24 mesi
+Cà Nova,Colline Novaresi Nebbiolo Aurora 2019,,Nebbiolo 100%,,"Crostacei, molluschi o crudità",11,10,"12,5",Acciaio 6 mesi
+Cà Nova,Colline Novaresi Nebbiolo Bocciolo 2019,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,12,15,"13,5",Legno 6 mesi
+Cà Nova,Colline Novaresi Bianco Rugiada 2020,,Erbaluce 100%,,Piatti di verdure,11,3,"12,5",Acciaio 6 mesi
+Cagliero,Barolo Ravera 2017,,Nebbiolo 100%,"Ravera molto complesso, dal naso ferroso e inquieto, poi dai tratti floreali e fruttati con note fitte di violetta e rosa, china, foglie di tè, noce moscata, liquirizia e incenso Al gusto non mancano energia e carattere: ha freschezza e tannini, lungo e saporoso finale",Lepre al civet,35,15,"14,5",Legno 24 mesi
+Cagliero,Barolo Terlo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,33,4,"14,5",Legno 24 mesi
+Cagliero,Langhe Nebbiolo Canebbio 2018,,Nebbiolo 85% – Barbera 15%,,Formaggi stagionati o erborinati,16,1,"14,5",Legno 16 mesi
+Cagliero,Langhe Bianco Rabel 2020,,Arneis 40% – Sauvignon 40% – Favorita 20%,,Formaggi freschi o a pasta filata,12,2,14,
+Cantina Delsignore,Gattinara Borgofranco Riserva 2016,92,Nebbiolo 100%,"Granato luminoso, naso di grande complessità, denso di frutta, fragolina, lampone, agrumato di arancia amara e chinotto, cui fanno eco spezie balsamiche e mineralità rugginosa In bocca rivela un sorso agile e snello, succoso e di ottimo equilibrio, il tannino molto fine dà significato alla lunga persistenza gustativa",Cinghiale in umido,40,2,"13,5",Acciaio 6 mesi e Legno 40 mesi
+Cantina Delsignore,Gattinara Il Putto Vendemmiatore 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,25,7,14,Acciaio 4 mesi e Legno 26 mesi
+Cantina Delsignore,Mecco Brut 2015,,Nebbiolo 100%,,"Crostacei, molluschi o crudità",35,1,"12,5",Acciaio 6 mesi | 53 mesi sui lieviti
+Cantina Delsignore,Coste Della Sesia Spanna La Crotta 2019,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,15,2,"13,5",Acciaio 5 mesi e Legno 10 mesi
+Cantine Balbiano,Freisa Di Chieri Surpreisa 2020,,Freisa 100%,,Primi piatti di pasta o pasta fresca ripiena,10,9,"13,5",Acciaio 3 mesi
+Cantine Balbiano,Freisa Di Chieri Frizzante 2020,,Freisa 100%,,Salumi o insaccati,9,50,13,
+Cantine Balbiano,Collina Torinese Cari 2020,,Cari 100%,,Dolci al cucchiaio o a base di frutta,12,2,6,
+Careglio,Roero 2018,,Nebbiolo 100%,"Rosso granato intenso Elegante e di buona complessità, è fresco e fruttato, con tocchi vegetali e balsamici, frutti di bosco macerati, spezie chiare e una piacevole nota affumicata Il tannino è ancora in primo piano, ma ci sono struttura e tipica sapidità Già verso l'equilibrio, ma godibile da subito",Tagliata di Fassone,20,5,"14,5",Acciaio 8 mesi e Legno 12 mesi
+Careglio,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Risotti di terra,12,5,"14,5",Acciaio 8 mesi
+Careglio,Gramplin 2020,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,10,5,"13,5",Acciaio 4 mesi
+Cascina Ballarin,Barolo Bricco Rocca Tistot Riserva 2015,,Nebbiolo 100%,"Granato È un'effusione scintillante di bacche rosse mature affiancate da sensazioni di chiodo di garofano, noce moscata e variegate tinte balsamiche, fino a profumi di conifera, di resina La patina tannica è la nota gustativa saliente, in un contesto sempre ricco e fruttato, di calda persistenza",Cinghiale brasato con mele e castagne,80,1,"14,5",Legno 38 mesi
+Cascina Ballarin,Barolo Bricco Rocca 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,48,5,"14,5",Legno 24 mesi
+Cascina Ballarin,Langhe Rosso Ultimi Grappoli 2015,,Barbera 50% – Nebbiolo 50%,,Primi piatti di pasta o pasta fresca ripiena,60,3,"14,5",Legno 18 mesi
+Cascina Ca' Rossa,Roero Mompissano Riserva 2018,93,Nebbiolo 100%,"Splendido abito rosso granato Il naso è elegante e sfodera una progressione quasi interminabile: note terrose, sottobosco, cipria, piccoli frutti rossi macerati, spezie, pietra, eucalipto Colpiscono la perfetta corrispondenza gusto olfattiva, un tannino  preciso e misurato, il finale ricco e succoso",Coniglio al ginepro,60,6,15,Legno 24 mesi
+Cascina Ca' Rossa,Roero Le Coste 2018,,Nebbiolo 100%,,Carni bianche o da cortile,60,4,15,Legno 24 mesi
+Cascina Ca' Rossa,Roero Valmaggiore Vigna Audinaggio 2019,,Nebbiolo 100%,,Carni rosse o selvaggina,35,4,"14,5",Legno 18 mesi
+Cascina Ca' Rossa,Roero Arneis Le Coste Riserva 2019,,Arneis 100%,,Piatti di pesce,25,1,13,Legno 12 mesi
+Cascina Castlèt,Piemonte Chardonnay Ataj 2020,,Chardonnay 100%,,Piatti di verdure,9,10,"13,5",Acciaio 5 mesi
+Cascina Fonda,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Risotti di terra,12,5,14,Legno 12 mesi
+Cascina Fonda,Alta Langa Cascina Fonda Extra Brut 2016,,"Chardonnay 50% – Pinot nero 50%  Alc.12,5%",,"Crostacei, molluschi o crudità",25,2,"12,5",
+Cascina Gilli,Albugnano Superiore Notturno 2018,,Nebbiolo 100%,"Delicato rosso rubino con screziature granato Fragranti note di fragolina di bosco, amarena, iris e violetta precedono un finale che vira su toni balsamici di eucalipto e tabacco","In bocca è fresco e scalpitante, con tannini giovani e vigorosi",16,20,14,Acciaio 6 mesi e Legno 18 mesi
+Cascina Gilli,Gilli Extra Dry,,Malvasia di Schierano 100%  Alc.12%,,,15,7,12,Acciaio abbinamento Piatti di pesce 
+Cascina Morassino,Barbaresco Ovello 2018,94,Nebbiolo 100%,"Granato Tesi olfattiva: seducente dolcezza di mora, tappeto di sottobosco ombroso in cui s'alzano finezze speziate e aliti di menta glaciale Antitesi gustativa: vigorosa estrazione tannica integrata in un sorso rigoroso, ampio e articolato Sintesi: lungo, giovanile, convincente finale Châpeau",Tapulòn,46,3,15,Acciaio 6 mesi e Legno 12 mesi
+Pietro Cassina,Lessona Septem 2011,,Nebbiolo 100%,"Delicato e luminoso colore granato, al naso porge complessità e maturità con cenni fruttati di sottobosco, fiori essiccati, spezie e sfumature balsamiche nobili e intense, tratti rigorosi eppure coinvolgenti Sorso sottile di notevole freschezza che appaga il palato regalando una lunga e sapida persistenza",Pasta e fagioli,75,660,14,Acciaio 5 mesi e Legno 84 mesi
+Pietro Cassina,Coste Della Sesia Nebbiolo Ciuet 2011,,Nebbiolo 100%,,Carni rosse o selvaggina,30,3,13,Acciaio 5 mesi e Legno 56 mesi
+Pietro Cassina,Coste Della Sesia Rosso Ca Dai Tass 2012,,Nebbiolo 100%,,Carni bianche o da cortile,25,8,13,Acciaio 6 mesi e Legno 56 mesi
+Pietro Cassina,Coste Della Sesia Nebbiolo Severina 2016,,Nebbiolo 100%,,Formaggi stagionati o erborinati,15,3,13,Acciaio 12 mesi e Legno 12 mesi
+Castellari Bergaglio,Gavi Del Comune Di Gavi Rovereto 2018,,Cortese 100%,,Primi piatti di pasta o pasta fresca ripiena,16,7,12,Acciaio 12 mesi
+Castellari Bergaglio,Gavi Pilin 2015,,Cortese 100%,,Formaggi stagionati o erborinati,23,4,"13,5",Acciaio 6 mesi e Legno 6 mesi
+Castellari Bergaglio,Gavi Del Comune Di Gavi Rolona 2020,,Cortese 100%,,Piatti di verdure,12,20,"12,5",Acciaio 6 mesi
+Castello Di Castellengo,Coste Della Sesia Rosato Il Rosa 2020,,Nebbiolo 95% – Vespolina 5%  Alc.12%,MIRANDA 2020,,25,2,12,
+Castello Di Verduno,Barolo Monvigliero Riserva 2015,93,Nebbiolo 100%,"Ancora un Monvigliero d'eccezione Ha naso profondo, dall'espressione complessa di frutti, fiori e spezie Alle note di cacao e liquirizia si uniscono toni erbacei e minerali, con rose e viole, anice e noce moscata, infine tanta frutta rossa La bocca è gustosa e morbida, con tannini fitti e lungo finale",Fagiano tartufato,70,2,14,Legno 34 mesi
+Castello Di Verduno,Barolo Massara 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,50,5,14,Legno 32 mesi
+Castello Di Verduno,Verduno Pelaverga Basadone 2020,,Pelaverga piccolo 100%,,Risotti di terra,16,22,"13,5",Acciaio 9 mesi
+Cavallotto,Barolo Bricco Boschis 2017,91,Nebbiolo 100%,"Dal naso impetuoso, fitto e ampio; splendida frutta rossa e scura, spunti vegetali e selvatici, erbe, china, liquirizia, caffè e terra bagnata Tanta energia anche al gusto, folto di sapore e tannini, morbidezza e sapienza Da godere senza fretta",Carrè di agnello al rosmarino,70,20,"14,5",Legno 36 mesi
+Cavallotto,Barolo Vignolo Riserva 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,110,7,"14,5",Legno 60 mesi
+Ceretto,Barbaresco Asili 2018,93,Nebbiolo 100%,"Eccellente è dir poco! E’ un Asili meraviglioso in eleganza e piacevolezza Il naso è fresco e intensamente floreale con note di petali di rosa, gladioli, viola e lavanda; poi erbe e frutta rossa succosa La bocca conferma grazia leggiadria, con gusto pieno, buona acidità e sfumati tannini Dal 2025",Costolette alla Villeroy,155,,14,Legno 24 mesi
+Ceretto,Barbaresco Gallina 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,95,,"14,5",Legno 20 mesi
+Ceretto,Barbaresco Bernadot 2018,,Nebbiolo 100%,,Risotti di terra,90,,"14,5",Legno 20 mesi
+Michele Chiarlo,Barolo Cerequio 2017,92,Nebbiolo 100%,"Cerequio di sostanza, piace per equilibrio e generosità Il naso è profondo, di frutta matura e confetture, mora di gelso e bacche, marasca e fiori passiti La bocca godibile e armoniosa, ha sapore e finezza tannica Un Barolo rassicurante, al meglio dal 2027",Lepre al ginepro,74,6,14,Legno 24 mesi
+Michele Chiarlo,Nizza La Court Riserva 2018,92,Barbera 100%,"Una Barbera estremamente elegante, dal profilo fruttato e minerale Il naso è complesso, con note calde e succose di frutta, di sottobosco, cuoio e tabacco, mora e confetture La bocca conquista per morbidezza e struttura; ha nerbo, freschezza e lunga persistenza Importante ma leggiadro",Stinco di vitello,36,12,14,Legno 12 mesi
+Michele Chiarlo,Barolo Cannubi 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,74,4,14,Legno 24 mesi
+Michele Chiarlo,Barbaresco Asili 2018,,Nebbiolo 100%,,Formaggi stagionati o erborinati,52,4,14,Legno 18 mesi
+Michele Chiarlo,Barbaresco Faset 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,42,3,14,Legno 18 mesi
+Ciabot Berton,Barolo Rocchettevino 2016,,Nebbiolo 100%,"Classico granato Delicata e una bella ed elegante progressione: fiori essiccati, frutta rossa macerata, spezie dolci, ventate balsamiche Colpisce la freschezza, che tiene a bada la struttura e un tannino ancora scalpitante e quasi severo",Carré di agnello al timo,40,4,"14,5",Acciaio 6 mesi e Legno 24 mesi
+Ciabot Berton,Barolo Del Comune Di La Morra 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,27,8,"14,5",Acciaio 6 mesi e Legno 18 mesi
+Ciabot Berton,Barolo Ciabot Berton 1961 2016,,Nebbiolo 100%,,Risotti di terra,35,10,"14,5",Acciaio 6 mesi e Legno 24 mesi
+Ciabot Berton,Barolo Roggeri 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,40,8,"14,5",Acciaio 6 mesi e Legno 24 mesi
+Domenico Clerico,Barolo Ginestra Ciabot Mentin 2017,94,Nebbiolo 100%,"Incarna lo spirito indomito della Ginestra Colore scuro, naso potente, bocca tosta e grintosa I sentori sono sciolti e profondi, densi di frutti scuri e di sottobosco, confetture, erbe, spezie dolci e mentolo, liquirizia e tabacco Al gusto vibra di energia e struttura, esibendo tannini e lunghezza Dal 2030",Filetto di cervo ai mirtilli,75,6,"14,5",Legno 24 mesi
+Domenico Clerico,Barolo Del Comune Di Serralunga,93,Nebbiolo 100%,"Integro e austero, è un '17 di gran classe, copioso in sostanza e massa fruttata Ai sentori di erbe e fiori si intrecciano le note di frutta rossa e scura, via via più dolce e intensa Marcata e decisa è la risposta gustativa, corroborante nei tannini, lunga nella persistenza fruttata Non prima del 2030",Finanziera,86,6,"14,5",Legno 24 mesi
+Domenico Clerico,Barolo Percristina 2011,,Nebbiolo 100%,,Carni rosse o selvaggina,195,3,"14,5",Legno 36 mesi
+Domenico Clerico,Barolo Ginestra Pajana 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,75,4,"14,5",Legno 24 mesi
+Domenico Clerico,Barolo Del Comune Di Monforte 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,24,"14,5",Legno 24 mesi
+Giulio Cocchi,Storico Vermouth Di Torino,,Moscato bianco 100%  Alc.16%,,"Pasticceria secca, torte o cioccolato",18,,16,
+Colle Manora,Monferrato Bianco Mila 2018,,Chardonnay 60% – Viognier 40%,"Dorato luccicante Ampio ventaglio odoroso che richiama papaia, poi melone, banana matura, pompelmo, zafferano, stecca di vaniglia e una dolce sfumatura di torrone a chiudere Palato avvolto da setose morbidezze, stuzzicante sapidità e lunghe e raffinate persistenze",Risotto ai gamberi e zafferano,18,3,"13,5",Acciaio 10 mesi e Legno 10 mesi
+Colle Manora,Monferrato Rosso Barchetta 2018,,Cabernet sauvignon 60% – Merlot 40%,,Risotti di terra,16,8,14,Legno 18 mesi
+Colle Manora,Monferrato Bianco Mimosa 2020,,Sauvignon 100%,,Formaggi freschi o a pasta filata,10,20,"13,5",
+Colle Manora,Barbera Del Monferrato Pais 2020,,Barbera 100%,,Salumi o insaccati,8,20,"13,5",Acciaio 7 mesi
+Colombera & Garella,Bramaterra Cascina Cottignano 2017,92,Nebbiolo 80% – Croatina 10% – Vespolina 10%  Alc.13%,"Granato di impeccabile luminosità, offre un naso ricolmo di frutta, fiori e in particolare di spezie ed erbe officinali perfettamente in armonia Piccoli frutti di bosco, pesca di vigna, assenzio, zenzero, viola e menta Al gusto è sottile, delicato ma continuo nel sapore ricco di sapidità ed equilibrio",Stinco di maiale al forno,32,7,13,Legno 24 mesi
+Colombera & Garella,Coste Della Sesia Rosso Cascina,,Nebbiolo 80% – Croatina 10% – Vespolina 10%,,Formaggi stagionati o erborinati,14,7,"12,5",Acciaio 6 mesi e Legno 6 mesi
+Conterno,Barolo Monfortino Riserva 2015,98,Nebbiolo 100%,"E’ uno dei migliori Monfortino di sempre Il naso è importante, puro, fruttato e  polposo Scioglie note di amarena, lampone, erbe e succo di frutta La bocca nonostante la gioventù è morbida e tesa, fitta di tannini dolci, lunghissima Un capolavoro",Filetto di Fassona con salsa bernese,800,20,"14,5",Legno 56 mesi
+Conterno,Barolo Vigna Francia 2017,96,Nebbiolo 100%,"Francia compatto e austero, dal naso spettacolare e complesso di frutta rossa e piccole spezie tra cui ciliegia e fragola, erbe, bacche e radici Al palato è gustoso, potente, munito di tannini fitti Grande vino",Filetto di cervo,200,20,15,Legno 44 mesi
+Conterno,Barolo Vigna Cerretta 2017,95,Nebbiolo 100%,"Cerretta superbo, dal timbro floreale, folto di note di erbe e rosmarino, bacche e sottobosco, poi tanta frutta rossa, fragole e lampone, ribes e pesca La dolcezza si sente anche al gusto, morbido, perfetto nello sviluppo",Stinco di vitello al forno,200,5,15,Legno 44 mesi
+Conterno,Barolo Vigna Arione 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,200,6,15,Legno 44 mesi
+Cordero Di Montezemolo,Barolo Enrico Vi 2017,94,Nebbiolo 100%,"Granato Dopo un entrée di viola e piccoli frutti rossi, s’insinua la nobiltà olfattiva del Villero, preziosa nelle sfumature speziate (chiodo di garofano) e balsamiche, con nitide note di pesca Al palato è concentrato, potente, guerriero nel tannino, lungo, già pronto a entrare nell’aristocrazia di Langa",Tournedos alla Rossini,75,6,15,Legno 18 mesi
+Cordero Di Montezemolo,Barolo Gattera 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,65,5,"14,5",Legno 19 mesi
+Cordero Di Montezemolo,Langhe Chardonnay Elioro 2019,,Chardonnay 100%,,Piatti di pesce,33,6,13,Legno 9 mesi
+Renato Corino,Barolo Arborina 2017,93,Nebbiolo 100%,"Granato scuro Naso moderno ed eloquente, scintillante di fragola e lampone, raffinato da delicatezze balsamico-mentolate, con lussuose sensazioni di tabacco chiaro e noce moscata Il sorso impressiona per il dinamico equilibrio tra il graffio tannico e la carnosità fruttata Lungo e inappuntabile finale",Filetto di manzo al balsamico,48,1,15,Legno 24 mesi
+Renato Corino,Barolo Roncaglie Stefano Corino 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,52,1,15,Legno 24 mesi
+Giuseppe Cortese,Barbaresco 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,32,10,"14,5",Legno 18 mesi
+Giuseppe Cortese,Langhe Bianco Scapulin 2019,,Chardonnay 100%,,Piatti di pesce,17,8,13,Acciaio 10 mesi e Legno 10 mesi
+Giuseppe Cortese,Langhe Dolcetto 2020,,Dolcetto 100%,,Primi piatti di pasta o pasta fresca ripiena,9,10,"12,5",Acciaio 6 mesi
+Dacapo,Piemonte Pinot Nero Cantacucco 2018,,Pinot nero 100%,,Risotti di terra,22,584,"13,5",Legno 12 mesi
+Giuseppe Ellena,Barolo Ascheri Riserva 2013,,Nebbiolo 100%,,Carni rosse o selvaggina,55,1,"14,5",Legno 40 mesi
+Giuseppe Ellena,Barolo Del Comune Di La Morra 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,27,8,"14,5",Legno 24 mesi
+Giuseppe Ellena,Langhe Nascetta 2019,,Nascetta 100%,,Piatti di pesce,13,3,13,Acciaio 12 mesi
+Giacomo Fenocchio,Barolo Bussia 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,24,"14,5",Acciaio 6 mesi e Legno 30 mesi
+Giacomo Fenocchio,Barolo Cannubi 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,55,2,"14,5",Legno 30 mesi
+Giacomo Fenocchio,Barolo Castellero 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,4,"14,5",Legno 30 mesi
+Ferro,Nizza La Corazziera 2018,,Barbera 100%,,Carni rosse o selvaggina,21,2,"15,5",Acciaio 6 mesi e Legno 15 mesi
+Fontanabianca,Barbaresco Serraboella 2018,,Nebbiolo 100%,"Bel granato L'impatto è ferrigno, sottoboschivo, poi si fa via via più speziato e balsamico Una sensazione di piccole bacche in alcol viene e va in un profilo olfattivo cangiante Notevole estrazione strutturale, con gran rilievo tannico E non manca una gastronomica sapidità in coda",Cappone al cognac,35,2,14,Legno 14 mesi
+Fontanabianca,Barbaresco 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,25,30,14,Legno 6 mesi
+Fontanabianca,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,16,10,14,Legno 6 mesi
+Forteto Della Luja,Loazzolo Piasa Rischei 2018,92,Moscato bianco 100%,"Tonalità giallo dorato brillante Profilo olfattivo aromatico di altissimo livello: agrumi freschi, albicocca essiccata, miele di acacia, dattero, frutta secca tostata, caramello e crema pasticcera L'assaggio è sontuoso e impeccabilmente equilibrato, fresco, sapido e cremoso Avvolgente",Roquefort,35,2,11,Legno 12 mesi
+Forteto Della Luja,Monferrato Rosso Le Grive 2019,,Barbera 70% – Pinot nero 30%,,Primi piatti di pasta o pasta fresca ripiena,16,15,"14,5",Legno 9 mesi
+Mauro Franchino,Gattinara 2017,,Nebbiolo 100%,"Granato intenso, in primo piano un classico susseguirsi di spezie, erbe officinali e suggestioni balsamiche ed ematiche segnate dal timbro ferroso, tipico suggello del territorio, sentori forti e personali Stesso registro in bocca, volume e densità con tannino pieno e persistenza giocata sul finale di frutta sottospirito",Lepre in civet,26,9,14,Legno 48 mesi
+Mauro Franchino,Gattinara Riserva 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,35,2,14,Legno 48 mesi
+Mario Gagliasso,Langhe Chardonnay Utinot 2018,,Chardonnay 100%,,Piatti di pesce,10,3,"13,5",Legno 10 mesi
+Mario Gagliasso,Langhe Nebbiolo Ciabot Russ 2018,,Nebbiolo 100%,,Risotti di terra,15,6,"14,5",Legno 12 mesi
+Garesio,Nizza Riserva 2017,,Barbera 100%,"Colore rubino impenetrabile Olfatto intenso e densamente fruttato Esprime ricordi di marasca, prugna, confettura di gelsi, iris, viola, liquirizia, cannella, pepe ed eucalipto Il sorso è fresco, equilibrato e molto gustoso La sottile trama tannica accompagna il persistente finale fruttato",Pancia di maialino da latte al forno,27,1,"14,5",Legno 24 mesi
+Garesio,Nizza Gavelli 2018,,Barbera 100%,,Salumi o insaccati,20,10,"14,5",Legno 16 mesi
+Garesio,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Carni bianche o da cortile,16,6,14,Legno 12 mesi
+Gaudio - Bricco Mondalino,Grignolino Del Monferrato Casalese,,Grignolino 100%,,Salumi o insaccati,12,20,"13,5",Acciaio 3 mesi
+Gaudio - Bricco Mondalino,Barbera Del Monferrato Superiore 2018,,Barbera 90% – Freisa 10%,,Primi piatti di pasta o pasta fresca ripiena,12,38,"14,5",Acciaio 6 mesi e Legno 6 mesi
+Gaudio - Bricco Mondalino,Monferrato Chiaretto Ciaret 2020,,Barbera 85% – Syrah 15%,,Carni bianche o da cortile,9,4,14,Acciaio 4 mesi
+Bruno Giacometto,Erbaluce Di Caluso Autoctono 2019,92,Erbaluce 100%,"Lucente giallo paglierino con riflessi oro, rivela un bouquet impostato sulla dolcezza del frutto maturo, pompelmo, pera e susina gialla e fiori gialli tra cui ginestra e margherita Al palato è compiuto, si distende tra la piacevole freschezza e la stuzzicante sapidità Persistenza lunga e appagante",Sformato di verdure,13,7,"12,5",Acciaio 6 mesi
+Bruno Giacometto,Canavese Rosato Metodo Classico 2019,,Nebbiolo 50% – Barbera 20% – Neretto di Bairo 20% – altre varietà 10%,,Salumi o insaccati,18,1,"12,5",Acciaio 6 mesi | 12 mesi sui lieviti
+Bruno Giacometto,Erbaluce Di Caluso Spumante Brut 2012,,Erbaluce 100%,,"Crostacei, molluschi o crudità",18,4,13,Acciaio 6 mesi | 36 mesi sui lieviti
+Bruno Giacometto,Canavese Rosso 2019,,Nebbiolo 30% – Neretto di Bairo 20% – Barbera 15% – Freisa 15% – altre varietà 20%,,,7,,"13,5",
+Carlo Giacosa,Barbaresco Asili 2018,94,Nebbiolo 100%,"Eccolo, il nuovo campione: cromia granato chiaro, profumi di squisita tradizione nebbiolesca (lampone macerato, soffi balsamici, chiodo di garofano, antichi legni, viola) e un palato di metronomica sostanza tannica, succoso, molto persistente, già in splendido equilibrio Averne",Polpette di cervo al timo,80,1,"14,5",Acciaio e Legno 30 mesi
+Carlo Giacosa,Barbaresco Montefico 2018,,Nebbiolo 100%,,Risotti di terra,47,7,"14,5",Acciaio e Legno 30 mesi
+Carlo Giacosa,Barbaresco Luca Riserva 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,60,2,"14,5",Acciaio e Legno 40 mesi
+Carlo Giacosa,Langhe Nebbiolo Maria Grazia 2019,,Nebbiolo 100%,,Carni bianche o da cortile,25,4,14,Acciaio e Legno 12 mesi
+Carlo Giacosa,Langhe Pinot Nero 2019,,Pinot nero 100%,,Primi piatti di pasta o pasta fresca ripiena,40,3,13,Acciaio e Legno 12 mesi
+Gillardi,Barolo 2017,,Nebbiolo 100%,"Granato Esordisce con un nobile allungo floreale di rosa e violetta in pastiglia Bacche rosse, macerate, emergono, timide, da un affresco speziato Dettaglio e precisione gustativa assoluta, un Barolo affilato, dai tannini efficaci, equilibrato, con un lungo congedo di spezie dolci e balsamici aghi di pino",Tasca di vitello ripiena,38,4,14,Legno 36 mesi
+Gillardi,Langhe Rosso Harys 2019,,Syrah 100%,,Carni rosse o selvaggina,40,2,"14,5",Legno 18 mesi
+Gillardi,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Carni rosse o selvaggina,17,10,"13,5",Legno 18 mesi
+Gillardi,Dogliani Maestra 2020,,Dolcetto 100%,,Primi piatti di pasta o pasta fresca ripiena,9,18,14,Acciaio 10 mesi
+Giuseppe Mascarello  E Figlio,Barolo Monprivato 2016,96,Nebbiolo 100%,"Grande freschezza e intensità Il naso abbraccia le classiche note che han reso celebre questo cru: radici, foglie secche, rosa, violetta poi fragolina, ribes, melograno Brillante anche la bocca, copiosa ma snella Splendido",Stinco di vitello al forno,180,20,15,Legno 34 mesi
+Giuseppe Mascarello  E Figlio,Barolo Villero 2016,95,Nebbiolo 100%,"Un Villero che si nota Il timbro è classico, ma quest'anno si spinge oltre Il naso è scintillante, fresco di note di fiori e frutti, spezie e sottobosco La bocca è grande: morbida, dolce, equilibrata in tutto Un vino per appassionati",Rolata di vitello con porcini,80,2,"14,5",Legno 34 mesi
+Sergio Gozzelino,Monferrato Nebbiolo Superiore San,,Nebbiolo 100%,,Carni rosse o selvaggina,16,4,14,Acciaio 6 mesi e Legno 12 mesi
+Silvio Grasso,Barolo Bricco Manzoni 2017,,Nebbiolo 100%,"Granato scuro e compatto Racconta di china, tabacco, chiodi di garofano Con i minuti si fa più accogliente, dolce di piccoli frutti macerati e leggiadri soffi balsamici Fresco e gustosamente sapido, soave ma di ricca sostanza Trama tannica fitta e giovane: promette grande piacevolezza negli anni a venire",Brasato di capocollo,60,3,14,Legno 24 mesi
+Silvio Grasso,Barolo Annunziata Vigna Plicotti 2017,,Nebbiolo 100%,,Risotti di terra,55,3,14,Legno 24 mesi
+Silvio Grasso,Barolo 2017,,Nebbiolo 100%,,Risotti di terra,35,15,14,Legno 24 mesi
+Fratelli Grimaldi  Ca' Du Sindic,Alta Langa Brut 2017,,Pinot nero 100%,,Piatti di pesce,30,5,"12,5",
+Fratelli Grimaldi  Ca' Du Sindic,Langhe Chardonnay 2020,,Chardonnay 100%,,Piatti di verdure,15,3,"13,5",
+Fratelli Grimaldi  Ca' Du Sindic,Ventuno Brut 2019,,Chardonnay 55% – Pinot nero 45%,,"Crostacei, molluschi o crudità",18,8,"12,5",
+Hilberg - Pasquero,Vareij 2020,,Brachetto 75% – Barbera 25%,,Piatti di pesce,18,4,"13,5",Acciaio 12 mesi
+Icardi,Barolo Serra Riserva 2015,,Nebbiolo 100%,"Manto rosso granato scuro Sfoggia un bouquet ampio e balsamico con ricordi di violette appassite, confettura di more e mirtilli, erbe officinali, caffè, cacao, legni, menta e liquirizia Il sorso è caldo, molto ricco e coinvolgente Chiude su lungo finale balsamico, densamente tannico e molto sapido",Guancia di vitello brasata,110,2,"14,5",Legno 60 mesi
+Icardi,Barolo Fossati 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,80,4,"14,5",Legno 36 mesi
+Icardi,Barbaresco Starderi 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,55,5,"14,5",Legno 24 mesi
+Icardi,Barbaresco Mountubert 2017,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,35,16,14,Legno 24 mesi
+Icardi,Piemonte Bianco Pafoj 2020,,Sauvignon 55% – Chardonnay 40% – Cortese 5%,,Piatti di pesce,18,5,14,
+Il Poggio,Gavi Del Comune Di Gavi Rovereto,,Cortese 100%,,Risotti di pesce,14,19,"12,5",Acciaio 6 mesi
+Il Poggio,Gavi Nuvole Sul Poggio 2020,,Cortese 100%,,Piatti di pesce,10,6,"12,5",Acciaio 6 mesi
+Il Poggio,Monferrato Rosso Sbircio 2016,,Merlot 90% – Cabernet franc 10%,,Primi piatti di pasta o pasta fresca ripiena,20,1,"13,5",Acciaio 24 mesi e Legno 12 mesi
+Isolabella Della Croce,Nizza Augusta 2017,,Barbera 100%,,Carni rosse o selvaggina,25,9,15,Legno 24 mesi
+Isolabella Della Croce,Piemonte Pinot Nero Bricco Del Falco 2017,,Pinot nero 100%,,Risotti di terra,30,1,14,Legno 24 mesi
+Isolabella Della Croce,Piemonte Sauvignon 2020,,Sauvignon 100%,,Piatti di pesce,15,7,"13,5",
+La Colombera,Colli Tortonesi Barbera Monleale 2019,,Barbera 100%,,Primi piatti di pasta o pasta fresca ripiena,16,5,"14,5",Acciaio 2 mesi e Legno 12 mesi
+La Colombera,Colli Tortonesi Barbera Elisa 2018,,Barbera 100%,,Carni bianche o da cortile,25,6,15,Acciaio 2 mesi e Legno 12 mesi
+La Colombera,Colli Tortonesi Cortese Bricco,,Cortese 100%,,Piatti di verdure,9,12,13,Acciaio 6 mesi
+La Colombera,Colli Tortonesi Croatina La Romba 2020,,Croatina 100%,,Salumi o insaccati,15,7,15,Acciaio 9 mesi
+La Ghibellina,Gavi Del Comune Di Gavi Mainin 2020,,Cortese 100%,"Paglierino luminoso Quadro olfattivo che evidenzia il fiore di tarassaco e di camomilla, a seguire sfumature di pompelmo, buccia di limone, ananas, per chiudere con erbe aromatiche come la salvia e il basilico Palato teso e vibrante nell'esaltare tanta citrina freschezza e piacevolezza di beva",Acciughe fritte,12,45,"12,5",Acciaio 4 mesi
+La Ghibellina,Gavi Del Comune Di Gavi Altius 2019,,Cortese 100%,,Formaggi freschi o a pasta filata,18,6,12,Acciaio 8 mesi
+La Ghibellina,Piemonte Barbera Nero Del Montone 2017,,Barbera 100%,,Carni rosse o selvaggina,16,2,15,Legno 18 mesi
+La Giustiniana,Gavi Del Comune Di Gavi Montessora 2020,,Cortese 100%,"Paglierino luminoso Corredo odoroso che parte con profumi di ananas, buccia di limone, pesca nettarina, gelso, fieno, cui segue il floreale di una pergola di glicine, biancospino e ancora il mazzetto di erbe aromatiche Impatto gustativo di gran freschezza, sapidità quasi salmastra e struttura importante",Totani e calamari in pastella,16,30,14,Acciaio 6 mesi
+La Giustiniana,Gavi Del Comune Di Gavi Lugarara 2020,,Cortese 100%,,Piatti di pesce,12,90,13,Acciaio 4 mesi
+La Mesma,Gavi La Mesma Brut 2015,,Cortese 100%,,"Crostacei, molluschi o crudità",26,6,13,Acciaio 8 mesi | 57 mesi sui lieviti
+La Mesma,Gavi Le Rose 2020,,Cortese 100%,,Piatti di verdure,8,6,"12,5",Acciaio 5 mesi
+La Palazzina,Bramaterra 2017,,Nebbiolo 70% – Croatina 20% – Vespolina 8% – Uva rara 2%,,Risotti di terra,25,1,13,Legno 24 mesi
+La Palazzina,Coste Della Sesia Rosso Vecchi Vigneti 2017,,Nebbiolo 50% – Croatina 40% – Vespolina 10%  Alc.13%,,Formaggi stagionati o erborinati,20,966,13,Legno 18 mesi
+La Raia,Gavi La Raia 2020,,Cortese 100%,,Piatti di verdure,13,150,"12,5",Acciaio 6 mesi
+La Spinetta,Barbaresco Vigneto Starderi 2018,95,Nebbiolo 100%,"Granato Tra i Barbaresco, il più ""rivettiano"": cenni vegetali, poi fragola, variegati balsamici, viola, delicate spezie, punteggiatura d'erbe aromatiche In bocca dà il meglio, con una progressione solenne in cui tannini e succosità si spalleggiano in equilibrio dinamico, che non sembra finire mai",Rotolo di agnello allo Stilton,130,6,"14,5",Legno 19 mesi
+La Spinetta,Barbaresco Vigneto Gallina 2018,,Nebbiolo 100%,,Risotti di terra,130,6,"14,5",Legno 18 mesi
+Le Piane,Boca 2017,96,Nebbiolo 85% – Vespolina 15%,"Luminoso e intrigante granato, il riflesso rubino rimanda a fresche suggestioni fruttate di lampone e ribes, ma la vera nobiltà olfattiva si svela richiamando sbuffi agrumati di arancia e bergamotto e balsamici di erbe aromatiche e officinali, con finale ematico e minerale Bocca pacata, con calma e grazia dona lunga e sapida persistenza aromatica legata a un finissimo tannino",Quaglie allo spiedo,62,13,14,Legno 46 mesi
+Le Piane,Mimmo 2018,,Nebbiolo 70% – Croatina 25% – Vespolina 5%,,Carni rosse o selvaggina,24,16,"13,5",Legno 22 mesi
+Le Piane,Piane 2018,,Croatina 95% – Vespolina 5%,,Formaggi stagionati o erborinati,35,8,14,Legno 12 mesi
+Le Piane,Bianko 2020,,Erbaluce 100%,,Risotti di pesce,20,8,14,Legno 8 mesi
+Le Piane,Maggiorina 2020,,14 varietà autoctone bianche e rosse 100%,,Piatti di verdure,18,30,13,Acciaio 10 mesi
+Ugo Lequio,Barbaresco Gallina Riserva 2016,,Nebbiolo 100%,"Granato Intriga con un pot-pourri di piccoli frutti maturi che poi derivano verso la mora; leggiadre presenze balsamiche, d'erbe aromatiche e viola, dolce corteggio speziato La massa tannica è imponente, una scorta a cui attingere per il futuro sostegno di un sorso potente, da giudicare nel tempo",Gulasch di camoscio al ginepro,45,3,"14,5",Legno 24 mesi
+Ugo Lequio,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Carni bianche o da cortile,17,6,14,Legno 7 mesi
+Pico Maccario,Nizza Tre Roveri 2019,,Barbera 100%,"Rubino profondo Eleganti profumi floreali fanno da incipit all'intrigante successione olfattiva: rosa appassita, mora di gelso, mirtillo in confettura, cuoio e tabacco Il profilo fresco e sapido ben accompagna la morbidezza, integrato a meraviglia da un lieve tannino appena accennato Distensivo",Arista di maiale al forno,17,8,"14,5",Acciaio 6 mesi e Legno 12 mesi
+Malvirà,Roero Vigna Mombeltramo Riserva 2017,93,Nebbiolo 100%,"Ricco abito rosso granato Gioca con eleganza tra note scure e austere e altre più fresche e dolci Il finale racconta di passeggiata nel bosco, con aghi di pino, humus e ventate balsamiche L'assaggio è caldo, con un tannino ancora vibrante, sapidità territoriale, ricca struttura e grande persistenza",Petto d’anatra ai fichi,31,7,"14,5",Legno 30 mesi
+Malvirà,Roero Vigna Renesio Riserva 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,31,11,14,Legno 30 mesi
+Malvirà,Roero Arneis Vigna Saglietto Riserva 2019,,Arneis 100%,,Carni bianche o da cortile,20,6,13,Acciaio 12 mesi e Legno 12 mesi
+Marcalberto,Alta Langa Extra Brut,91,Pinot nero 70% –  Chardonnay 30%,"Luminoso colore giallo paglierino con sfumature dorate, punteggiato da un perlage fine e molto abbondante Profilo olfattivo complesso con riconoscimenti di pan brioches, coriandolo, ginestra, ananas, cedro, pompelmo, miele, anice stellato, gesso e vaniglia Sorso brioso, rinfrescante e cremoso Lascia dietro di sé una lunga scia sapida che invoglia alla beva",Gamberoni in pasta kataifi,27,1,"12,5",Acciaio 7 mesi e Legno 7 mesi | 36 mesi sui lieviti
+Marcalberto,Marcalberto Asti Metodo Classico 2019,,Moscato bianco 100%,,Dolci al cucchiaio o a base di frutta,23,3,6,
+Marcalberto,Marcalberto Nature,,Pinot nero 100%,,Piatti di pesce,34,4,12,Legno 7 mesi | 30 mesi sui lieviti
+Marchesi Alfieri,Terre Alfieri Nebbiolo Costa Quaglia 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,18,4,"14,5",Legno 12 mesi
+Marchesi Alfieri,Marchesi Alfieri Brut Blanc De Noir 2017,,Pinot nero 100%,,Piatti di pesce,26,4,"12,5",
+Marchesi Alfieri,Piemonte Grignolino Sansoero 2020,,Grignolino 100%,,Formaggi freschi o a pasta filata,10,4,"13,5",Acciaio 6 mesi
+Marchesi Alfieri,Monferrato Rosso Sostegno 2019,,Barbera 70% – Pinot nero 30%,,Risotti di terra,9,8,"14,5",Acciaio 6 mesi
+Marchesi Di Grésy -  Tenute Cisa Asinari,Barbaresco Camp Gros,97,Nebbiolo 100%,"Granato Il suo è un universo olfattivo aristocratico che gira intorno a profumi di gelatina di piccoli frutti, austero nel profilo speziato e tostato di legni preziosi, marezzato da raffinati inserti balsamici Sorso imperiale, di maestosa progressione tannica; finale infinito, rigoroso ma sempre succoso",Lombo di capriolo al ginepro,100,7,"14,5",Legno 28 mesi
+Marchesi Di Grésy -  Tenute Cisa Asinari,Barbaresco Gaiun Martinenga 2017,93,Nebbiolo 100%,,,80,8,14,Legno 28 mesi
+Marsaglia,Roero Arneis Armonia 2019,,Arneis 100%,"Ricco giallo paglierino Naso subito fresco, minerale e balsamico; seguono erbe aromatiche, fiori gialli, tanta frutta (pompelmo, ananas, mela golden) La bocca è ricca e ancora in fase di definizione: colpiscono la bella freschezza e la grande sapidità Saporito e buono ora, può solo crescere nel tempo",Rombo al forno con patate,15,3,"13,5",Legno 6 mesi
+Marsaglia,Langhe Rosso Complotto 2017,,Nebbiolo 40% – Barbera 30% – Syrah 30%,,Carni rosse o selvaggina,16,4,"14,5",Legno 12 mesi
+Marsaglia,Roero Arneis Serramiana 2020,,Arneis 100%,,Piatti di pesce,13,45,"13,5",Acciaio 6 mesi
+Bartolo Mascarello,Barolo 2017,96,Nebbiolo 100%,"Granato tipico, è un Barolo di eccellente misura, dal naso sciolto ed espressivo di frutta rossa, fiori e spezie fini L'avvio è di noce moscata e torrefazione, poi fiori passiti, agrumi, arancia sanguinella per poi assestarsi su note di ciliegia e confetture, bacche e foglie secche La bocca è dolce ed equilibrata, armoniosa nei tannini dolci, lunga e fruttata in chiusura",Finanziera,120,17,"14,5",Legno 30 mesi
+Mazzoni,Ghemme Ai Livelli 2016,,Nebbiolo 100%,"Ricco di colore, trasparente granato Spettro olfattivo di grande complessità, i primi riconoscimenti sono floreali di viola e garofano, incalzano i profumi fruttati e balsamici che ricordano ciliegie, anice, felce, pepe e delicate tostature Il sorso è ricco di soddisfazione, già equilibrato ma proiettato nel tempo Finale fruttato",Sella di maialino,35,1,14,Legno 36 mesi
+Mazzoni,Colline Novaresi Nebbiolo Del,,Nebbiolo 100%,,Carni bianche o da cortile,13,6,"13,5",Acciaio 12 mesi e Legno 12 mesi
+Mazzoni,Colline Novaresi Vespolina Il Ricetto 2020,,Vespolina 100%,,Primi piatti di pasta o pasta fresca ripiena,13,2,13,Acciaio 6 mesi
+Mazzoni,Iris 2020,,Erbaluce 100%,,Piatti di pesce,12,1,13,Acciaio 6 mesi
+Merenda Con Corvi,Bel Ami 2018,,Pinot nero 100%,"Rubino luminoso dai riflessi granato Sono piccole bacche di ribes rosso a introdurre un profilo fatto di freschi richiami vegetali punteggiati da dolci spezie e increspature pepate Il sorso è snello, di ammirevole equilibrio, dalla garbata acidità e dal delicato finale di fragolina di bosco",Petto d'anatra alle spezie,30,600,"13,5",Legno 18 mesi
+Merenda Con Corvi,Senza Nome 2018,,Merlot 100%,,Formaggi stagionati o erborinati,27,1,14,Legno 11 mesi
+Merenda Con Corvi,Pinerolese Rosso 2020,,Nebbiolo 100%,,Risotti di terra,11,800,14,
+Merenda Con Corvi,Merenda Con Corvi 2019,,Barbera 90% – Merlot 5% – Nebbiolo 5%,,Salumi o insaccati,16,900,"14,5",Legno 11 mesi
+Merenda Con Corvi,Pinerolese Barbera Foravia 2019,,Barbera 100%,,Piatti di verdure,10,1,14,Acciaio 6 mesi
+Mirù,Ghemme Riserva Vigna Cavenago 2015,,Nebbiolo 85% – Vespolina 15%,"Rosso granato, bellissima progressione olfattiva articolata su sentori di spezie balsamiche, cenni minerali e salmastri, liquirizia, radici, eucalipto e tabacco dolce, confetture di piccoli frutti rossi che si completano in una bella florealità Al gusto è delicato, decisamente sapido e di corroborante freschezza con tannino di ottima trama",Tagliata di manzo alle erbe fini,30,3,13,Legno 48 mesi
+Mirù,Ghemme Vigna Cavenago 2011,,Nebbiolo 85% – Vespolina 15%,,Carni rosse o selvaggina,25,3,"12,5",Legno 36 mesi
+Mirù,Ghemme 2017,,Nebbiolo 100%,,Risotti di terra,23,5,"13,5",Legno 24 mesi
+Mirù,Colline Novaresi Nebbiolo N50 2017,,Nebbiolo 100%,,Carni bianche o da cortile,16,5,13,Legno 6 mesi
+Mirù,Colline Novaresi Bianco Piriet 2019,,Erbaluce 100%,,Piatti di verdure,11,5,"12,5",Acciaio 6 mesi
+Mauro Molino,Barolo Conca 2017,,Nebbiolo 100%,"Granato Nebbioleggia sereno e virtuoso, liberando atemporali profumi di viola secca e fragolina arricchiti da sensazioni balsamiche, in un contesto leggiadro, fascinoso, mai severo La struttura gustativa s'impone per massa fruttata e vigore tannico, con persistenza appena amarognola",Capriolo ai mirtilli,95,3,"14,5",Legno 18 mesi
+Mauro Molino,Barolo 2017,,Nebbiolo 100%,,Risotti di terra,40,45,"14,5",Legno 18 mesi
+Mauro Molino,Barolo Bricco Luciani 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,52,4,14,Legno 18 mesi
+Mauro Molino,Barolo Gallinotto 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,48,9,"14,5",Legno 18 mesi
+Mongioia,Meramentae Extra Brut 2017,,Moscato bianco 100%,,Piatti di pesce,32,,"12,5",Acciaio 2 mesi | 30 mesi sui lieviti
+Mongioia,Leonhard 2020,,Moscato bianco 100%,,Formaggi freschi o a pasta filata,17,,"12,5",Acciaio 6 mesi
+Mongioia,Rex Magis Moscato Spumante Dolce,,Moscato bianco 100%,,Dolci al cucchiaio o a base di frutta,13,,7,
+Monti,Barolo Bussia 2017,,Nebbiolo 100%,"Granato L'iniziale imprinting fruttato è temperato da sensazioni speziate (chiodo di garofano) e tostate (tabacco, cioccolato), con freschezze di menta Il cru si sente nella profondità dell'estratto, in particolare nella sostanza tannica Lungo finale in cui ritornano note di elevazione",Agnello al curry,55,2,15,Acciaio 3 mesi e Legno 30 mesi
+Monti,Barolo Bricco San Pietro 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,51,1,"14,5",Legno 36 mesi
+Angelo Negro E Figli,Roero Ciabot San Giorgio Riserva 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,24,6,14,Legno 24 mesi
+Angelo Negro E Figli,Roero Arneis Perdaudin Riserva 2019,,Arneis 100%,,Risotti di pesce,16,20,13,Acciaio 7 mesi
+Lorenzo Negro,Roero Arneis 2020,,Arneis 100%,,"Zuppe, minestre o vellutate",9,8,13,Acciaio 6 mesi
+Lorenzo Negro,Roero Prachiosso 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,12,2,14,Legno 12 mesi
+Lorenzo Negro,Langhe Rosso Arbesca 2017,,Albarossa 100%,,Carni rosse o selvaggina,12,2,"14,5",Legno 18 mesi
+Noah,Bramaterra 2017,,Nebbiolo 80% – Croatina 10% – Vespolina 10%  Alc.14%,,Primi piatti di pasta o pasta fresca ripiena,30,3,14,Legno 20 mesi
+Noah,Coste Della Sesia Rosso Della Mesola 2019,,"Nebbiolo 70% – Croatina 20% – Vespolina 10%  Alc.13,5%",,Risotti di terra,20,4,"13,5",Legno 12 mesi
+Figli Di Luigi Oddero,Barolo Rocche Rivera 2017,93,Nebbiolo 100%,"Granato luminoso, esemplare espressione fruttata, floreale e speziata Un vino nitido che evidenzia confettura di lampone, ciliegia, noce moscata, menta e liquirizia Al sorso è sorprendente per equilibrio, freschezza, insistente sapidità e una perfetta evoluzione tannica Appagante e persistente",Filetto di cervo ai mirtilli,97,4,"14,5",Legno 24 mesi
+Figli Di Luigi Oddero,Barolo Vigna Rionda 2015,91,Nebbiolo 100%,"Granato, inizialmente chiuso nella proposta olfattiva che lentamente rivela sfumature di confetture balsamiche, arancia amara e radice di liquirizia che si completano in fragranze floreali di violetta Autorevole al sapore per struttura e importante tannino che dialoga con un'ottima freschezza",Piccione ripieno,140,3,"14,5",Legno 36 mesi
+Figli Di Luigi Oddero,Barbaresco Rombone 2018,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,49,9,"14,5",Legno 18 mesi
+Figli Di Luigi Oddero,Barolo 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,67,20,"14,5",Legno 24 mesi
+Ottosoldi,Gavi Ottosoldi 2020,,Cortese 100%,"Paglierino brillante Richiami olfattivi floreali di ginestra, azalea, rosa canina, seguiti da polpose susine, pesche di vigna, bergamotto, melone bianco e il mazzetto di erbe aromatiche Bocca caratterizzata da fresche sensazioni citrine, stuzzicante sapidità e una certa morbidezza a dare coerenza",Risotto al Gavi con asparagi,14,40,"12,5",Legno 3 mesi
+Paitin,Barbaresco Basarin 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,39,2,14,Legno 20 mesi
+Paitin,Barbaresco Serraboella 2018,,Nebbiolo 100%,,Carni bianche o da cortile,40,10,14,Legno 24 mesi
+Parusso,Barolo Bussia Etichetta Oro Riserva 2012,,Nebbiolo 100%,,Carni rosse o selvaggina,170,1,"14,5",Legno 24 mesi
+Magda Pedrini,Gavi Del Comune Di Gavi Magda 2020,,Cortese 100%,"Paglierino cristallino Profilo olfattivo che richiama l'ananas, pera Williams, pesca gialla, poi ancora ginestre, fiori di tarassaco, tiglio e la selce umida In bocca mostra sostanza e il morbido e la parte fresco-sapida si pongono in millimetrico equilibrio Lunga e gradevole la persistenza",Tonno di coniglio,15,15,13,Acciaio 6 mesi
+Magda Pedrini,Gavi Del Comune Di Gavi Ad Lunam 2020,,Cortese 100%,,Piatti di pesce,12,15,"12,5",Acciaio 3 mesi
+Pelissero,Barbaresco Vanotu Riserva 2010,95,Nebbiolo 100%,"Non poteva deludere la Bottiglia celebrativa del 60°anniversario della cantina E’ un Vanotu di gran classe, ricco e fruttato, profondo nelle note di bacche, mora e mirtillo, tabacco, cuoio e dolci nuance di legno di sandalo Vigorosa è anche la bocca, colma, decisa, lunga di sapore Dal 2025",Costata di manzo alla brace,257,1,"14,5",Legno 48 mesi
+Pelissero,Barbaresco Vanotu 2018,92,Nebbiolo 100%,"Tanta frutta in questo '18 Profondo e concentrato, è un naso denso di frutti scuri e bacche, tra cui mora, susina e pesca poi confetture e succo di ciliegia La bocca risponde al meglio con energia e struttura, tannini molti e maturi e lunga e dolce persistenza Dal 2028",Cosciotto di agnello,65,,15,Legno 24 mesi
+Pescaja,Monferrato Rosso Solis 2018,,Barbera 70% – Cabernet sauvignon 30%,,Carni rosse o selvaggina,20,2,"14,5",Legno 18 mesi
+Pescaja,Terre Alfieri Arneis Sololuna 2019,,Arneis 100%,,Piatti di pesce,20,4,14,Legno 12 mesi
+Pescaja,Roero Arneis 2020,,Arneis 100%,,Piatti di pesce,15,40,13,
+Pira,Barolo Vignarionda 2017,94,Nebbiolo 100%,"Il Vignarionda dei Pira si conferma un purosangue, dal naso integro e austero, ottima concentrazione e bocca importante Il piglio è classico con profumi tipici di forte espressione, con rosa, violetta, ciliegia, confetture e liquirizia in evidenza Al gusto è autorevole, perfetto nello sviluppo e nei tannini",Pluma iberica alla brace,67,4,"14,5",Legno 12 mesi
+Pira,Barolo Marenca 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,51,9,"14,5",Legno 12 mesi
+Pira,Barolo Margheria 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,44,7,"14,5",Legno 24 mesi
+Platinetti,Ghemme Vigna Ronco Maso 2017,91,Nebbiolo 100%,"Rosso granato vivace, profilo olfattivo intenso e complesso caratterizzato da nobili profumi balsamici, menta, erbe officinali, radici, liquirizia, rimandi alla frutta matura e agli agrumi tra cui spicca l'arancia sanguinella Il sorso è piacevole e saporito, equilibrato, tannino moderato con slancio in freschezza e sapidità che ne allunga la persistenza",Bocconcini di manzo con cipolle,25,4,"13,5",Legno 36 mesi
+Platinetti,Colline Novaresi Rosso Guido 2020,,Nebbiolo 40% – Barbera 20% – Vespolina 20% – Croatina 10% – Uva rara 10%,,Piatti di verdure,8,1,"12,5",Acciaio 6 mesi e Legno 18 mesi
+Platinetti,Colline Novaresi Vespolina 2020,,Vespolina 100%,,Primi piatti di pasta o pasta fresca ripiena,10,1,14,Acciaio 6 mesi
+Platinetti,Colline Novaresi Nebbiolo 2019,,Nebbiolo 100%,,Formaggi stagionati o erborinati,12,8,"13,5",Acciaio 6 mesi e Legno 6 mesi
+Podere Rocche Dei Manzoni,Valentino Brut Elena 2018,,Chardonnay 70% – Pinot nero 30%,,Salumi o insaccati,25,50,"12,5",Legno 8 mesi | 48 mesi sui lieviti
+Podere Rocche Dei Manzoni,Langhe Rosso Bricco Manzoni 2015,,Nebbiolo 80% – Barbera 20%,,Formaggi stagionati o erborinati,35,20,"14,5",Legno 30 mesi
+Podere Rocche Dei Manzoni,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,45,25,"14,5",Legno 30 mesi
+Poderi Aldo Conterno,Barolo Bussia Romirasco 2017,96,Nebbiolo 100%,"Austero e importante, ha un grande naso Si presenta fruttato, succoso di ciliegia e fragola, lampone, erbe e confetture Il tono è puro, fresco e di impatto, con bocca di gran struttura e tannini tosti ma maturi Un vero purosangue",Costata di manzo alla brace,180,6,"14,5",Legno 30 mesi
+Poderi Aldo Conterno,Barolo Bussia Cicala 2017,95,Nebbiolo 100%,"Erbe di montagna, bacche, paglia, tanta frutta, amarena, ribes, melograno: è un Cicala di forte intensità, denso, succoso e avvolgente Copiosa anche la bocca, esuberante nella struttura e tosta nel tannino Tanta roba",Stinco di vitello,110,6,"14,5",Legno 28 mesi
+Poderi Aldo Conterno,Barolo Bussia Colonnello 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,110,5,"14,5",Legno 28 mesi
+Ezio Poggio,Colli Tortonesi Terre Di Libarna,,Timorasso 100%,"Paglierino Da vigne in quota, rappresenta il lato più sottile ed elegante del timorasso, giocato su toni floreali, di ribes bianco maturo, con tocchi mediterranei d'erbe aromatiche e sentori di selce scaldata dal sole Al palato è fresco, non privo di pienezza, sapido sempre Un gusto che dura",Pennette al salmone,14,12,13,Acciaio 8 mesi
+Ezio Poggio,Colli Tortonesi Terre Di Libarna,,Timorasso 100%,,Piatti di pesce,18,8,"13,5",Acciaio 12 mesi
+Maurizio Ponchione,Gundin 2018,,Arneis 100%,,Formaggi stagionati o erborinati,35,800,"12,5",Legno 10 mesi
+Guido Porro,Barolo Vigna Rionda 2017,94,Nebbiolo 100%,"Granato acquerellato e trasparente, naso affascinante e avvolgente di fiori essiccati e nobili speziature balsamiche, noce moscata, cannella e zenzero con uno sbuffo di legno di sandalo, confetture di ribes e mora Vino di profondità e purezza, al sorso rivela un'eccellente bevibilità, perfetto equilibrio con setosi tannini e piacevole sapidità Nobile persistenza",Quaglie allo spiedo,70,3,"14,5",Legno 36 mesi
+Guido Porro,Barolo Vigna Lazzairasco 2017,93,Nebbiolo 100%,"Granato luminoso e preciso, piglio olfattivo decisamente complesso e articolato su frutta matura, erbe alpine e spezie In evidenza confettura di marasca e more, ciliegie in composta con cannella e chiodi di garofano Bocca solida e piacevole dotata di tannini morbidi e rassicuranti Lunga persistenza",Sottofiletto in crosta,30,10,"14,5",Legno 36 mesi
+Guido Porro,Barolo Gianetto 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,30,6,"14,5",Legno 36 mesi
+Guido Porro,Barolo Vigna Santa Caterina 2017,,Nebbiolo 100%,,Carni bianche o da cortile,30,6,"14,5",Legno 36 mesi
+Guido Porro,Langhe Nebbiolo Camilu 2020,,Nebbiolo 100%,,Risotti di terra,12,8,"14,5",
+Giuseppe Principiano,Barolo Boscareto 2016,,Nebbiolo 100%,"Granato classico di notevole intensità cromatica Naso complesso in costante evoluzione: fragolina di bosco, confettura di frutti rossi, bastoncino di liquirizia, chiodo di garofano e cacao amaro si susseguono amabilmente Il tannino è ben integrato, mai spigoloso",Sorso bilanciato,33,1,"14,5",Acciaio 6 mesi e Legno 24 mesi
+Giuseppe Principiano,Barolo 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,27,3,"14,5",Acciaio 6 mesi e Legno 24 mesi
+Proprietà Sperino,Lessona 2016,96,Nebbiolo 100%,"Granato con bagliori rubino, spettro olfattivo ampio, dalle sfumature tipiche, quasi mediterranee di agrume, erbe aromatiche e officinali, alla delicata mineralità e al frutto maturo di confetture di mora e lampone Al sorso colpisce per delicatezza pur rivendicando struttura e persistenza, equilibrio e finissimo tannino completano il carattere",Faraona alla cacciatora,60,8,14,Legno 36 mesi
+Proprietà Sperino,Coste Della Sesia Rosso Uvaggio 2018,,Nebbiolo 80% – Vespolina 15% – Croatina 5%  Alc.13%,,Primi piatti di pasta o pasta fresca ripiena,30,,13,Legno 20 mesi
+Punset,Barbaresco Basarin Riserva 2016,92,Nebbiolo 100%,"Classico rosso granato Naso fresco e integro in cui emergono frutta croccante, viola e peonia, humus e aghi di pino, sbuffi balsamici, spezie esotiche e pungenti, pietra e grafite L'assaggio lo vede ricco, succoso, appagante; il tannino è presente ma di squisita eleganza Grande persistenza e tanto sapore",Cosciotto di agnello arrosto alla menta,32,10,14,Legno 36 mesi
+Punset,Barbaresco San Cristoforo Campo,,Nebbiolo 100%,,Carni rosse o selvaggina,42,4,14,Legno 42 mesi
+Punset,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Risotti di terra,18,6,14,Legno 3 mesi
+Punset,Langhe Arneis 2020,,Arneis 100%,,Piatti di pesce,14,7,13,Acciaio 9 mesi
+Rattalino,Barolo 92 Monvigliero 2016,,Nebbiolo 100%,"Invitante rosso granato Dolce e accogliente, si esprime fresco e dinamico su note di spezie chiare, frutta dolce macerata, sottobosco, incenso, grafite, ventate balsamiche Ricco e avvolgente nonostante la struttura, si avvia verso l’equilibrio, mentre freschezza e tannino garantiscono sicura evoluzione",Nodini di vitello all'aceto balsamico,37,2,"14,5",Legno 36 mesi
+Rattalino,Barbaresco 43 Meruzzano 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,33,3,14,Legno 24 mesi
+Rattalino,Barolo 91 Del Comune Di Serralunga 2015,,Nebbiolo 100%,,Carni rosse o selvaggina,30,3,"14,5",Acciaio 12 mesi e Legno 24 mesi
+Rattalino,Barolo 34 2017,,Nebbiolo 100%,,Risotti di terra,28,7,14,Acciaio 12 mesi e Legno 24 mesi
+Ressia,Barbaresco Canova 2018,,Nebbiolo 100%,"Rosso granato intenso L'olfatto è penetrante con profumi che ricordano ciliegia, lampone, mirtilli e ribes, insieme a sensazioni più vegetali e balsamiche, erbe officinali, chiodi di garofano, liquirizia e cuoio Al palato è morbido e corposo con un tannino levigato e buona freschezza",Anatra all'arancia,28,3,14,Acciaio 6 mesi e Legno 30 mesi
+Ressia,Evien 2020,,Moscato bianco 100%,,Piatti di pesce,12,5,14,Acciaio 9 mesi e Legno 9 mesi
+Eraldo Revelli,Dogliani Superiore San Matteo 2019,,Dolcetto 100%,,Primi piatti di pasta o pasta fresca ripiena,16,8,"14,5",Legno 12 mesi
+Eraldo Revelli,Langhe Barbera La Basarisca 2020,,Barbera 90% – Dolcetto 10%,,Risotti di terra,16,3,"14,5",Legno 12 mesi
+Reverdito,Barolo Bricco Cogni 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,55,7,"14,5",Legno 18 mesi
+Rinaldi,Barolo Brunate 2017,95,Nebbiolo 100%,"Non manca il temperamento a questo 2017 Naso ampio e bellissimo: di erbe officinali, radici, resina, liquirizia, poi frutta rossa a iosa, ciliegie e fragole pestate, melograno e ribes La bocca è grande: dolce e morbida, appena tannica, succosa e fruttata nella persistenza Buono davvero",Sella alla Wellington,100,7,14,Legno 36 mesi
+Rinaldi,Barolo Tre Tine 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,100,9,14,Legno 36 mesi
+Silvia Rivella,Barbaresco Montestefano 2018,94,Nebbiolo 100%,"Un Montestefano 2018 leggiadro e molto espressivo con intrecci di frutta rossa e spezie dolci molto eleganti A note torrefatte di caffè e cacao si uniscono effluvi succosi di ciliegia, pesca e carcadè Molto precisa la parte gustativa, proporzionata nella struttura e fine nei tannini Delizioso",Costolette di agnello,90,1,14,Legno 18 mesi
+Silvia Rivella,Barbaresco Fausoni 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,75,1,14,Legno 19 mesi
+Massimo Rivetti,Barbaresco Serraboella Riserva 2016,,Nebbiolo 100%,"Granato Fascinosa articolazione olfattiva: la fragolina macerata è un substrato su cui s'innestano profumi buoni di sottobosco e legni preziosi, noce moscata, erbe officinali d’antica farmacia Un tannino ancora scalpitante inquadra una struttura calda e imponente, d’ottima lunghezza",Camoscio alle amarene,50,4,14,Legno 48 mesi
+Massimo Rivetti,Barbaresco Froi 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,30,3,14,Legno 24 mesi
+Massimo Rivetti,Barbaresco 2018,,Nebbiolo 100%,,Formaggi stagionati o erborinati,25,15,14,Legno 18 mesi
+Rizzi,Barbaresco Rizzi 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,28,13,12,Acciaio 5 mesi e Legno 12 mesi
+Rizzi,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Carni bianche o da cortile,17,16,14,Acciaio 3 mesi e Legno 12 mesi
+Albino Rocca,Barbaresco Angelo 2017,95,Nebbiolo 100%,"Granato fitto Naso di fantastica complessità, che apre orizzonti amplissimi: mora e piccoli frutti macerati, aghi di pino, menta, lavanda, erbe aromatiche, un sottobosco caldo e ferrigno L'imponente struttura tannica non prevarica mai una massa fruttata intatta e d'impressionante persistenza",Filetti di fagiano all'arancia,77,2,"14,5",Legno 23 mesi
+Albino Rocca,Barbaresco Ovello Vigna Loreto 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,45,2,"14,5",Legno 23 mesi
+Albino Rocca,Barbaresco Montersino 2018,,Nebbiolo 100%,,Formaggi stagionati o erborinati,45,2,"14,5",Legno 23 mesi
+Albino Rocca,Barbaresco Ronchi 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,47,8,"14,5",Legno 23 mesi
+Rocche Costamagna,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,29,8,"14,5",Legno 24 mesi
+Rocche Costamagna,Langhe Arneis 2020,,Arneis 100%,,Piatti di pesce,11,12,"13,5",
+Giovanni Rosso,Barolo Cerretta 2017,93,Nebbiolo 100%,"Complesso, naso floreale e fruttato con sottofondo di spezie Agli iniziali sentori di bacche e noce moscata, si fanno largo dolci note di fragola macerata e confetture di gran nitidezza Bocca superba",Lepre farcita,65,8,14,Legno 30 mesi
+Giovanni Rosso,Barolo Del Comune Di Serralunga 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,36,50,14,Legno 26 mesi
+Giovanni Rosso,Etna Bianco Contrada Montedolce 2020,,Carricante 100%,,Carni bianche o da cortile,18,6,"12,5",Acciaio 5 mesi
+Rovellotti,Ghemme Chioso Dei Pomi 2015,92,Nebbiolo 85% – Vespolina 15%,"Granato intenso, di carattere Un Ghemme dotato di intense sfumature balsamiche e speziate di cacao e cannella contrassegnate dalla sottile mineralità ferrosa ed ematica Piccoli frutti in gelatina e confettura di mora Assaggio di grande vitalità ed energia, con tannini esuberanti ma comunque in equilibrio pienamente integrati Persistenza balsamica",Guancia di maiale brasata,28,13,14,Legno 36 mesi
+Rovellotti,Ghemme Costa Del Salmino Riserva 2015,,Nebbiolo 95% – Vespolina 5%,,Carni rosse o selvaggina,32,3,14,Legno 42 mesi
+Rovellotti,Valdenrico 2018,,Erbaluce 100%,,Formaggi stagionati o erborinati,35,3,14,Legno 24 mesi
+Rovellotti,Colline Novaresi Bianco Il Criccone 2020,,Erbaluce 100%,,"Zuppe, minestre o vellutate",15,7,13,
+Sandrone,Barolo Vite Talin 2015,96,Nebbiolo 100%,"Ha un grande naso, folto, carnoso, consistente Note selvatiche su uniscono a sentori di terra bagnata, foglie, erbe; poi il frutto, di amarena e confetture, susina, poi caffè, cuoio e tabacco Importante è anche il gusto, pieno e strutturato, dal tannino maturo e sapore lungo e sapido Un vino spettacolare",Agnello al forno,420,2,"14,5",Legno 48 mesi
+Sandrone,Barolo Aleste 2017,94,Nebbiolo 100%,"Brilla luminoso l'Aleste '17 Ha profumo fruttato di grande espressione, fresco e nitido; emergono note di susina, mora, frutta zuccherata, poi ciliegia e fragola in confettura La bocca ha struttura e pienezza sorretta da freschezza e finissimi tannini Più che eccellente",Stinco di maiale alla senape,110,10,"14,5",Legno 24 mesi
+Sandrone,Barolo Le Vigne 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,95,,"14,5",Legno 24 mesi
+Saracco,Langhe Riesling 2020,,Riesling renano 100%,,Formaggi freschi o a pasta filata,13,3,"13,5",Acciaio 12 mesi
+Scarpa,Barbaresco Tettineive 2018,,Nebbiolo 100%,,Carni rosse o selvaggina,43,10,14,Acciaio 12 mesi e Legno 24 mesi
+Scarpa,Monferrato Rosso Rouchet 2018,,Ruchè 100%,,Formaggi freschi o a pasta filata,22,5,"13,5",Acciaio 12 mesi
+Paolo Scavino,Barolo Monvigliero 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,72,5,14,Legno 20 mesi
+Paolo Scavino,Barolo Cannubi 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,90,3,14,Legno 24 mesi
+Mauro Sebaste,Barolo Cerretta 2017,,Nebbiolo 100%,"Granato scuro Esprime sentori floreali di violetta e rosa rossa, uniti a profumi di mora, lampone, pesca, gelsi, menta, pepe, liquirizia e tabacco dolce L'ingresso in bocca è leggiadro, il tannino è elegante e lascia molto spazio alla freschezza Lascia dietro di sè una lunga persistenza fruttata",Tagliata di wagyu,50,2,14,Legno 36 mesi
+Enrico Serafino,Alta Langa Zero Riserva 2015,,Pinot nero 100%,"Colore paglierino brillante, punteggiato da un perlage finissimo Esala intensi profumi di crosta di pane, piccola pasticceria, fiori bianchi, gelatina di lime, ananas, ribes, miele e note gessose In bocca la cremosità viene contrastata dall'acidità e la lunga persistenza salina invoglia il secondo sorso",Filetto di salmone in crosta,34,15,"12,5",
+Enrico Serafino,Barolo Briccolina 2016,,Nebbiolo 100%,,Carni rosse o selvaggina,132,1,"14,5",Legno 28 mesi
+Enrico Serafino,Alta Langa Brut Oudeis 2017,,"Pinot nero 85% – Chardonnay 15% Alc.12,5%",,Piatti di pesce,21,80,"12,5",
+Sobrero Francesco,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,16,18,14,Acciaio 2 mesi e Legno 12 mesi
+Sobrero Francesco,Alta Langa Extra Brut 2017,,"Chardonnay 85% – Pinot nero 15% Alc.12,5%",,Piatti di pesce,20,4,"12,5",
+Sobrero Francesco,Langhe Bianco Vii 2018,,Chardonnay 100%,,Piatti di pesce,10,6,"12,5",Acciaio 3 mesi
+Sordo Giovanni,Barolo Ravera 2017,,Nebbiolo 100%,"Granato classico Bouquet intenso e complesso, lento ad aprirsi; si rivela con sensazioni fruttate di ciliegia e ribes anche in confettura, contornate da nette note di spezie antiche Il sorso è caratterizzato da lunga e sapida persistenza, tannino misurato e ritorni olfattivi coerenti e appaganti",Stracotto di vitello,37,15,14,Acciaio 6 mesi e Legno 24 mesi
+Sordo Giovanni,Barolo Gabutti 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,37,26,"14,5",Acciaio 6 mesi e Legno 24 mesi
+Sordo Giovanni,Barolo Perno 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,37,33,"14,5",Acciaio 6 mesi e Legno 24 mesi
+Sordo Giovanni,Verduno Pelaverga 2020,,Pelaverga piccolo 100%,,Risotti di terra,17,2,"13,5",Acciaio 4 mesi
+Stroppiana,Barolo Bussia Riserva 2015,,Nebbiolo 100%,"Granato fitto Confettura di lampone e tratti ferrigni dominano il primo naso, che poi s'apre su finezze agrumate e balsamiche, d'abetaia Imponente come si conviene a una riserva, riempie il palato con un tannino roccioso, che dà sostanza tattile e una patina gustativa amarognola al succoso finale",Brasato,55,1,15,Legno 36 mesi
+Stroppiana,Barolo San Giacomo 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,40,2,"14,5",Legno 24 mesi
+Michele Taliano,Barbaresco Montersino Ad Altiora 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,20,3,"14,5",Legno 24 mesi
+Tenuta Cucco,Barolo Cerrati Vigna Cucco Riserva 2015,,Nebbiolo 100%,"Abito di un brillante rosso granato Si propone severo e austero con note terragne, corteccia, china, rabarbaro, spezie scure, confettura di more e mirtilli, erbe aromatiche e freschezze balsamiche","Il sorso è ricco e possente, la freschezza regala equilibrio, il tannino è finissimo, la sapidità dissetante",95,3,"15,5",Legno 36 mesi
+Tenuta Cucco,Barolo Bricco Voghera 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,70,4,15,Legno 24 mesi
+Tenuta Cucco,Barolo Del Comune Di Serralunga 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,55,28,"14,5",Legno 24 mesi
+Tenuta Cucco,Langhe Nebbiolo 2020,,Nebbiolo 100%,,Risotti di terra,22,5,"13,5",Acciaio 8 mesi
+Tenuta La Meridiana,Monferrato Rosso Rivaia 2017,,Nebbiolo 50% – Merlot 35% – Albarossa 10% – Cabernet sauvignon 5%,,Formaggi stagionati o erborinati,19,5,"14,5",Legno 36 mesi
+Tenuta La Meridiana,Piemonte Chardonnay Puntet 2020,,Chardonnay 85% – Cortese 15%,,Piatti di pesce,9,12,"13,5",Acciaio 6 mesi
+Tenuta Montemagno,Tm Brut 36,,Barbera 100%,,"Crostacei, molluschi o crudità",29,3,13,
+Tenuta Santa Caterina,Monferrato Rosso Illegale 2018,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,18,3,15,Legno 12 mesi
+Tenuta Tenaglia,Monferrato Rosso Blu Elixir 2015,,Barbera 34% – Merlot 33% – Syrah 33%,,Carni rosse o selvaggina,50,1,"14,5",Legno 30 mesi
+Tenuta Tenaglia,Barbera Del Monferrato Superiore 1930,,Barbera 100%,,Primi piatti di pasta o pasta fresca ripiena,30,3,"14,5",Legno 12 mesi
+Tenuta Tenaglia,Grignolino Del Monferrato Casalese 2020,,Grignolino 100%,,Carni bianche o da cortile,11,5,14,Acciaio 6 mesi
+Terre Di Sarizzola,Colli Tortonesi Derthona 2019,,Timorasso 100%,,Piatti di pesce,18,4,"13,5",Acciaio 12 mesi
+Terre Di Sarizzola,Colli Tortonesi Favorita Mandorli 2020,,Favorita 100%,,Formaggi freschi o a pasta filata,14,4,"13,5",Acciaio 6 mesi
+Travaglini,Gattinara 2018,,Nebbiolo 100%,,Carni bianche o da cortile,20,180,"13,5",Acciaio 6 mesi e Legno 36 mesi
+Travaglini,Il Sogno 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,55,3,"15,5",Acciaio 4 mesi e Legno 46 mesi
+Travaglini,Gattinara Tre Vigne 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,30,23,"13,5",Acciaio 6 mesi e Legno 46 mesi
+Vajra,Barolo Bricco Delle Viole 2017,95,Nebbiolo 100%,"Granato con intenso riflesso rubino Esordio decisamente fruttato, giocato su ciliegia fresca, fragola macerata, confettura di lampone e ribes, nobili spezie, pepe bianco e noce moscata; abbonda anche la componente floreale con violetta e iris La bocca è ricca, intensa di sapore decisamente equilibrato e finissima nel tannino",Filetto in crosta,85,12,15,Legno 36 mesi
+Vajra,Barolo Coste Di Rose 2017,93,Nebbiolo 100%,,,60,4,14,Legno 30 mesi
+Vajra,Barolo Albe 2017,,Nebbiolo 100%,,Risotti di terra,35,27,"14,5",Legno 30 mesi
+Eraldo Viberti,Barolo Roncaglie 2017,,Nebbiolo 100%,,Formaggi stagionati o erborinati,40,3,15,Legno 18 mesi
+Eraldo Viberti,Barolo 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,25,6,15,Acciaio 6 mesi e Legno 18 mesi
+Luigi Vico,Barolo Del Comune Di Serralunga 2017,,Nebbiolo 100%,,Carni rosse o selvaggina,38,2,"14,5",Legno 24 mesi
+Luigi Vico,Langhe Nebbiolo Ne Bis In Idem 2019,,Nebbiolo 100%,,Formaggi stagionati o erborinati,16,2,"13,5",Legno 8 mesi
+Gian Paolo Viglione Generaj,Roero Arneis Bric Varomaldo 2020,,Arneis 100%,,Piatti di pesce,11,20,13,Acciaio 6 mesi
+Vigne Marina Coppi,Colli Tortonesi Favorita Marine 2019,,Favorita 100%,,Piatti di pesce,22,2,14,Acciaio 9 mesi
+Vigne Marina Coppi,Colli Tortonesi Rosso Lindin 2018,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,22,620,14,Legno 24 mesi
+Vigneti Repetto,Colli Tortonesi Timorasso Derthona,,Timorasso 100%,"Paglierino intenso Dopo un'iniziale impennata floreale, timorasseggia giovane ed elegante con note di propoli, cedro, frutta a pasta gialla, erbe di montagna La mineralità, per ora, emerge soprattutto al palato, fresco, avvolgente, con vibrante finale sapido",Sformato al radicchio con fonduta di Montebore,18,20,"13,5",Acciaio 9 mesi
+Vigneti Repetto,Colli Tortonesi Monleale Barbera,,Barbera 100%,,Carni bianche o da cortile,34,2,"15,5",Legno 18 mesi
+Vigneti Repetto,Colli Tortonesi Timorasso Piccolo,,Timorasso 100%,,Formaggi freschi o a pasta filata,13,10,"12,5",
+Vigneti Repetto,Piemonte Rosato Diagonale 2020,,Barbera 70% – Freisa 30%,,Primi piatti di pasta o pasta fresca ripiena,12,5,14,
+Villa Sparina,Gavi Del Comune Di Gavi,94,Cortese 100%,"Paglierino con bagliori oro Intensi profumi di ananas maturo, pompelmo rosa, mandarino, pera, poi fiore di camomilla, ginestra, fieno essiccato, propoli, frollino al limone e la tipica scia gessosa Il gusto avvolge la bocca di raffinate sensazioni: freschezza, sapidità e persistenze interminabili",Filetto di branzino con salsa di avocado,36,10,13,Acciaio 12 mesi e Legno 8 mesi
+Villa Sparina,Barbera Del Monferrato Superiore,,Barbera 100%,,Carni rosse o selvaggina,36,2,14,Legno 18 mesi
+Villa Sparina,Gavi Del Comune Di Gavi Villa Sparina 2020,,Cortese 100%,,Primi piatti di pasta o pasta fresca ripiena,15,260,"12,5",Acciaio 6 mesi
+Villa Sparina,Villa Sparina Brut Blanc De Blancs,,Cortese 100%,,"Crostacei, molluschi o crudità",22,50,"12,5",
+Villa Sparina,Barbera Del Monferrato 2019,,Barbera 100%,,Carni rosse o selvaggina,15,40,14,Legno 12 mesi
+Viticoltori Rodello,Langhe Pinot Nero La Cundina 2019,,Pinot nero 100%,"Tenue rosso rubino, con riflessi vivaci e luminosi Naso raffinato, definito da fragranti profumi di fiori rossi, ribes, fragolina di bosco, lieve incenso, grafite e pepe bianco Il tannino è vellutato, gradevolmente sostenuto da una scoppiettante spalla fresco sapida Di discreta persistenza",Quaglie al forno,22,2,14,Legno 12 mesi
+Viticoltori Rodello,Langhe Rosso Vaj 2018,,Barbera 80% – Nebbiolo 20%,,Carni rosse o selvaggina,22,3,14,Legno 12 mesi
+Viticoltori Rodello,Langhe Nebbiolo 2019,,Nebbiolo 100%,,Primi piatti di pasta o pasta fresca ripiena,18,7,14,Legno 11 mesi
+Voerzio Martini,Barolo 2017,,Nebbiolo 100%,"Granato integro e compatto Passa da note serie e scure ad altre dolci e fresche, in un lungo e piacevole alternarsi: china, rabarbaro, frutti di bosco e fragoline macerati, mentolo, violetta, sottobosco e aghi di pino Il sorso denota freschezza, un tannino decisamente saporito e una buona persistenza",Filetto ai funghi,45,5,14,Legno 30 mesi
+Voerzio Martini,Colli Tortonesi Timorasso Derthona 2019,,Timorasso 100%,,Risotti di pesce,30,4,14,Acciaio 10 mesi
+Voerzio Martini,Langhe Nebbiolo Ciabot Della Luna 2019,,Nebbiolo 100%,,Risotti di terra,35,6,14,Legno 10 mesi
